@@ -110,16 +110,34 @@ for i in entries(S["Publications"]):
 for e in EXTRA_PUBS:
     pubs.append(dict(e, url=""))
 pubs.sort(key=lambda p: -int(p["y"] or 0))           # stable: keeps the NTNU order inside a year
+def split_pub(p):
+    """Return (full title, authors, venue, doi) from the citation text."""
+    t = p["t"]
+    m = re.search(r"\(\d{4}\)\.?", t)
+    authors = t[:m.start()].strip(" ,:") if m else ""
+    after = t[m.end():].strip(" .") if m else t
+    lt = p["title"]
+    if lt and lt in after:
+        k = after.index(lt) + len(lt)
+        title, venue = after[:k].strip(" ."), after[k:]
+    else:
+        title, _, venue = after.partition(". ")
+    d = re.search(r"doi\.org/(\S+?)\.?(?:\s|$)", t)
+    venue = re.sub(r"\s*doi\.org/\S+", "", venue)
+    venue = re.sub(r"\s*\[Data\]", "", venue).strip(" .,:")
+    return title, authors, venue, (d.group(1) if d else "")
+
 used = set()
 for n, p in enumerate(pubs):
-    s = f'{p["y"]}-{slug(p["title"])}'
+    title, authors, venue, doi = split_pub(p)
+    s = f'{p["y"]}-{slug(title)}'
     while s in used: s += "-2"
     used.add(s)
     cit = fmt(p["t"], p["links"])
-    venue = re.sub(r"\s*doi\.org/\S+", "", p["t"].split(p["title"], 1)[1]).strip(" .") if p["title"] in p["t"] else ""
-    fm = ["---", f'title: {yq(p["title"])}', "collection: publications", f'category: {p["cat"]}',
-          f"permalink: /publication/{s}", f'date: {p["y"]}-01-01', f"order: {n}",
-          f"venue: {yq(venue)}", "excerpt: ''", f"citation: {yq(cit)}"]
+    fm = ["---", f"title: {yq(title)}", "collection: publications", f'category: {p["cat"]}',
+          f"permalink: /publication/{s}", f'date: {p["y"]}-01-01', f'year: {p["y"]}', f"order: {n}",
+          f"authors: {yq(fmt(authors))}", f"venue: {yq(venue)}", f"doi: {yq(doi)}",
+          "excerpt: ''", f"citation: {yq(cit)}"]
     if p["url"]: fm.append(f'paperurl: {yq(p["url"])}')
     fm.append("---")
     body = cit + "\n" + (f'\n[Open publication]({p["url"]})\n' if p["url"] else "")

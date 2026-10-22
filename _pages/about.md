@@ -32,4 +32,4 @@ Recent highlights
 * **2024** – Guest editor of a special issue on UAV icing in *MDPI Drones*.
 * **2021** – SIOS Early Career Researcher Award.
 
-More on my [blog](https://www.ntnu.no/blogger/richard-hann/) and in the [News](/year-archive/) section.
+More on my [blog](https://www.ntnu.no/blogger/richard-hann/).
