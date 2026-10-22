@@ -11,6 +11,7 @@ venue: 'SAE Technical Paper EPRCOMPV302023'
 doi: ''
 excerpt: ''
 citation: 'Walthall, R., David, A., Farell, J., <b>Hann, R.</b>, Johansen, T.A. (2024). <a href="https://www.sae.org/publications/technical-papers/content/eprcompv302023/">Aerospace Developments: Vol. 2</a>. SAE Technical Paper EPRCOMPV302023.'
+citation_plain: 'Walthall, R., David, A., Farell, J., Hann, R., Johansen, T.A. (2024). Aerospace Developments: Vol. 2. SAE Technical Paper EPRCOMPV302023.'
 paperurl: 'https://www.sae.org/publications/technical-papers/content/eprcompv302023/'
 ---
 Walthall, R., David, A., Farell, J., <b>Hann, R.</b>, Johansen, T.A. (2024). <a href="https://www.sae.org/publications/technical-papers/content/eprcompv302023/">Aerospace Developments: Vol. 2</a>. SAE Technical Paper EPRCOMPV302023.

@@ -11,6 +11,7 @@ venue: 'Aerospace, 7(4), 46'
 doi: '10.3390/aerospace7040046'
 excerpt: ''
 citation: '<b>Hann, R.</b>, Hearst, R.J., Sætran, L.R., Bracchi, T. (2020). <a href="https://www.mdpi.com/2226-4310/7/4/46/pdf">Experimental and Numerical Icing Penalties of an S826 Airfoil at Low Reynolds Numbers</a>. Aerospace, 7(4), 46. <span class="pub-doi"><a href="https://doi.org/10.3390/aerospace7040046">doi.org/10.3390/aerospace7040046</a></span>'
+citation_plain: 'Hann, R., Hearst, R.J., Sætran, L.R., Bracchi, T. (2020). Experimental and Numerical Icing Penalties of an S826 Airfoil at Low Reynolds Numbers. Aerospace, 7(4), 46. doi.org/10.3390/aerospace7040046'
 paperurl: 'https://www.mdpi.com/2226-4310/7/4/46/pdf'
 ---
 <b>Hann, R.</b>, Hearst, R.J., Sætran, L.R., Bracchi, T. (2020). <a href="https://www.mdpi.com/2226-4310/7/4/46/pdf">Experimental and Numerical Icing Penalties of an S826 Airfoil at Low Reynolds Numbers</a>. Aerospace, 7(4), 46. <span class="pub-doi"><a href="https://doi.org/10.3390/aerospace7040046">doi.org/10.3390/aerospace7040046</a></span>

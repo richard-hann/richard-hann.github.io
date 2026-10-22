@@ -11,6 +11,7 @@ venue: '20th International Workshop on Atmospheric Icing of Structures (IWAIS)'
 doi: ''
 excerpt: ''
 citation: 'Müller, N.C., <b>Hann, R.</b> (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_M%c3%bcller_IWAIS.pdf">UAV Icing: Comparison of the Influence of Icing on a Rotor in Vertical and Horizontal Flight</a>. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).'
+citation_plain: 'Müller, N.C., Hann, R. (2024). UAV Icing: Comparison of the Influence of Icing on a Rotor in Vertical and Horizontal Flight. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2024_M%c3%bcller_IWAIS.pdf'
 ---
 Müller, N.C., <b>Hann, R.</b> (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_M%c3%bcller_IWAIS.pdf">UAV Icing: Comparison of the Influence of Icing on a Rotor in Vertical and Horizontal Flight</a>. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).

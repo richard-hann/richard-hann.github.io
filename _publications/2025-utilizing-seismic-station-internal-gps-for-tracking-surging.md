@@ -11,6 +11,7 @@ venue: 'Journal of Glaciology, Volume 71'
 doi: '10.1017/jog.2025.30'
 excerpt: ''
 citation: 'Gajek, W., Luckman, A., Harcourt, W., Pearce, D., <b>Hann, R.</b> (2025). <a href="https://doi.org/10.1017/jog.2025.30">Utilizing Seismic Station Internal GPS for Tracking Surging Glacier Sliding Velocity</a>. Journal of Glaciology, Volume 71. <span class="pub-doi"><a href="https://doi.org/10.1017/jog.2025.30">doi.org/10.1017/jog.2025.30</a></span>'
+citation_plain: 'Gajek, W., Luckman, A., Harcourt, W., Pearce, D., Hann, R. (2025). Utilizing Seismic Station Internal GPS for Tracking Surging Glacier Sliding Velocity. Journal of Glaciology, Volume 71. doi.org/10.1017/jog.2025.30'
 paperurl: 'https://doi.org/10.1017/jog.2025.30'
 ---
 Gajek, W., Luckman, A., Harcourt, W., Pearce, D., <b>Hann, R.</b> (2025). <a href="https://doi.org/10.1017/jog.2025.30">Utilizing Seismic Station Internal GPS for Tracking Surging Glacier Sliding Velocity</a>. Journal of Glaciology, Volume 71. <span class="pub-doi"><a href="https://doi.org/10.1017/jog.2025.30">doi.org/10.1017/jog.2025.30</a></span>

@@ -11,6 +11,7 @@ venue: 'Report. UBIQ Aerospace'
 doi: ''
 excerpt: ''
 citation: '<b>Hann, R.</b>, Borup, K.T. (2024). <a href="https://www.ubiqaerospace.com/uav-requirements">Requirements for UAV Operations in Cold Climates and Icing Conditions</a>. Report. UBIQ Aerospace.'
+citation_plain: 'Hann, R., Borup, K.T. (2024). Requirements for UAV Operations in Cold Climates and Icing Conditions. Report. UBIQ Aerospace.'
 paperurl: 'https://www.ubiqaerospace.com/uav-requirements'
 ---
 <b>Hann, R.</b>, Borup, K.T. (2024). <a href="https://www.ubiqaerospace.com/uav-requirements">Requirements for UAV Operations in Cold Climates and Icing Conditions</a>. Report. UBIQ Aerospace.

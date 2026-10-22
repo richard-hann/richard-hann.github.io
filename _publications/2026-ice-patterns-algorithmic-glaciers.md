@@ -11,6 +11,7 @@ venue: 'Artistic result. Polarlit, Volume 3, ISSN: 2704-2103'
 doi: ''
 excerpt: ''
 citation: '<b>Hann, R.</b> (2026). <a href="https://www.ntnu.no/blogger/richard-hann/2026/10/02/ice-patterns-algorithmic-glaciers/">Ice Patterns: Algorithmic Glaciers</a>. Artistic result. Polarlit, Volume 3, ISSN: 2704-2103'
+citation_plain: 'Hann, R. (2026). Ice Patterns: Algorithmic Glaciers. Artistic result. Polarlit, Volume 3, ISSN: 2704-2103'
 paperurl: 'https://www.ntnu.no/blogger/richard-hann/2026/10/02/ice-patterns-algorithmic-glaciers/'
 ---
 <b>Hann, R.</b> (2026). <a href="https://www.ntnu.no/blogger/richard-hann/2026/10/02/ice-patterns-algorithmic-glaciers/">Ice Patterns: Algorithmic Glaciers</a>. Artistic result. Polarlit, Volume 3, ISSN: 2704-2103

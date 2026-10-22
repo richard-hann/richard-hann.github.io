@@ -11,6 +11,7 @@ venue: 'AIAA 2021-2673. AIAA Aviation 2021 Forum'
 doi: '10.2514/6.2021-2673'
 excerpt: ''
 citation: 'Müller, N., <b>Hann, R.</b>, Lutz, T. (2021). <a href="https://folk.ntnu.no/richahan/Publications/2021_Muller_Aviation.pdf">UAV Icing: Numerical Simulation of Propeller Ice Accretion</a>. AIAA 2021-2673. AIAA Aviation 2021 Forum. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2021-2673">doi.org/10.2514/6.2021-2673</a></span>'
+citation_plain: 'Müller, N., Hann, R., Lutz, T. (2021). UAV Icing: Numerical Simulation of Propeller Ice Accretion. AIAA 2021-2673. AIAA Aviation 2021 Forum. doi.org/10.2514/6.2021-2673'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2021_Muller_Aviation.pdf'
 ---
 Müller, N., <b>Hann, R.</b>, Lutz, T. (2021). <a href="https://folk.ntnu.no/richahan/Publications/2021_Muller_Aviation.pdf">UAV Icing: Numerical Simulation of Propeller Ice Accretion</a>. AIAA 2021-2673. AIAA Aviation 2021 Forum. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2021-2673">doi.org/10.2514/6.2021-2673</a></span>

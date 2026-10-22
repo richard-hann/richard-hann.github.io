@@ -11,6 +11,7 @@ venue: 'Water, 13(6), 784. (Hann, R. contribution: drone mapping)'
 doi: '10.3390/w13060784'
 excerpt: ''
 citation: 'Nicu, I.C., Rubensdotter, L., Stalsberg, K., Nau, E. (2021). <a href="https://www.mdpi.com/2073-4441/13/6/784">Coastal Erosion of Arctic Cultural Heritage in Danger: A Case Study from Svalbard, Norway</a>. Water, 13(6), 784. <span class="pub-doi"><a href="https://doi.org/10.3390/w13060784">doi.org/10.3390/w13060784</a></span> (<b>Hann, R.</b> contribution: drone mapping).'
+citation_plain: 'Nicu, I.C., Rubensdotter, L., Stalsberg, K., Nau, E. (2021). Coastal Erosion of Arctic Cultural Heritage in Danger: A Case Study from Svalbard, Norway. Water, 13(6), 784. doi.org/10.3390/w13060784 (Hann, R. contribution: drone mapping).'
 paperurl: 'https://www.mdpi.com/2073-4441/13/6/784'
 ---
 Nicu, I.C., Rubensdotter, L., Stalsberg, K., Nau, E. (2021). <a href="https://www.mdpi.com/2073-4441/13/6/784">Coastal Erosion of Arctic Cultural Heritage in Danger: A Case Study from Svalbard, Norway</a>. Water, 13(6), 784. <span class="pub-doi"><a href="https://doi.org/10.3390/w13060784">doi.org/10.3390/w13060784</a></span> (<b>Hann, R.</b> contribution: drone mapping).

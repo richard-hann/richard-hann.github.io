@@ -11,6 +11,7 @@ venue: 'AIAA 2022-1976. AIAA SciTech Forum'
 doi: '10.2514/6.2022-1976'
 excerpt: ''
 citation: 'Oswald, J.W., Enache, A., <b>Hann, R.</b>, Glabeke, G., Lutz, T. (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Oswald_SciTech_postprint.pdf">UAV Icing: Experimental and Numerical Study of Glaze Ice</a>. AIAA 2022-1976. AIAA SciTech Forum. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-1976">doi.org/10.2514/6.2022-1976</a></span>'
+citation_plain: 'Oswald, J.W., Enache, A., Hann, R., Glabeke, G., Lutz, T. (2022). UAV Icing: Experimental and Numerical Study of Glaze Ice. AIAA 2022-1976. AIAA SciTech Forum. doi.org/10.2514/6.2022-1976'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2022_Oswald_SciTech_postprint.pdf'
 ---
 Oswald, J.W., Enache, A., <b>Hann, R.</b>, Glabeke, G., Lutz, T. (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Oswald_SciTech_postprint.pdf">UAV Icing: Experimental and Numerical Study of Glaze Ice</a>. AIAA 2022-1976. AIAA SciTech Forum. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-1976">doi.org/10.2514/6.2022-1976</a></span>

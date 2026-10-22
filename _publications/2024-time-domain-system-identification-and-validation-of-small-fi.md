@@ -11,6 +11,7 @@ venue: 'AIAA 2024-4653. AIAA Aviation Forum and Ascend'
 doi: '10.2514/6.2024-4653'
 excerpt: ''
 citation: 'Løw-Hansen, B., <b>Hann, R.</b>, Johansen, T.A, Deiler C. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Aviaton_LoewHansen_System%20identification.pdf">Time-Domain System Identification and Validation of Small Fixed-Wing UAV Dynamics</a>. AIAA 2024-4653. AIAA Aviation Forum and Ascend. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2024-4653">doi.org/10.2514/6.2024-4653</a></span>'
+citation_plain: 'Løw-Hansen, B., Hann, R., Johansen, T.A, Deiler C. (2024). Time-Domain System Identification and Validation of Small Fixed-Wing UAV Dynamics. AIAA 2024-4653. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-4653'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2024_Aviaton_LoewHansen_System%20identification.pdf'
 ---
 Løw-Hansen, B., <b>Hann, R.</b>, Johansen, T.A, Deiler C. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Aviaton_LoewHansen_System%20identification.pdf">Time-Domain System Identification and Validation of Small Fixed-Wing UAV Dynamics</a>. AIAA 2024-4653. AIAA Aviation Forum and Ascend. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2024-4653">doi.org/10.2514/6.2024-4653</a></span>

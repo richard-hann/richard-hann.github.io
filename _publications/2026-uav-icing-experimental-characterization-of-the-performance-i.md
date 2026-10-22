@@ -11,6 +11,7 @@ venue: 'Drones, 10(3), 166'
 doi: '10.3390/drones10030166'
 excerpt: ''
 citation: 'Müller, N.C., Villeneuve, E., <b>Hann, R.</b> (2026). <a href="https://doi.org/10.3390/drones10030166">UAV Icing: Experimental Characterization of the Performance Impact of Ice Accretion on a Propeller</a>. Drones, 10(3), 166. <span class="pub-doi"><a href="https://doi.org/10.3390/drones10030166">doi.org/10.3390/drones10030166</a></span>'
+citation_plain: 'Müller, N.C., Villeneuve, E., Hann, R. (2026). UAV Icing: Experimental Characterization of the Performance Impact of Ice Accretion on a Propeller. Drones, 10(3), 166. doi.org/10.3390/drones10030166'
 paperurl: 'https://doi.org/10.3390/drones10030166'
 ---
 Müller, N.C., Villeneuve, E., <b>Hann, R.</b> (2026). <a href="https://doi.org/10.3390/drones10030166">UAV Icing: Experimental Characterization of the Performance Impact of Ice Accretion on a Propeller</a>. Drones, 10(3), 166. <span class="pub-doi"><a href="https://doi.org/10.3390/drones10030166">doi.org/10.3390/drones10030166</a></span>

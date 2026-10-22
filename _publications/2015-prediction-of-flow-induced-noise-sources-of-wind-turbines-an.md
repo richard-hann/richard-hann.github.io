@@ -11,6 +11,7 @@ venue: 'International Journal of Aeroacoustics, 14(5-6), 675-714'
 doi: '10.1260/1475-472X.14.5-6.675'
 excerpt: ''
 citation: 'Lutz, T., Arnold, B., Bekiropoulos, D., Illg, J., Krämer, E., Wolf, A., <b>Hann, R.</b>, Kamruzzaman, M. (2015). <a href="https://doi.org/10.1260/1475-472X.14.5-6.675">Prediction of flow-induced noise sources of wind turbines and application examples</a>. International Journal of Aeroacoustics, 14(5-6), 675-714. <span class="pub-doi"><a href="https://doi.org/10.1260/1475-472X.14.5-6.675">doi.org/10.1260/1475-472X.14.5-6.675</a></span>'
+citation_plain: 'Lutz, T., Arnold, B., Bekiropoulos, D., Illg, J., Krämer, E., Wolf, A., Hann, R., Kamruzzaman, M. (2015). Prediction of flow-induced noise sources of wind turbines and application examples. International Journal of Aeroacoustics, 14(5-6), 675-714. doi.org/10.1260/1475-472X.14.5-6.675'
 paperurl: 'https://doi.org/10.1260/1475-472X.14.5-6.675'
 ---
 Lutz, T., Arnold, B., Bekiropoulos, D., Illg, J., Krämer, E., Wolf, A., <b>Hann, R.</b>, Kamruzzaman, M. (2015). <a href="https://doi.org/10.1260/1475-472X.14.5-6.675">Prediction of flow-induced noise sources of wind turbines and application examples</a>. International Journal of Aeroacoustics, 14(5-6), 675-714. <span class="pub-doi"><a href="https://doi.org/10.1260/1475-472X.14.5-6.675">doi.org/10.1260/1475-472X.14.5-6.675</a></span>

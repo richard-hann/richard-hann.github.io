@@ -11,6 +11,7 @@ venue: '20th International Workshop on Atmospheric Icing of Structures (IWAIS)'
 doi: ''
 excerpt: ''
 citation: '<b>Hann, R.</b>, Borup, K.T. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Hann_IWAIS.pdf">Technical requirements for RPAS operations in cold climates</a>. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).'
+citation_plain: 'Hann, R., Borup, K.T. (2024). Technical requirements for RPAS operations in cold climates. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2024_Hann_IWAIS.pdf'
 ---
 <b>Hann, R.</b>, Borup, K.T. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Hann_IWAIS.pdf">Technical requirements for RPAS operations in cold climates</a>. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).

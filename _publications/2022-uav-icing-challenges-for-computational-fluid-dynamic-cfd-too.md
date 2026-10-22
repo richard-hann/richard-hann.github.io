@@ -11,6 +11,7 @@ venue: 'International Conference on Computational Fluid Dynamics, ICCFD11'
 doi: ''
 excerpt: ''
 citation: '<b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_ICCFD_Hann_CFD%20Gaps.pdf">UAV Icing: Challenges for computational fluid dynamic (CFD) tools</a>. International Conference on Computational Fluid Dynamics, ICCFD11.'
+citation_plain: 'Hann, R. (2022). UAV Icing: Challenges for computational fluid dynamic (CFD) tools. International Conference on Computational Fluid Dynamics, ICCFD11.'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2022_ICCFD_Hann_CFD%20Gaps.pdf'
 ---
 <b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_ICCFD_Hann_CFD%20Gaps.pdf">UAV Icing: Challenges for computational fluid dynamic (CFD) tools</a>. International Conference on Computational Fluid Dynamics, ICCFD11.

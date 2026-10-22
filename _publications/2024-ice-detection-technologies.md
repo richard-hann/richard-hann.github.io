@@ -11,6 +11,7 @@ venue: 'STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Tech
 doi: ''
 excerpt: ''
 citation: 'Deiler, C., Veronesi, F., Raimondo, M., Mora, J., García, P., Frovel, M., Gagnon, B., Browne, T., <b>Hann, R.</b> (2024). <a href="https://doi.org/10.14339/STO-TR-AVT-299">Ice Detection Technologies</a>. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.'
+citation_plain: 'Deiler, C., Veronesi, F., Raimondo, M., Mora, J., García, P., Frovel, M., Gagnon, B., Browne, T., Hann, R. (2024). Ice Detection Technologies. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.'
 paperurl: 'https://doi.org/10.14339/STO-TR-AVT-299'
 ---
 Deiler, C., Veronesi, F., Raimondo, M., Mora, J., García, P., Frovel, M., Gagnon, B., Browne, T., <b>Hann, R.</b> (2024). <a href="https://doi.org/10.14339/STO-TR-AVT-299">Ice Detection Technologies</a>. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.

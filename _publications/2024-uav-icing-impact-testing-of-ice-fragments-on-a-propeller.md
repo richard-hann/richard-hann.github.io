@@ -11,6 +11,7 @@ venue: 'AIAA 2024-4352. AIAA Aviation Forum and Ascend'
 doi: '10.2514/6.2024-4352'
 excerpt: ''
 citation: '<b>Hann, R.</b>, Müller, N.C., Wallisch, J. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Aviation_Hann_Ice%20impact.pdf">UAV Icing: Impact Testing of Ice Fragments on a Propeller</a>. AIAA 2024-4352. AIAA Aviation Forum and Ascend. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2024-4352">doi.org/10.2514/6.2024-4352</a></span>'
+citation_plain: 'Hann, R., Müller, N.C., Wallisch, J. (2024). UAV Icing: Impact Testing of Ice Fragments on a Propeller. AIAA 2024-4352. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-4352'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2024_Aviation_Hann_Ice%20impact.pdf'
 ---
 <b>Hann, R.</b>, Müller, N.C., Wallisch, J. (2024). <a href="https://folk.ntnu.no/richahan/Publications/2024_Aviation_Hann_Ice%20impact.pdf">UAV Icing: Impact Testing of Ice Fragments on a Propeller</a>. AIAA 2024-4352. AIAA Aviation Forum and Ascend. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2024-4352">doi.org/10.2514/6.2024-4352</a></span>

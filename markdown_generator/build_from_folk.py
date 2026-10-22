@@ -137,7 +137,7 @@ for n, p in enumerate(pubs):
     fm = ["---", f"title: {yq(title)}", "collection: publications", f'category: {p["cat"]}',
           f"permalink: /publication/{s}", f'date: {p["y"]}-01-01', f'year: {p["y"]}', f"order: {n}",
           f"authors: {yq(fmt(authors))}", f"venue: {yq(venue)}", f"doi: {yq(doi)}",
-          "excerpt: ''", f"citation: {yq(cit)}"]
+          "excerpt: ''", f"citation: {yq(cit)}", f'citation_plain: {yq(html.escape(p["t"], quote=False))}']
     if p["url"]: fm.append(f'paperurl: {yq(p["url"])}')
     fm.append("---")
     body = cit + "\n" + (f'\n[Open publication]({p["url"]})\n' if p["url"] else "")

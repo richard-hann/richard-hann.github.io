@@ -11,6 +11,7 @@ venue: 'Deutscher Luft- und Raumfahrtkongress (DLRK)'
 doi: '10.25967/610455'
 excerpt: ''
 citation: 'Wurst, L., Wallisch, J., <b>Hann, R.</b> (2023). <a href="https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf">CFD icing simulations on a fixed-wing UAV engine inlet</a>. Deutscher Luft- und Raumfahrtkongress (DLRK). <span class="pub-doi"><a href="https://doi.org/10.25967/610455">doi.org/10.25967/610455</a></span>'
+citation_plain: 'Wurst, L., Wallisch, J., Hann, R. (2023). CFD icing simulations on a fixed-wing UAV engine inlet. Deutscher Luft- und Raumfahrtkongress (DLRK). doi.org/10.25967/610455'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf'
 ---
 Wurst, L., Wallisch, J., <b>Hann, R.</b> (2023). <a href="https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf">CFD icing simulations on a fixed-wing UAV engine inlet</a>. Deutscher Luft- und Raumfahrtkongress (DLRK). <span class="pub-doi"><a href="https://doi.org/10.25967/610455">doi.org/10.25967/610455</a></span>

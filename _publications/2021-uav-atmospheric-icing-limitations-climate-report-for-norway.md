@@ -11,6 +11,7 @@ venue: 'Report. UBIQ Aerospace'
 doi: ''
 excerpt: ''
 citation: 'Sørensen, K.L., Borup, K.T., <b>Hann, R.</b>, Bernstein, B., Hansbø, M. (2021). <a href="https://www.ubiqaerospace.com/climate-report">UAV Atmospheric Icing Limitations: Climate Report for Norway and Surrounding Regions</a>. Report. UBIQ Aerospace.'
+citation_plain: 'Sørensen, K.L., Borup, K.T., Hann, R., Bernstein, B., Hansbø, M. (2021). UAV Atmospheric Icing Limitations: Climate Report for Norway and Surrounding Regions. Report. UBIQ Aerospace.'
 paperurl: 'https://www.ubiqaerospace.com/climate-report'
 ---
 Sørensen, K.L., Borup, K.T., <b>Hann, R.</b>, Bernstein, B., Hansbø, M. (2021). <a href="https://www.ubiqaerospace.com/climate-report">UAV Atmospheric Icing Limitations: Climate Report for Norway and Surrounding Regions</a>. Report. UBIQ Aerospace.

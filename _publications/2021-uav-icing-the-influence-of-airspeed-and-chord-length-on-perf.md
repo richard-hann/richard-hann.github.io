@@ -11,6 +11,7 @@ venue: 'Aircraft Engineering and Aerospace Technology, Vol. 93, No. 5'
 doi: '10.1108/AEAT-06-2020-0127'
 excerpt: ''
 citation: '<b>Hann, R.</b>, Johansen, T.A. (2021). <a href="https://folk.ntnu.no/richahan/Publications/2021_AEAT_UAV%20Icing_postprint.pdf">UAV icing: the influence of airspeed and chord length on performance degradation</a>. Aircraft Engineering and Aerospace Technology, Vol. 93, No. 5. <span class="pub-doi"><a href="https://doi.org/10.1108/AEAT-06-2020-0127">doi.org/10.1108/AEAT-06-2020-0127</a></span>'
+citation_plain: 'Hann, R., Johansen, T.A. (2021). UAV icing: the influence of airspeed and chord length on performance degradation. Aircraft Engineering and Aerospace Technology, Vol. 93, No. 5. doi.org/10.1108/AEAT-06-2020-0127'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2021_AEAT_UAV%20Icing_postprint.pdf'
 ---
 <b>Hann, R.</b>, Johansen, T.A. (2021). <a href="https://folk.ntnu.no/richahan/Publications/2021_AEAT_UAV%20Icing_postprint.pdf">UAV icing: the influence of airspeed and chord length on performance degradation</a>. Aircraft Engineering and Aerospace Technology, Vol. 93, No. 5. <span class="pub-doi"><a href="https://doi.org/10.1108/AEAT-06-2020-0127">doi.org/10.1108/AEAT-06-2020-0127</a></span>

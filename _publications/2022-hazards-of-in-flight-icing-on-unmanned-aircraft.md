@@ -11,6 +11,7 @@ venue: 'Conference paper. SCI-328 Symposium on ‘Flight Testing of Unmanned Aer
 doi: ''
 excerpt: ''
 citation: '<b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_SCI-328_Icing%20Hazards%20on%20UAS.pdf">Hazards of In-flight Icing on Unmanned Aircraft</a>. Conference paper. SCI-328 Symposium on ‘Flight Testing of Unmanned Aerial Systems (UAS)’.'
+citation_plain: 'Hann, R. (2022). Hazards of In-flight Icing on Unmanned Aircraft. Conference paper. SCI-328 Symposium on ‘Flight Testing of Unmanned Aerial Systems (UAS)’.'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2022_SCI-328_Icing%20Hazards%20on%20UAS.pdf'
 ---
 <b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_SCI-328_Icing%20Hazards%20on%20UAS.pdf">Hazards of In-flight Icing on Unmanned Aircraft</a>. Conference paper. SCI-328 Symposium on ‘Flight Testing of Unmanned Aerial Systems (UAS)’.

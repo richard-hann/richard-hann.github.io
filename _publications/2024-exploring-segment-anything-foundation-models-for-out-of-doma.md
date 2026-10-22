@@ -11,6 +11,7 @@ venue: 'Proceedings of the 6th Northern Lights Deep Learning Conference (NLDL)'
 doi: ''
 excerpt: ''
 citation: 'Wallace, S., Durrant, A., Harcourt, W., <b>Hann, R.</b>, Leontidis, G. (2024). <a href="https://openreview.net/pdf?id=CGkyjTXomz">Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation</a>. Proceedings of the 6th Northern Lights Deep Learning Conference (NLDL).'
+citation_plain: 'Wallace, S., Durrant, A., Harcourt, W., Hann, R., Leontidis, G. (2024). Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation. Proceedings of the 6th Northern Lights Deep Learning Conference (NLDL).'
 paperurl: 'https://openreview.net/pdf?id=CGkyjTXomz'
 ---
 Wallace, S., Durrant, A., Harcourt, W., <b>Hann, R.</b>, Leontidis, G. (2024). <a href="https://openreview.net/pdf?id=CGkyjTXomz">Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation</a>. Proceedings of the 6th Northern Lights Deep Learning Conference (NLDL).

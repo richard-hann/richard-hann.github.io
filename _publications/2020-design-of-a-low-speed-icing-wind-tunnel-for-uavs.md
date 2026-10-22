@@ -11,6 +11,7 @@ venue: 'Deutsche Gesellschaft für Luft- und Raumfahrt'
 doi: '10.25967/530188'
 excerpt: ''
 citation: 'Wallisch, J., <b>Hann, R.</b> (2020). <a href="https://www.dglr.de/publikationen/2020/530188.pdf">Design of a Low-Speed Icing Wind Tunnel for UAVs</a>. Deutsche Gesellschaft für Luft- und Raumfahrt. <span class="pub-doi"><a href="https://doi.org/10.25967/530188">doi.org/10.25967/530188</a></span>'
+citation_plain: 'Wallisch, J., Hann, R. (2020). Design of a Low-Speed Icing Wind Tunnel for UAVs. Deutsche Gesellschaft für Luft- und Raumfahrt. doi.org/10.25967/530188'
 paperurl: 'https://www.dglr.de/publikationen/2020/530188.pdf'
 ---
 Wallisch, J., <b>Hann, R.</b> (2020). <a href="https://www.dglr.de/publikationen/2020/530188.pdf">Design of a Low-Speed Icing Wind Tunnel for UAVs</a>. Deutsche Gesellschaft für Luft- und Raumfahrt. <span class="pub-doi"><a href="https://doi.org/10.25967/530188">doi.org/10.25967/530188</a></span>

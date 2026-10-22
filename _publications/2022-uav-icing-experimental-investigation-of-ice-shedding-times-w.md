@@ -11,6 +11,7 @@ venue: 'AIAA Atmospheric and Space Environments Conference'
 doi: '10.2514/6.2022-3905'
 excerpt: ''
 citation: 'Wallisch, J., <b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Aviation_Wallisch_Ice%20Shedding%20Times.pdf">UAV Icing: Experimental Investigation of Ice Shedding Times with an Electrothermal De-Icing System</a>. AIAA Atmospheric and Space Environments Conference. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-3905">doi.org/10.2514/6.2022-3905</a></span>'
+citation_plain: 'Wallisch, J., Hann, R. (2022). UAV Icing: Experimental Investigation of Ice Shedding Times with an Electrothermal De-Icing System. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3905'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2022_Aviation_Wallisch_Ice%20Shedding%20Times.pdf'
 ---
 Wallisch, J., <b>Hann, R.</b> (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Aviation_Wallisch_Ice%20Shedding%20Times.pdf">UAV Icing: Experimental Investigation of Ice Shedding Times with an Electrothermal De-Icing System</a>. AIAA Atmospheric and Space Environments Conference. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-3905">doi.org/10.2514/6.2022-3905</a></span>

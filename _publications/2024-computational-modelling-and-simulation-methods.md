@@ -11,6 +11,7 @@ venue: 'STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Tech
 doi: ''
 excerpt: ''
 citation: 'Blanchard, G., <b>Hann, R.</b>, Håkonsen, V., Benmeddour, A., Bennani, L., Rouzaud, O. (2024). <a href="https://doi.org/10.14339/STO-TR-AVT-299">Computational Modelling and Simulation Methods</a>. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.'
+citation_plain: 'Blanchard, G., Hann, R., Håkonsen, V., Benmeddour, A., Bennani, L., Rouzaud, O. (2024). Computational Modelling and Simulation Methods. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.'
 paperurl: 'https://doi.org/10.14339/STO-TR-AVT-299'
 ---
 Blanchard, G., <b>Hann, R.</b>, Håkonsen, V., Benmeddour, A., Bennani, L., Rouzaud, O. (2024). <a href="https://doi.org/10.14339/STO-TR-AVT-299">Computational Modelling and Simulation Methods</a>. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.

@@ -11,6 +11,7 @@ venue: 'SESS Report 2025, Svalbard Integrated Arctic Earth Observing System'
 doi: '10.5281/zenodo.17832158'
 excerpt: ''
 citation: '<b>Hann, R.</b>, Bärfuß, K., Betlem, P., Ewertowski, M., Günzel, L., Jonassen, M., Lampert, A., Laska, M., Storvold, R., Sobota, I. (2026). <a href="https://doi.org/10.5281/zenodo.17832158">Third Update to Scientific Applications of Uncrewed Vehicles in Svalbard</a>. SESS Report 2025, Svalbard Integrated Arctic Earth Observing System. <span class="pub-doi"><a href="https://doi.org/10.5281/zenodo.17832158">doi.org/10.5281/zenodo.17832158</a></span>'
+citation_plain: 'Hann, R., Bärfuß, K., Betlem, P., Ewertowski, M., Günzel, L., Jonassen, M., Lampert, A., Laska, M., Storvold, R., Sobota, I. (2026). Third Update to Scientific Applications of Uncrewed Vehicles in Svalbard. SESS Report 2025, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.17832158'
 paperurl: 'https://doi.org/10.5281/zenodo.17832158'
 ---
 <b>Hann, R.</b>, Bärfuß, K., Betlem, P., Ewertowski, M., Günzel, L., Jonassen, M., Lampert, A., Laska, M., Storvold, R., Sobota, I. (2026). <a href="https://doi.org/10.5281/zenodo.17832158">Third Update to Scientific Applications of Uncrewed Vehicles in Svalbard</a>. SESS Report 2025, Svalbard Integrated Arctic Earth Observing System. <span class="pub-doi"><a href="https://doi.org/10.5281/zenodo.17832158">doi.org/10.5281/zenodo.17832158</a></span>

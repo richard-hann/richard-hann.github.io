@@ -1,27 +1,19 @@
-{% comment %} Publication list: title first, details below, "Cite" shows the folk.ntnu.no style citation. {% endcomment %}
+{% comment %} Publication list: title first, then authors · year · venue; "Cite" shows the plain folk.ntnu.no citation. {% endcomment %}
 {% assign _items = include.items | sort: 'order' %}
 {% assign _groups = _items | group_by_exp: "p", "p.date | date: '%Y'" %}
 <div class="pubs">
 {% for g in _groups %}
-  <h2 class="pubs-year">{{ g.name }} <span class="pubs-count">{{ g.items.size }}</span></h2>
+  <h2 class="pubs-year">{{ g.name }}</h2>
   {% for p in g.items %}
-  {% case p.category %}
-    {% when 'manuscripts' %}{% assign _kind = 'Journal' %}
-    {% when 'conferences' %}{% assign _kind = 'Conference' %}
-    {% when 'books' %}{% assign _kind = 'Book chapter' %}
-    {% when 'theses' %}{% assign _kind = 'Thesis' %}
-    {% else %}{% assign _kind = 'Other' %}
-  {% endcase %}
   <article class="pub">
     <h3 class="pub-title">{% if p.paperurl %}<a href="{{ p.paperurl }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</h3>
-    <div class="pub-authors"><span class="pub-yr">{{ p.year }}</span> · {{ p.authors }}</div>
-    <div class="pub-venue"><span class="pub-kind pub-kind-{{ p.category }}">{{ _kind }}</span>{% if p.venue != "" %}<em>{{ p.venue }}</em>{% endif %}</div>
+    <div class="pub-meta">{{ p.authors }} · {{ p.year }}{% if p.venue != "" %} · <em>{{ p.venue }}</em>{% endif %}</div>
     <div class="pub-links">
-      {% if p.doi != "" %}<a class="pub-btn" href="https://doi.org/{{ p.doi }}">DOI {{ p.doi }}</a>{% endif %}
+      {% if p.doi != "" %}<a class="pub-btn" href="https://doi.org/{{ p.doi }}">doi.org/{{ p.doi }}</a>{% endif %}
       {% if p.paperurl and p.paperurl contains '.pdf' %}<a class="pub-btn" href="{{ p.paperurl }}">PDF</a>{% endif %}
       <details class="pub-cite">
         <summary class="pub-btn">Cite</summary>
-        <div class="pub-cite-box"><span class="pub-cite-text">{{ p.citation }}</span>
+        <div class="pub-cite-box"><span class="pub-cite-text">{{ p.citation_plain }}</span>
           <button type="button" class="pub-copy" onclick="var t=this.parentNode.querySelector('.pub-cite-text').innerText; navigator.clipboard.writeText(t); this.textContent='Copied';">Copy</button>
         </div>
       </details>

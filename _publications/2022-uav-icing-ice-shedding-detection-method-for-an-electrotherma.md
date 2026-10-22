@@ -11,6 +11,7 @@ venue: 'AIAA Atmospheric and Space Environments Conference'
 doi: '10.2514/6.2022-3904'
 excerpt: ''
 citation: 'Løw-Hansen, B., <b>Hann, R.</b>, Johansen, T.A. (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Aviation_LoewHansen_Ice_Shedding_Detection.pdf">UAV Icing: Ice Shedding Detection Method for an Electrothermal De-Icing System</a>. AIAA Atmospheric and Space Environments Conference. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-3904">doi.org/10.2514/6.2022-3904</a></span>'
+citation_plain: 'Løw-Hansen, B., Hann, R., Johansen, T.A. (2022). UAV Icing: Ice Shedding Detection Method for an Electrothermal De-Icing System. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3904'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2022_Aviation_LoewHansen_Ice_Shedding_Detection.pdf'
 ---
 Løw-Hansen, B., <b>Hann, R.</b>, Johansen, T.A. (2022). <a href="https://folk.ntnu.no/richahan/Publications/2022_Aviation_LoewHansen_Ice_Shedding_Detection.pdf">UAV Icing: Ice Shedding Detection Method for an Electrothermal De-Icing System</a>. AIAA Atmospheric and Space Environments Conference. <span class="pub-doi"><a href="https://doi.org/10.2514/6.2022-3904">doi.org/10.2514/6.2022-3904</a></span>

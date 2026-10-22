@@ -11,6 +11,7 @@ venue: 'Journal of Aerospace Engineering, Volume 39, Issue 5'
 doi: '10.1061/JAEEEZ.ASENG-6806'
 excerpt: ''
 citation: 'Wallisch, J., Lindner, M., Borup, K.T., <b>Hann, R.</b> (2026). <a href="https://richahan.folk.ntnu.no/Publications/2026_Wallisch_Drag%20Prediction.pdf">UAV Icing at Low Reynolds Numbers: RG-15 Airfoil Drag Increase Prediction Based on Batch-Automated CFD Simulations</a>. Journal of Aerospace Engineering, Volume 39, Issue 5. <span class="pub-doi"><a href="https://doi.org/10.1061/JAEEEZ.ASENG-6806">doi.org/10.1061/JAEEEZ.ASENG-6806</a></span>'
+citation_plain: 'Wallisch, J., Lindner, M., Borup, K.T., Hann, R. (2026). UAV Icing at Low Reynolds Numbers: RG-15 Airfoil Drag Increase Prediction Based on Batch-Automated CFD Simulations. Journal of Aerospace Engineering, Volume 39, Issue 5. doi.org/10.1061/JAEEEZ.ASENG-6806'
 paperurl: 'https://richahan.folk.ntnu.no/Publications/2026_Wallisch_Drag%20Prediction.pdf'
 ---
 Wallisch, J., Lindner, M., Borup, K.T., <b>Hann, R.</b> (2026). <a href="https://richahan.folk.ntnu.no/Publications/2026_Wallisch_Drag%20Prediction.pdf">UAV Icing at Low Reynolds Numbers: RG-15 Airfoil Drag Increase Prediction Based on Batch-Automated CFD Simulations</a>. Journal of Aerospace Engineering, Volume 39, Issue 5. <span class="pub-doi"><a href="https://doi.org/10.1061/JAEEEZ.ASENG-6806">doi.org/10.1061/JAEEEZ.ASENG-6806</a></span>

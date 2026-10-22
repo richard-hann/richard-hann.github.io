@@ -11,6 +11,7 @@ venue: 'SAE International Conference on Icing of Aircraft, Engines, and Structur
 doi: '10.4271/2023-01-1378'
 excerpt: ''
 citation: 'Løw-Hansen, B., Müller, N.C., Coates, E., Johansen, T.A., <b>Hann, R.</b> (2023). <a href="https://folk.ntnu.no/richahan/Publications/2023_LowHansen_SAE_postprint.pdf">Identification of an Electric UAV Propulsion System in Icing Conditions</a>. SAE International Conference on Icing of Aircraft, Engines, and Structures. <span class="pub-doi"><a href="https://doi.org/10.4271/2023-01-1378">doi.org/10.4271/2023-01-1378</a></span>'
+citation_plain: 'Løw-Hansen, B., Müller, N.C., Coates, E., Johansen, T.A., Hann, R. (2023). Identification of an Electric UAV Propulsion System in Icing Conditions. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1378'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2023_LowHansen_SAE_postprint.pdf'
 ---
 Løw-Hansen, B., Müller, N.C., Coates, E., Johansen, T.A., <b>Hann, R.</b> (2023). <a href="https://folk.ntnu.no/richahan/Publications/2023_LowHansen_SAE_postprint.pdf">Identification of an Electric UAV Propulsion System in Icing Conditions</a>. SAE International Conference on Icing of Aircraft, Engines, and Structures. <span class="pub-doi"><a href="https://doi.org/10.4271/2023-01-1378">doi.org/10.4271/2023-01-1378</a></span>

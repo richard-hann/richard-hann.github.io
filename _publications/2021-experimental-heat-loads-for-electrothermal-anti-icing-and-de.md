@@ -11,6 +11,7 @@ venue: 'Aerospace, 8(3), 83'
 doi: '10.3390/aerospace8030083'
 excerpt: ''
 citation: '<b>Hann, R.</b>, Enache, A., Nielsen, M.C., Stovner, B.N., van Beeck, J., Johansen, T.A., Borup, K.T. (2021). <a href="https://www.mdpi.com/2226-4310/8/3/83">Experimental Heat Loads for Electrothermal Anti-Icing and De-Icing on UAVs</a>. Aerospace, 8(3), 83. <span class="pub-doi"><a href="https://doi.org/10.3390/aerospace8030083">doi.org/10.3390/aerospace8030083</a></span>'
+citation_plain: 'Hann, R., Enache, A., Nielsen, M.C., Stovner, B.N., van Beeck, J., Johansen, T.A., Borup, K.T. (2021). Experimental Heat Loads for Electrothermal Anti-Icing and De-Icing on UAVs. Aerospace, 8(3), 83. doi.org/10.3390/aerospace8030083'
 paperurl: 'https://www.mdpi.com/2226-4310/8/3/83'
 ---
 <b>Hann, R.</b>, Enache, A., Nielsen, M.C., Stovner, B.N., van Beeck, J., Johansen, T.A., Borup, K.T. (2021). <a href="https://www.mdpi.com/2226-4310/8/3/83">Experimental Heat Loads for Electrothermal Anti-Icing and De-Icing on UAVs</a>. Aerospace, 8(3), 83. <span class="pub-doi"><a href="https://doi.org/10.3390/aerospace8030083">doi.org/10.3390/aerospace8030083</a></span>
