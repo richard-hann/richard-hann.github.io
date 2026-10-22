@@ -14,8 +14,7 @@ Built with the [Academic Pages](https://github.com/academicpages/academicpages.g
 | Profile photo | `images/profile.png` |
 | Home page / bio | `_pages/about.md` |
 | CV | `_pages/cv.md` |
-| Publications, presentations, datasets, people, funding | edit `markdown_generator/hann_publications.py` (publications, presentations) and `markdown_generator/hann_more.py` (datasets, people, funding, research projects), then run `python3 markdown_generator/build_hann.py` |
-| Teaching | `_teaching/` |
+| Publications, presentations, datasets, people, teaching, funding, research projects | **edit only your page https://richahan.folk.ntnu.no/index.htm** – a GitHub Action (`.github/workflows/sync-folk.yml`) copies it every night, using the Word bookmarks `Publications`, `Presentations`, `Datasets`, `People`, `Teaching`, `Funding`, `Research_projects` (and optionally `Academic_engagement`). Run it at once under *Actions → Sync from folk.ntnu.no → Run workflow*. |
 | News | `_posts/` |
 | Top menu | `_data/navigation.yml` |
 

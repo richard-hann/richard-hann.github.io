@@ -5,7 +5,8 @@ permalink: /datasets/
 author_profile: true
 ---
 
-<p class="pub-summary">Total: {{ site.data.folk.datasets | size }} datasets</p>
+{% assign t = site.data.folk.datasets_title | split: "(" | last | split: ")" | first %}
+<p class="pub-summary">{{ t }}</p>
 
 <ul class="folk-list">
 {% for d in site.data.folk.datasets %}  <li>{{ d }}</li>

@@ -5,14 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% assign pubs = site.publications | sort: 'order' %}
-{% assign n_j = pubs | where: 'category', 'manuscripts' | size %}
-{% assign n_c = pubs | where: 'category', 'conferences' | size %}
-{% assign n_b = pubs | where: 'category', 'books' | size %}
-{% assign n_all = pubs | size %}
-{% assign n_o = n_all | minus: n_j | minus: n_c | minus: n_b %}
-
-<p class="pub-summary">Total: {{ n_all }} / Journal: {{ n_j }} / Conference: {{ n_c }} / Book chapters: {{ n_b }} / Other: {{ n_o }}
-{% if site.author.googlescholar %} · <a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}</p>
+{% assign t = site.data.folk.publications_title | split: "(" | last | split: ")" | first %}
+<p class="pub-summary">{{ t }}{% if site.author.googlescholar %} · <a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}</p>
 
 {% include compact-list.html items=site.publications %}

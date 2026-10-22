@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% for sec in site.data.folk.people %}
-{% assign n = 0 %}{% for g in sec.groups %}{% assign n = n | plus: g.items.size %}{% endfor %}
-<h2 class="folk-h">People – {{ sec.title }} <span class="folk-count">({{ n }})</span></h2>
+<h2 class="folk-h">{{ sec.title }}</h2>
 {% for g in sec.groups %}
 {% if g.name != "" %}<p class="folk-sub">{{ g.name }}</p>{% endif %}
 <ul class="folk-list">

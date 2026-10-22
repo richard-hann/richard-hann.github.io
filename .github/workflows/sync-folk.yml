@@ -1,0 +1,57 @@
+# Daily copy of publications, presentations, datasets, people, teaching and funding
+# from https://richahan.folk.ntnu.no/index.htm (sections are found by their Word bookmarks).
+# Run it by hand under Actions -> "Sync from folk.ntnu.no" -> Run workflow.
+name: Sync from folk.ntnu.no
+
+on:
+  schedule:
+    - cron: "17 4 * * *"          # every day at 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write                 # commit the updated pages
+  actions: write                  # start the Pages deployment afterwards
+
+concurrency:
+  group: folk-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install HTML parser
+        run: npm install --no-save --no-package-lock jsdom@24
+
+      - name: Read the NTNU page
+        run: node scripts/folk_extract.mjs "https://richahan.folk.ntnu.no/index.htm" > "$RUNNER_TEMP/folk.json"
+
+      - name: Rebuild pages
+        run: python3 markdown_generator/build_from_folk.py "$RUNNER_TEMP/folk.json"
+
+      - name: Commit if something changed
+        id: commit
+        run: |
+          git config user.name  "folk-sync bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A _publications _talks _data/folk.yml markdown_generator/folk_snapshot.json
+          if git diff --cached --quiet; then
+            echo "No changes on the NTNU page."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Sync from folk.ntnu.no"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish the site
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run jekyll.yml --ref "${{ github.ref_name }}"

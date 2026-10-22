@@ -7,6 +7,7 @@ redirect_from:
   - /talks/
 ---
 
-<p class="pub-summary">Total: {{ site.talks | size }} presentations</p>
+{% assign t = site.data.folk.presentations_title | split: "(" | last | split: ")" | first %}
+<p class="pub-summary">{{ t }}</p>
 
 {% include compact-list.html items=site.talks %}

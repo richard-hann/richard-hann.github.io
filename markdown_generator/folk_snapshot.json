@@ -1,0 +1,2646 @@
+{
+ "order": [
+  "Publications",
+  "Presentations",
+  "Datasets",
+  "People",
+  "Teaching",
+  "Funding",
+  "Research_projects",
+  "end"
+ ],
+ "sections": {
+  "Publications": {
+   "title": "Publications (Total: 92 / Journal: 25 / Conference: 45 / Book chapters: 1 / Other: 21)",
+   "items": [
+    {
+     "y": "2027",
+     "t": "Wallace, S., Harcourt, W., Hann, R., Durrant, A., Somayajulu, S., Leontidis, G. (2027). CrevasseSeg: A Label-Efficient UAV Crevasse Segmentation Framework. Proceedings of the 10th Northern Lights Deep Learning Conference (NLDL).",
+     "links": [
+      [
+       "CrevasseSeg: A Label-Efficient UAV Crevasse Segmentation Framework",
+       "https://arxiv.org/abs/2608.15790"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R., Bärfuß, K., Betlem, P., Ewertowski, M., Günzel, L., Jonassen, M., Lampert, A., Laska, M., Storvold, R., Sobota, I. (2026). Third Update to Scientific Applications of Uncrewed Vehicles in Svalbard. SESS Report 2025, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.17832158",
+     "links": [
+      [
+       "Third Update to Scientific Applications of Uncrewed Vehicles in Svalbard",
+       "https://doi.org/10.5281/zenodo.17832158"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Benmeddour, A., Kim, K.-H., Blanchard, G., Agüero Bruna, A., Deiler, C., Frövel, M., Gagnon, R., García-Gallego, P., Håkonsen, V., Hawkins, C. J., Martin, B., Mingione, G., Mora-Nogués, J., Niemenmaa, R., Kreeger, E. R., Raimondo, M., Saracoglu, B., Uihlein, T., Van Beeck, J., Veronesi, F., Hann, R. et al. (2026). Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. STO Technical Report TR-AVT-299, NATO Science and Technology Organization. doi.org/10.14339/STO-TR-AVT-299",
+     "links": [
+      [
+       "Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. STO Technical Report TR-AVT-299",
+       "https://publications.sto.nato.int/publications/STO%20Technical%20Reports/STO-TR-AVT-299/TR-AVT-299-ALL.PDF"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Benmeddour, A., Kim, K.-H., Blanchard, G., Agüero Bruna, A., Deiler, C., Frövel, M., Gagnon, R., García-Gallego, P., Håkonsen, V., Hawkins, C. J., Martin, B., Mingione, G., Mora-Nogués, J., Niemenmaa, R., Kreeger, E. R., Raimondo, M., Saracoglu, B., Uihlein, T., Van Beeck, J., Veronesi, F., Hann, R. et al. (2026). Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. STO Technical Report TR-AVT-299 – Executive Summary, NATO Science and Technology Organization. doi.org/10.14339/STO-TR-AVT-299-ES-PDF",
+     "links": [
+      [
+       "Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. STO Technical Report TR-AVT-299 – Executive Summary",
+       "https://publications.sto.nato.int/publications/STO%20Technical%20Reports/STO-TR-AVT-299/TR-AVT-299-ES.PDF"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Harcourt, W. D., Pearce, D. M., Gajek, W., Lovell, H., Mannerfelt, E. S., Kääb, A., Benn, D. I., Luckman, A., Hann, R., Kohler, J., Strozzi, T., McCerery, R., Davies, B. J. (2026). Surging glaciers in Svalbard: Observing their distribution, characteristics and evolution. Earth-Science Reviews, 275, 105410. doi.org/10.1016/j.earscirev.2026.105410",
+     "links": [
+      [
+       "Surging glaciers in Svalbard: Observing their distribution, characteristics and evolution",
+       "https://doi.org/10.1016/j.earscirev.2026.105410"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Müller, N.C., Villeneuve, E., Hann, R. (2026). UAV Icing: Experimental Characterization of the Performance Impact of Ice Accretion on a Propeller. Drones, 10(3), 166. doi.org/10.3390/drones10030166",
+     "links": [
+      [
+       "UAV Icing: Experimental Characterization of the Performance Impact of Ice Accretion on a Propeller",
+       "https://doi.org/10.3390/drones10030166"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). UAV Icing: Operational Risk Management of Icing Conditions for Beyond Visual Line of Sight (BVLOS) Missions. AIAA 2026-4281. AIAA AVIATION 2026 Forum. doi.org/10.2514/6.2026-4281",
+     "links": [
+      [
+       "Operational Risk Management of Icing Conditions for Beyond Visual Line of Sight (BVLOS) Missions",
+       "https://richahan.folk.ntnu.no/Publications/2026_Hann_AIAA_Risk%20Framework.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Müller, N.C., Villeneuve, E., Hann, R. (2026). UAV Icing: Comparison of 2D and 3D Numerical Tools for the Predictions of the Ice Accretion on UAV Propellers. AIAA 2026-4284. AIAA AVIATION 2026 Forum. doi.org/10.2514/6.2026-4284",
+     "links": [
+      [
+       "UAV Icing: Comparison of 2D and 3D Numerical Tools for the Predictions of the Ice Accretion on UAV Propellers",
+       "https://richahan.folk.ntnu.no/Publications/2026_Muller_AIAA_2D%20and%203D%20comparison%20uav%20propellers.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Röß, J., Deck, U., Hann, R. (2026). UAV Icing: Experimental and Numerical Investigation of Aerodynamic Performance Degradation of the RG-15 Airfoil at Low Reynolds Numbers. AIAA 2026-4285. AIAA AVIATION 2026 Forum. doi.org/10.2514/6.2026-4285",
+     "links": [
+      [
+       "UAV Icing: Experimental and Numerical Investigation of Aerodynamic Performance Degradation of the RG-15 Airfoil at Low Reynolds Numbers",
+       "https://richahan.folk.ntnu.no/Publications/2026_Ros_AIAA_Num%20Exp%20RG15%20Low%20Reynolds.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Wallisch, J., Lindner, M., Borup, K.T., Hann, R. (2026). UAV Icing at Low Reynolds Numbers: RG-15 Airfoil Drag Increase Prediction Based on Batch-Automated CFD Simulations. Journal of Aerospace Engineering, Volume 39, Issue 5. doi.org/10.1061/JAEEEZ.ASENG-6806",
+     "links": [
+      [
+       "UAV Icing at Low Reynolds Numbers: RG-15 Airfoil Drag Increase Prediction Based on Batch-Automated CFD Simulations",
+       "https://richahan.folk.ntnu.no/Publications/2026_Wallisch_Drag%20Prediction.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). Ice Patterns: Algorithmic Glaciers. Artistic result. Polarlit, Volume 3, ISSN: 2704-2103",
+     "links": [
+      [
+       "Ice Patterns: Algorithmic Glaciers",
+       "https://www.ntnu.no/blogger/richard-hann/2026/10/02/ice-patterns-algorithmic-glaciers/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Lindner, M., Hann, R. (2026). Low-Reynolds-number ice-shape validation data for icing-CFD codes, with application to FENSAP-ICE. Cold Regions Science and Technology, 253, 105119. doi.org/10.1016/j.coldregions.2026.105119",
+     "links": [
+      [
+       "Low-Reynolds-number ice-shape validation data for icing-CFD codes, with application to FENSAP-ICE",
+       "https://doi.org/10.1016/j.coldregions.2026.105119"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Lockhart, K., Sandino, J., Amarasingam, N., Hann, R., Bollard, B., Gonzalez, F. (2025). Unmanned Aerial Vehicles for Real-Time Vegetation Monitoring in Antarctica: A Review. Remote Sensing. 17(2), 304. doi.org/10.3390/rs17020304",
+     "links": [
+      [
+       "Unmanned Aerial Vehicles for Real-Time Vegetation Monitoring in Antarctica: A Review",
+       "https://doi.org/10.3390/rs17020304"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Harcourt, W.D., Pearce, D.M., Gajek, W., Lovell, H., Luckman, A., Benn, D., Kohler, J., Kääb, A., Hann, R. (2025). Surging glaciers in Svalbard: Current knowledge and perspectives for monitoring. SESS Report 2024, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.14425522",
+     "links": [
+      [
+       "Surging glaciers in Svalbard: Current knowledge and perspectives for monitoring",
+       "https://doi.org/10.5281/zenodo.14425522"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Lindner, M., Hann, R. (2025). UAV Icing: Icing Effects on Control Surfaces. AIAA Aviation Forum. AIAA 2025-3388. doi.org/10.2514/6.2025-3388",
+     "links": [
+      [
+       "UAV Icing: Icing Effects on Control Surfaces",
+       "https://richahan.folk.ntnu.no/Publications/2025_Lindner_AIAA_Control%20surface.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Løw-Hansen, B., Hann, R., Gryte, K., Johansen, T.A., Deiler, C. (2025). Modeling and identification of a small fixed-wing UAV using estimated aerodynamic angles. CEAS Aeronautical Journal, Volume 16, pages 501–523. doi.org/10.1007/s13272-025-00816-3",
+     "links": [
+      [
+       "Modeling and identification of a small fixed-wing UAV using estimated aerodynamic angles",
+       "https://doi.org/10.1007/s13272-025-00816-3"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Gajek, W., Luckman, A., Harcourt, W., Pearce, D., Hann, R. (2025). Utilizing Seismic Station Internal GPS for Tracking Surging Glacier Sliding Velocity. Journal of Glaciology, Volume 71. doi.org/10.1017/jog.2025.30",
+     "links": [
+      [
+       "Utilizing Seismic Station Internal GPS for Tracking Surging Glacier Sliding Velocity",
+       "https://doi.org/10.1017/jog.2025.30"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Frey, M., Müller, N.C., Wallisch, J., Hann, R. (2024). UAV Icing: Experimental Investigation and Numerical CHT Simulations of a Propeller Ice Protection System. AIAA SciTech Forum, AIAA 2024-0871. doi.org/10.2514/6.2024-0871",
+     "links": [
+      [
+       "UAV Icing: Experimental Investigation and Numerical CHT Simulations of a Propeller Ice Protection System",
+       "https://folk.ntnu.no/richahan/Publications/2024_Frey_SciTech_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R., Borup, K.T. (2024). Requirements for UAV Operations in Cold Climates and Icing Conditions. Report. UBIQ Aerospace.",
+     "links": [
+      [
+       "Requirements for UAV Operations in Cold Climates and Icing Conditions",
+       "https://www.ubiqaerospace.com/uav-requirements"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Deiler, C., Veronesi, F., Raimondo, M., Mora, J., García, P., Frovel, M., Gagnon, B., Browne, T., Hann, R. (2024). Ice Detection Technologies. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.",
+     "links": [
+      [
+       "Ice Detection Technologies",
+       "https://doi.org/10.14339/STO-TR-AVT-299"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Veronesi, F., Raimondo, M., Mingione, G., Martin, B., Hann, R., Håkonsen, V., Ki-Han, K., Nogues, J.M., Gagnon, B. (2024). Ice Protection Systems. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.",
+     "links": [
+      [
+       "Ice Protection Systems",
+       "https://doi.org/10.14339/STO-TR-AVT-299"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Blanchard, G., Hann, R., Håkonsen, V., Benmeddour, A., Bennani, L., Rouzaud, O. (2024). Computational Modelling and Simulation Methods. STO Technical Report, AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles.",
+     "links": [
+      [
+       "Computational Modelling and Simulation Methods",
+       "https://doi.org/10.14339/STO-TR-AVT-299"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Müller, N.C., Hann, R. (2024). UAV Icing: Comparison of the Influence of Icing on a Rotor in Vertical and Horizontal Flight. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).",
+     "links": [
+      [
+       "UAV Icing: Comparison of the Influence of Icing on a Rotor in Vertical and Horizontal Flight",
+       "https://folk.ntnu.no/richahan/Publications/2024_M%c3%bcller_IWAIS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R., Borup, K.T. (2024). Technical requirements for RPAS operations in cold climates. 20th International Workshop on Atmospheric Icing of Structures (IWAIS).",
+     "links": [
+      [
+       "Technical requirements for RPAS operations in cold climates",
+       "https://folk.ntnu.no/richahan/Publications/2024_Hann_IWAIS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R., Müller, N.C., Wallisch, J. (2024). UAV Icing: Impact Testing of Ice Fragments on a Propeller. AIAA 2024-4352. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-4352",
+     "links": [
+      [
+       "UAV Icing: Impact Testing of Ice Fragments on a Propeller",
+       "https://folk.ntnu.no/richahan/Publications/2024_Aviation_Hann_Ice%20impact.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Müller, N.C., Hann, R. (2024). UAV Icing: Validation of an Ice Protection System Design for a Propeller. AIAA 2024-3568. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-3568",
+     "links": [
+      [
+       "UAV Icing: Validation of an Ice Protection System Design for a Propeller",
+       "https://folk.ntnu.no/richahan/Publications/2024_Aviation_M%c3%bcller_Propeller%20IPS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Løw-Hansen, B., Hann, R., Johansen, T.A, Deiler C. (2024). Time-Domain System Identification and Validation of Small Fixed-Wing UAV Dynamics. AIAA 2024-4653. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-4653",
+     "links": [
+      [
+       "Time-Domain System Identification and Validation of Small Fixed-Wing UAV Dynamics",
+       "https://folk.ntnu.no/richahan/Publications/2024_Aviaton_LoewHansen_System%20identification.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Lindner, M., Hann, R. (2024). UAV Icing: Comparison of Simulated 3D and 2D Ice Accretion on Wings. AIAA 2024-4451. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-4451",
+     "links": [
+      [
+       "UAV Icing: Comparison of Simulated 3D and 2D Ice Accretion on Wings",
+       "https://folk.ntnu.no/richahan/Publications/2024_Aviation_Lindner_2D3D%20Wings.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Laurendeau, E., Blanchet, M., Zayni, M.K., Hann, R., Radenac, E., Mussa I, Pueyo A. (2024). Summary From the 2nd AIAA Ice Prediction Workshop. AIAA 2024-3604. AIAA Aviation Forum and Ascend. doi.org/10.2514/6.2024-3604",
+     "links": [
+      [
+       "Summary From the 2nd AIAA Ice Prediction Workshop",
+       "https://doi.org/10.2514/6.2024-3604"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Walthall, R., David, A., Farell, J., Hann, R., Johansen, T.A. (2024). Aerospace Developments: Vol. 2. SAE Technical Paper EPRCOMPV302023.",
+     "links": [
+      [
+       "Aerospace Developments: Vol. 2",
+       "https://www.sae.org/publications/technical-papers/content/eprcompv302023/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Wallace, S., Durrant, A., Harcourt, W., Hann, R., Leontidis, G. (2024). Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation. Proceedings of the 6th Northern Lights Deep Learning Conference (NLDL).",
+     "links": [
+      [
+       "Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation",
+       "https://openreview.net/pdf?id=CGkyjTXomz"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R. (Ed.) (2024). 2nd International UAV Icing Workshop: Book of Abstracts. UAV Icing Workshop, Trondheim, Norway. doi.org/10.5281/zenodo.14274740",
+     "links": [
+      [
+       "2nd International UAV Icing Workshop: Book of Abstracts",
+       "https://doi.org/10.5281/zenodo.14274740"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Wallisch, J., Lindner, M., Petersen, Ø.W., Neunaber, I., Bracchi, T., Hearst, R.J., Hann, R. (2024). UAV Icing: Aerodynamic Degradation Caused by Intercycle and Runback Ice Shapes on an RG-15 Airfoil. Drones, 8(12), 775. doi.org/10.3390/drones8120775",
+     "links": [
+      [
+       "UAV Icing: Aerodynamic Degradation Caused by Intercycle and Runback Ice Shapes on an RG-15 Airfoil",
+       "https://doi.org/10.3390/drones8120775"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Borup, K.T., Hann, R., Sørensen, K.L., Bernstein, B., Pellicano, P. (2024). Icing Impact on UAS and AAM Operations in Selected US Metropolitan Areas. Report. UBIQ Aerospace.",
+     "links": [
+      [
+       "Icing Impact on UAS and AAM Operations in Selected US Metropolitan Areas",
+       "https://www.ubiqaerospace.com/_files/ugd/e4f50c_4e80048e633d4daab95a0c09a14f44e3.pdf?index=true"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Paulsen, I.M.G., Pedersen, Å.Ø., Hann, R., Blanchet, M.-A., Eischeid, I., Van Hazendonk, C., Ravolainen, V.T., Stien, A., Le Moullec, M. (2023). How Many Reindeer? UAV Surveys as an Alternative to Helicopter or Ground Surveys for Estimating Population Abundance in Open Landscapes. Remote Sensing, 15(1), 9. doi.org/10.3390/rs15010009",
+     "links": [
+      [
+       "How Many Reindeer? UAV Surveys as an Alternative to Helicopter or Ground Surveys for Estimating Population Abundance in Open Landscapes",
+       "https://www.mdpi.com/2072-4292/15/1/9/pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Högnadottir, S., Gryte, K., Hann, R., Johansen, T.A. (2023). Inner-Loop Control of Fixed-Wing Unmanned Aerial Vehicles in Icing Conditions. AIAA SCITECH Forum. AIAA 2023-1049. doi.org/10.2514/6.2023-1049",
+     "links": [
+      [
+       "Inner-Loop Control of Fixed-Wing Unmanned Aerial Vehicles in Icing Conditions",
+       "https://folk.ntnu.no/richahan/Publications/2023_SciTech_Hognadottir_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Hann, R., Betlem, P., Deja, K., Ewertowski, M., Harm-Altstädter, B., Jonassen, M., Lampert, A., Laska, M., Sobota, I., Storvold, R., Tomczyk, A., Zagórski, P. (2023). Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard. SESS Report 2022, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.7371141",
+     "links": [
+      [
+       "Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard",
+       "https://doi.org/10.5281/zenodo.7371141"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Hann, R., Müller, N.C., Lindner, M., Wallisch, J. (2023). UAV Icing: Experimental validation data for predicting ice shapes at low Reynolds numbers. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1372",
+     "links": [
+      [
+       "UAV Icing: Experimental validation data for predicting ice shapes at low Reynolds numbers",
+       "https://folk.ntnu.no/richahan/Publications/2023_Hann_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Wallisch, J., Hann, R. (2023). UAV Icing: Intercycle Ice Effects on Aerodynamic Performance. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1400",
+     "links": [
+      [
+       "UAV Icing: Intercycle Ice Effects on Aerodynamic Performance",
+       "https://folk.ntnu.no/richahan/Publications/2023_Wallisch_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Müller, N.C., Hann, R. (2023). UAV Icing: 3D simulations of propeller icing effects and anti-icing heat loads. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1383",
+     "links": [
+      [
+       "UAV Icing: 3D simulations of propeller icing effects and anti-icing heat loads",
+       "https://folk.ntnu.no/richahan/Publications/2023_M%c3%bcller_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Løw-Hansen, B., Müller, N.C., Coates, E., Johansen, T.A., Hann, R. (2023). Identification of an Electric UAV Propulsion System in Icing Conditions. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1378",
+     "links": [
+      [
+       "Identification of an Electric UAV Propulsion System in Icing Conditions",
+       "https://folk.ntnu.no/richahan/Publications/2023_LowHansen_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Cheung, M., Johansen, T.A., Hann, R. (2023). UAV Icing: Icing Cases for Validation of Path Planning Method. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1379",
+     "links": [
+      [
+       "UAV Icing: Icing Cases for Validation of Path Planning Method",
+       "https://folk.ntnu.no/richahan/Publications/2023_Cheung_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Lindner, M., Wallisch, J., Hann, R. (2023). UAV Icing: Numerical Simulation of Icing Effects on Wing and Empennage. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1384",
+     "links": [
+      [
+       "UAV Icing: Numerical Simulation of Icing Effects on Wing and Empennage",
+       "https://folk.ntnu.no/richahan/Publications/2023_Lindner_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Heramarwan, H., Müller, N., Lutz, T., Hann, R. (2023). UAM Icing: Ice Accretion Simulations and Experiments of an eVTOL Rotor. SAE International Conference on Icing of Aircraft, Engines, and Structures. doi.org/10.4271/2023-01-1391",
+     "links": [
+      [
+       "UAM Icing: Ice Accretion Simulations and Experiments of an eVTOL Rotor",
+       "https://folk.ntnu.no/richahan/Publications/2023_Heramarwan_SAE_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Enache, A., Wallisch, J., van Beeck, J., Hendrick, P., Hann, R. (2023). Ice Accretion: Image Post-Processing Measurement Techniques for 2D Ice Shapes. Aerospace, 10(5), 451. doi.org/10.3390/aerospace10050451",
+     "links": [
+      [
+       "Ice Accretion: Image Post-Processing Measurement Techniques for 2D Ice Shapes",
+       "https://www.mdpi.com/2226-4310/10/5/451/pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Hann, R. (2023). Numerical Simulation of In-Flight Icing of Unmanned Aerial Vehicles. In: Habashi, W.G. (eds) Handbook of Numerical Simulation of In-Flight Icing. Springer. doi.org/10.1007/978-3-030-64725-4_12-1",
+     "links": [
+      [
+       "Numerical Simulation of In-Flight Icing of Unmanned Aerial Vehicles",
+       "https://doi.org/10.1007/978-3-030-64725-4_12-1"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Müller, N.C., Løw-Hansen, B., Borup, K.T., Hann, R. (2023). UAV icing: Development of an ice protection system for the propeller of a small UAV. Cold Regions Science and Technology, 213, 103938. doi.org/10.1016/j.coldregions.2023.103938",
+     "links": [
+      [
+       "UAV icing: Development of an ice protection system for the propeller of a small UAV",
+       "https://doi.org/10.1016/j.coldregions.2023.103938"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Ghirardelli, M., Kral, S.T., Müller, N.C., Hann, R., Cheynet, E., Reuder, J. (2023). Flow Structure around a Multicopter Drone: A Computational Fluid Dynamics Analysis for Sensor Placement Considerations. Drones, 7(7), 467. doi.org/10.3390/drones7070467",
+     "links": [
+      [
+       "Flow Structure around a Multicopter Drone: A Computational Fluid Dynamics Analysis for Sensor Placement Considerations",
+       "https://doi.org/10.3390/drones7070467"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Løw-Hansen, B., Hann, R., Stovner, B.N., Johansen, T.A. (2023). UAV Icing: A survey of recent developments in ice detection methods. 22nd IFAC World Congress, Yokohama.",
+     "links": [
+      [
+       "UAV Icing: A survey of recent developments in ice detection methods",
+       "https://folk.ntnu.no/richahan/Publications/2023_Low-Hansen_IFAC_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Wurst, L., Wallisch, J., Hann, R. (2023). CFD icing simulations on a fixed-wing UAV engine inlet. Deutscher Luft- und Raumfahrtkongress (DLRK). doi.org/10.25967/610455",
+     "links": [
+      [
+       "CFD icing simulations on a fixed-wing UAV engine inlet",
+       "https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Oswald, J.W., Enache, A., Hann, R., Glabeke, G., Lutz, T. (2022). UAV Icing: Experimental and Numerical Study of Glaze Ice. AIAA 2022-1976. AIAA SciTech Forum. doi.org/10.2514/6.2022-1976",
+     "links": [
+      [
+       "UAV Icing: Experimental and Numerical Study of Glaze Ice",
+       "https://folk.ntnu.no/richahan/Publications/2022_Oswald_SciTech_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R., Betlem, P., Deja, K., Hartvich, F., Jonassen, M., Lampert, A., Laska, M., Sobota, I., Storvold, R., Zagórski P. (2022). Update to Scientific Applications of Unmanned Vehicles in Svalbard. SESS Report 2021, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.5751959",
+     "links": [
+      [
+       "Update to Scientific Applications of Unmanned Vehicles in Svalbard",
+       "https://doi.org/10.5281/zenodo.5751959"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Meier, K., Hann, R., Skaloud, J., Garreau, A. (2022). Wind Estimation with Multirotor UAVs. Atmosphere, 13, 551. doi.org/10.3390/atmos13040551",
+     "links": [
+      [
+       "Wind Estimation with Multirotor UAVs",
+       "https://www.mdpi.com/2073-4433/13/4/551"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). Hazards of In-flight Icing on Unmanned Aircraft. Conference paper. SCI-328 Symposium on ‘Flight Testing of Unmanned Aerial Systems (UAS)’.",
+     "links": [
+      [
+       "Hazards of In-flight Icing on Unmanned Aircraft",
+       "https://folk.ntnu.no/richahan/Publications/2022_SCI-328_Icing%20Hazards%20on%20UAS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Cheung, M., Hann, R., Johansen, T.A. (2022). UAV Icing: A Unified Icing Severity Index Derived from Performance Degradation. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3906",
+     "links": [
+      [
+       "UAV Icing: A Unified Icing Severity Index Derived from Performance Degradation",
+       "https://folk.ntnu.no/richahan/Publications/2022_Aviation_Cheung_Ice%20Severity%20Index.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Wallisch, J., Hann, R. (2022). UAV Icing: Experimental Investigation of Ice Shedding Times with an Electrothermal De-Icing System. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3905",
+     "links": [
+      [
+       "UAV Icing: Experimental Investigation of Ice Shedding Times with an Electrothermal De-Icing System",
+       "https://folk.ntnu.no/richahan/Publications/2022_Aviation_Wallisch_Ice%20Shedding%20Times.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Müller, N., Hann, R. (2022). UAV Icing: A Performance Model for a UAV Propeller in Icing Conditions. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3903",
+     "links": [
+      [
+       "UAV Icing: A Performance Model for a UAV Propeller in Icing Conditions",
+       "https://folk.ntnu.no/richahan/Publications/2022_Aviation_Mueller_Propeller%20Performance.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Løw-Hansen, B., Hann, R., Johansen, T.A. (2022). UAV Icing: Ice Shedding Detection Method for an Electrothermal De-Icing System. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3904",
+     "links": [
+      [
+       "UAV Icing: Ice Shedding Detection Method for an Electrothermal De-Icing System",
+       "https://folk.ntnu.no/richahan/Publications/2022_Aviation_LoewHansen_Ice_Shedding_Detection.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Laurendeau, É., Bourgault-Côté, S., Ozcer, I., Hann, R., Radenac, E., Pueyo, A. (2022). Summary from the 1st AIAA Ice Prediction Workshop. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2022-3398",
+     "links": [
+      [
+       "Summary from the 1st AIAA Ice Prediction Workshop",
+       "https://folk.ntnu.no/richahan/Publications/2022_Hann_AIAA_IPW%20Summary.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). UAV Icing: Challenges for computational fluid dynamic (CFD) tools. International Conference on Computational Fluid Dynamics, ICCFD11.",
+     "links": [
+      [
+       "UAV Icing: Challenges for computational fluid dynamic (CFD) tools",
+       "https://folk.ntnu.no/richahan/Publications/2022_ICCFD_Hann_CFD%20Gaps.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R., Enache, A., Nielsen, M.C., Stovner, B.N., van Beeck, J., Johansen, T.A., Borup, K.T. (2021). Experimental Heat Loads for Electrothermal Anti-Icing and De-Icing on UAVs. Aerospace, 8(3), 83. doi.org/10.3390/aerospace8030083",
+     "links": [
+      [
+       "Experimental Heat Loads for Electrothermal Anti-Icing and De-Icing on UAVs",
+       "https://www.mdpi.com/2226-4310/8/3/83"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R., Altstädter, B., Betlem, P., Deja, K., Dragańska-Deja K., Ewertowski, M., Hartvich, F., Jonassen, M., Lampert, A., Laska, M., Sobota, I., Storvold, R., Tomczyk, A., Wojtysiak, K., Zagórski P. (2021). Scientific Applications of Unmanned Vehicles in Svalbard. SESS Report 2020, Svalbard Integrated Arctic Earth Observing System. doi.org/10.5281/zenodo.4293283",
+     "links": [
+      [
+       "Scientific Applications of Unmanned Vehicles in Svalbard",
+       "https://doi.org/10.5281/zenodo.4293283"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Jawak, S.D., Andersen, B.N., Pohjola, V., Godøy, Ø., Hübner, C., Jennings, I., Ignatiuk, D., Holmen, K., Sivertsen, A., Hann, R., Tømmervik, H., Kääb, A., Błaszczyk, M., Salzano, R., Luks, B., Høgda, K., Storvold, R., Nilsen, L., Salvatori, R., Krishnan, K.P., Chatterjee, S., Lorentzen, D.A., Erlandsson, R., Lauknes, T.R., Malnes, E., Karlsen, S.R., Enomoto, H., Fjæraa, A.M., Zhang, J., Marty, S., Nygård, K.O., Lihavainen, H. (2021). SIOS’s Earth Observation (EO), Remote Sensing (RS), and Operational Activities in Response to COVID-19. Remote Sensing, 13(4), 712. doi.org/10.3390/rs13040712",
+     "links": [
+      [
+       "SIOS’s Earth Observation (EO), Remote Sensing (RS), and Operational Activities in Response to COVID-19",
+       "https://www.mdpi.com/2072-4292/13/4/712"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Sørensen, K.L., Borup, K.T., Hann, R., Bernstein, B., Hansbø, M. (2021). UAV Atmospheric Icing Limitations: Climate Report for Norway and Surrounding Regions. Report. UBIQ Aerospace.",
+     "links": [
+      [
+       "UAV Atmospheric Icing Limitations: Climate Report for Norway and Surrounding Regions",
+       "https://www.ubiqaerospace.com/climate-report"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R., Johansen, T.A. (2021). UAV icing: the influence of airspeed and chord length on performance degradation. Aircraft Engineering and Aerospace Technology, Vol. 93, No. 5. doi.org/10.1108/AEAT-06-2020-0127",
+     "links": [
+      [
+       "UAV icing: the influence of airspeed and chord length on performance degradation",
+       "https://folk.ntnu.no/richahan/Publications/2021_AEAT_UAV%20Icing_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Müller, N., Hann, R., Lutz, T. (2021). UAV Icing: Numerical Simulation of Propeller Ice Accretion. AIAA 2021-2673. AIAA Aviation 2021 Forum. doi.org/10.2514/6.2021-2673",
+     "links": [
+      [
+       "UAV Icing: Numerical Simulation of Propeller Ice Accretion",
+       "https://folk.ntnu.no/richahan/Publications/2021_Muller_Aviation.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Nicu, I.C., Rubensdotter, L., Stalsberg, K., Nau, E. (2021). Coastal Erosion of Arctic Cultural Heritage in Danger: A Case Study from Svalbard, Norway. Water, 13(6), 784. doi.org/10.3390/w13060784 (Hann, R. contribution: drone mapping).",
+     "links": [
+      [
+       "Coastal Erosion of Arctic Cultural Heritage in Danger: A Case Study from Svalbard, Norway",
+       "https://www.mdpi.com/2073-4441/13/6/784"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Haaland, O.M., Wenz, A.W., Gryte, K., Hann, R., Johansen, T.A. (2021). Detection and Isolation of Propeller Icing and Electric Propulsion System Faults in Fixed-Wing UAVs. In 2021 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 377-386, IEEE. doi.org/10.1109/ICUAS51884.2021.9476695",
+     "links": [
+      [
+       "Detection and Isolation of Propeller Icing and Electric Propulsion System Faults in Fixed-Wing UAVs",
+       "https://folk.ntnu.no/torarnj/Propeller_fault_icing_ICUAS21.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hermanson, M.H., Isaksson, E., Hann, R., Ruggirello, R.M., Teixeira, C., Muir, D.C.G. (2021). Historic Atmospheric Organochlorine Pesticide and Halogenated Industrial Compound Inputs to Glacier Ice Cores in Antarctica and the Arctic. ACS Earth Space Chem, 5, 9, 2534–2543. doi.org/10.1021/acsearthspacechem.1c00211",
+     "links": [
+      [
+       "Historic Atmospheric Organochlorine Pesticide and Halogenated Industrial Compound Inputs to Glacier Ice Cores in Antarctica and the Arctic",
+       "https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.1c00211"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Dachauer, A., Hann, R., Hodson, A.J. (2021). Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping. The Cryosphere, 15, 5513–5528. doi.org/10.5194/tc-15-5513-2021",
+     "links": [
+      [
+       "Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping",
+       "https://tc.copernicus.org/articles/15/5513/2021/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R., Johansen, T.A. (2020). Unsettled Topics in Unmanned Aerial Vehicle Icing. SAE International, SAE EDGE Research Report EPR2020008. doi.org/10.4271/EPR2020008",
+     "links": [
+      [
+       "Unsettled Topics in Unmanned Aerial Vehicle Icing",
+       "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3113980/EPR2020008.pdf?sequence=1"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hermanson, M.H., Isaksson E., Hann R., Teixeira C.F., Muir D.C.G. (2020). Deposition of Polychlorinated Biphenyls to Firn and Ice Cores at Opposite Polar Sites: Site M, Dronning Maud Land, Antarctica, and Holtedahlfonna, Svalbard. ACS Earth and Space Chemistry 4 (11), pp. 2096-2104. doi.org/10.1021/acsearthspacechem.0c00227",
+     "links": [
+      [
+       "Deposition of Polychlorinated Biphenyls to Firn and Ice Cores at Opposite Polar Sites: Site M, Dronning Maud Land, Antarctica, and Holtedahlfonna, Svalbard",
+       "https://pubs.acs.org/doi/10.1021/acsearthspacechem.0c00227"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Wallisch, J., Hann, R. (2020). Design of a Low-Speed Icing Wind Tunnel for UAVs. Deutsche Gesellschaft für Luft- und Raumfahrt. doi.org/10.25967/530188",
+     "links": [
+      [
+       "Design of a Low-Speed Icing Wind Tunnel for UAVs",
+       "https://www.dglr.de/publikationen/2020/530188.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hermanson, M.H., Isaksson E., Hann R., Teixeira C.F., Muir D.C.G. (2020). Atmospheric Deposition of Organochlorine Pesticides and Industrial Compounds to Seasonal Surface Snow at Four Glacier Sites on Svalbard, 2013-2014. Environmental Science & Technology, vol. 54, issue 15, pp. 9265–9273. doi.org/10.1021/acs.est.0c01537",
+     "links": [
+      [
+       "Atmospheric Deposition of Organochlorine Pesticides and Industrial Compounds to Seasonal Surface Snow at Four Glacier Sites on Svalbard, 2013-2014",
+       "https://pubs.acs.org/doi/abs/10.1021/acs.est.0c01537"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hovenburg, A.R., Andrade, F.A.A., Hann, R., Rodin, C.D., Johansen, T.A., Storvold, R. (2020). Long Range Path Planning Using an Aircraft Performance Model for Battery Powered sUAS Equipped with Icing Protection System. IEEE Journal on Miniaturization for Air and Space Systems. doi.org/10.1109/JMASS.2020.3003833",
+     "links": [
+      [
+       "Long Range Path Planning Using an Aircraft Performance Model for Battery Powered sUAS Equipped with Icing Protection System",
+       "https://folk.ntnu.no/richahan/Publications/2020_Pathplanning.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R., Hearst, R.J., Sætran, L.R., Bracchi, T. (2020). Experimental and Numerical Icing Penalties of an S826 Airfoil at Low Reynolds Numbers. Aerospace, 7(4), 46. doi.org/10.3390/aerospace7040046",
+     "links": [
+      [
+       "Experimental and Numerical Icing Penalties of an S826 Airfoil at Low Reynolds Numbers",
+       "https://www.mdpi.com/2226-4310/7/4/46/pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Narum, E.F.L., Hann, R., Johansen, T.A. (2020). Optimal Mission Planning for Fixed-Wing UAVs with Electro-Thermal Icing Protection and Hybrid-Electric Power Systems. In 2020 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 651-660, IEEE. doi.org/10.1109/ICUAS48674.2020.9214054",
+     "links": [
+      [
+       "Optimal Mission Planning for Fixed-Wing UAVs with Electro-Thermal Icing Protection and Hybrid-Electric Power Systems",
+       "https://folk.ntnu.no/richahan/Publications/2020_Narum%20et%20al.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R., Hermanson, M. (2019). Derivation of Flow Rate and Calibration Method for High-Volume Air Samplers. Atmospheric Measurement Techniques, 12(9), 4725-4731. doi.org/10.5194/amt-12-4725-2019",
+     "links": [
+      [
+       "Derivation of Flow Rate and Calibration Method for High-Volume Air Samplers",
+       "https://www.atmos-meas-tech.net/12/4725/2019/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R. (2019). UAV Icing: Ice Accretion Experiments and Validation. SAE Technical Paper. No. 2019-01-2037. doi.org/10.4271/2019-01-2037",
+     "links": [
+      [
+       "UAV Icing: Ice Accretion Experiments and Validation",
+       "https://folk.ntnu.no/richahan/Publications/2019_Hann_Ice%20Accretion_postscript.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R., Borup, K., Zolich, A., Sorensen, K., Vestad, H., Steinert, M., Johansen, T.A. (2019). Experimental Investigations of an Icing Protection System for UAVs. SAE Technical Paper. No. 2019-01-2038. doi.org/10.4271/2019-01-2038",
+     "links": [
+      [
+       "Experimental Investigations of an Icing Protection System for UAVs",
+       "https://folk.ntnu.no/richahan/Publications/2019_Hann%20et%20al_IPS%20Experiments_postscript.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Fajt, N., Hann, R., Lutz, T. (2019). The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Airfoil. 8th European Conference for Aeronautics and Aerospace Sciences (EUCASS). doi.org/10.13009/EUCASS2019-240",
+     "links": [
+      [
+       "The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Airfoil",
+       "https://www.eucass.eu/doi/EUCASS2019-0240.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Winter, A., Hann, R., Wenz, A., Gryte, K., Johansen, T.A. (2019). Stability of a Flying Wing UAV in Icing Conditions. 8th European Conference for Aeronautics and Aerospace Sciences (EUCASS). doi.org/10.13009/EUCASS2019-906",
+     "links": [
+      [
+       "Stability of a Flying Wing UAV in Icing Conditions",
+       "https://www.eucass.eu/doi/EUCASS2019-0906.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R. (2019). UAV Icing: Comparison of LEWICE and FENSAP-ICE for Anti-Icing Loads. AIAA 2019-1286. AIAA Scitech Forum. doi.org/10.2514/6.2019-1286",
+     "links": [
+      [
+       "UAV Icing: Comparison of LEWICE and FENSAP-ICE for Anti-Icing Loads",
+       "https://folk.ntnu.no/richahan/Publications/2019_Hann_SciTech_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2018",
+     "t": "Gryte, K., Hann, R., Alam, M., Roháč, J., Johansen, T.A., Fossen, T. I. (2018). Aerodynamic modeling of the skywalker x8 fixed-wing unmanned aerial vehicle. In 2018 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 826-835. IEEE. doi.org/10.1109/ICUAS.2018.8453370",
+     "links": [
+      [
+       "Aerodynamic modeling of the skywalker x8 fixed-wing unmanned aerial vehicle",
+       "https://folk.ntnu.no/richahan/Publications/2018_Gryte%20et%20al_ICUAS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2018",
+     "t": "Hann, R. (2018). UAV Icing: Comparison of LEWICE and FENSAP-ICE for Ice Accretion and Performance Degradation. AIAA 2018-2861. AIAA Atmospheric and Space Environments Conference. doi.org/10.2514/6.2018-2861",
+     "links": [
+      [
+       "UAV Icing: Comparison of LEWICE and FENSAP-ICE for Ice Accretion and Performance Degradation",
+       "https://folk.ntnu.no/richahan/Publications/2018_Hann_AIAA_postprint.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2017",
+     "t": "Hermanson, M.H., Hann, R., Johnson, G.W. (2017). Response to Comment on “Polychlorinated Biphenyls in Tree Bark near Former Manufacturing and Incinerator Facilities in Sauget, Illinois, United States”. Environmental Science & Technology. 2017, 51, 8206−8207. doi.org/10.1021/acs.est.7b01688",
+     "links": [
+      [
+       "Response to Comment on “Polychlorinated Biphenyls in Tree Bark near Former Manufacturing and Incinerator Facilities in Sauget, Illinois, United States”",
+       "https://pubs.acs.org/doi/pdfplus/10.1021/acs.est.7b01688"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2017",
+     "t": "Krøgenes, J., Brandrud, L., Hann, R., Bartl, J., Bracchi, T., & Sætran, L. (2017). Aerodynamic performance of the NREL S826 airfoil in icing conditions. Wind Energy Science Discussions, 1-17.",
+     "links": [
+      [
+       "Aerodynamic performance of the NREL S826 airfoil in icing conditions",
+       "https://wes.copernicus.org/preprints/wes-2017-39/wes-2017-39.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2017",
+     "t": "Hann, R., Wenz, A., Gryte, K., & Johansen, T.A. (2017). Impact of atmospheric icing on UAV aerodynamic performance. In 2017 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED-UAS), pp. 66-71. IEEE. doi.org/10.1109/RED-UAS.2017.8101645",
+     "links": [
+      [
+       "Impact of atmospheric icing on UAV aerodynamic performance",
+       "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2475773/REDUAS%2bHann%2bet%2bal%2bfinal%2bv2.pdf?sequence=2&isAllowed=y"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2016",
+     "t": "Hermanson, M. H., Hann, R., Johnson, G. W. (2016). Polychlorinated biphenyls in tree bark near former manufacturing and incineration facilities in Sauget, Illinois, United States. Environmental Science & Technology, 50(12), 6207-6215. doi.org/10.1021/acs.est.6b01053",
+     "links": [
+      [
+       "Polychlorinated biphenyls in tree bark near former manufacturing and incineration facilities in Sauget, Illinois, United States",
+       "https://pubs.acs.org/doi/abs/10.1021/acs.est.6b01053"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2015",
+     "t": "Lutz, T., Arnold, B., Bekiropoulos, D., Illg, J., Krämer, E., Wolf, A., Hann, R., Kamruzzaman, M. (2015). Prediction of flow-induced noise sources of wind turbines and application examples. International Journal of Aeroacoustics, 14(5-6), 675-714. doi.org/10.1260/1475-472X.14.5-6.675",
+     "links": [
+      [
+       "Prediction of flow-induced noise sources of wind turbines and application examples",
+       "https://doi.org/10.1260/1475-472X.14.5-6.675"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2013",
+     "t": "Hann, R., Wolf, A., Bekiropoulos, D., Lutz, T., Krämer, E. (2013). Numerical investigation on the noise generation of iced wind turbine airfoils. Winterwind Conference.",
+     "links": [
+      [
+       "Numerical investigation on the noise generation of iced wind turbine airfoils",
+       "https://folk.ntnu.no/richahan/Publications/2013_Hann%20et%20al_Winterwind.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2013",
+     "t": "Hann, R. (2013). Aeroakustische Analyse Vereister Profile einer Windenergieanlage. Diplomarbeit/ Final-year thesis. University of Stuttgart.",
+     "links": [
+      [
+       "Aeroakustische Analyse Vereister Profile einer Windenergieanlage",
+       "https://folk.ntnu.no/richahan/Publications/2013_Hann_Diplomarbeit.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "2012",
+     "t": "Hann, R. (2012). Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen. Studienarbeit/study thesis. University of Stuttgart.",
+     "links": [
+      [
+       "Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen",
+       "https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf"
+      ]
+     ],
+     "entry": true
+    }
+   ]
+  },
+  "Presentations": {
+   "title": "Presentations and Invited Talks (Total: 49 presentations)",
+   "items": [
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). SESS Report Release: Third update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). Synergies in Atmospheric Icing: From UAVs to Wind Energy Systems. Invited keynote speaker, Winterwind, Sundsvall.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). From Drones to Wind Turbines: Shared Challenges in Atmospheric Icing. Invited speaker, Winterwind, Sundsvall.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Hann, R. (2026). The Icing Barrier: Enabling Safe UAV Operations in Cold Climates. Invited speaker, Unmanned Nordic Conference (UNC), Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2026",
+     "t": "Guenzel, L., Hann, R., Lockhart, K. B., Kleber, G., Ludvigsen, M. (2026). Observing Marine-Terminating Glaciers: A Combined Aerial and Underwater Methodology in Ice-Covered Fjords. 2026 Ocean Sciences Meeting (AGU).",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). The icing barrier – challenges and solutions for in-flight icing on UAVs. Invited speaker, Defense Leaders - Navy Tech, Helsinki.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). Arctic Drone Applications for FAIR Data Management. Invited speaker, NTNU Research Data Infrastructure Day, Trondheim.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). Glaciers from above and below: applying the observational pyramid in Svalbard. Svalbard Science Conference, Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). Applications of the Observational Pyramid in Glaciology. Ny-Ålesund Glaciology Flagship Meeting, Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). Drones in the Arctic – cold climate challenges for UAVs. Invited speaker, Cold Weather Operations Conference (CWOC), Hamar.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). New Frontiers of Aircraft Icing: UAVs and Beyond. Invited speaker, Aircraft Icing Forum (hosted by FAA and NASA), Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2025",
+     "t": "Hann, R. (2025). Icing on Emerging Aircraft: Research Needs for UAVs and Beyond. Invited speaker, European Aerospace Science Network (EASN) Research Webinars, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R. (2024). The icing barrier for clean aviation. NTNU and Rolls Royce Clean Aviation Evening, Trondheim.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hermanson, M.H., Isaksson, E, Hann, R., Gabrielsen, G.W. (2024). Frozen Pollutants: Organic Contaminants in Svalbard Snow & Ice. Arctic Frontiers Conference 2024, Tromsø.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Pearce, D.M., Harcourt, W.D., Gajek, W., Hann, R., Rea, B.R., Benn, D.I., Lovell, H., Spagnolo, M. (2024). Investigating the signature of a tidewater glacier surge behaviour using geomorphological, sedimentological and geotechnical data, Borebreen, Svalbard. General Assembly of the European Geosciences Union (EGU24), Vienna.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Harcourt, W.D, Gajek, W., Pearce, D., Hann, R., Luckman, A., Rea, B.R., Benn, D.I., James, M.R, Spagnolo, M., Nanni, U. (2024). Surge initiation at the terminus of Borebreen (Svalbard): Drivers and impact on calving. General Assembly of the European Geosciences Union (EGU24), Vienna.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R., Broeren, A., Leopold, D., Botura, G., Pellicano, P., Goyal, R. (2024). Challenges in In-flight Icing for Disruptive Aircraft Designs and AAM. Invited panel discussion, AIAA Aviation Forum and Ascend, Las Vegas.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2024",
+     "t": "Hann, R. (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Hann, R. (2023). The challenge of atmospheric in-flight icing on RPAS. 8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft), Bergen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2023",
+     "t": "Hann, R. (2023). Mapping glaciers & counting reindeer: drone applications in Svalbard. Svalbard Science Conference, Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). Drone-based mapping of surging Scheelebreen and Vallåkrabreen glaciers in Svalbard. SIOS Online Conference, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment. SIOS Online Conference, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). UAV Icing – The freezing barrier for the future of aviation. AMOS Days November 2022, Trondheim.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2022",
+     "t": "Hann, R. (2022). Update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week 2022, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). SESS Report Release: Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). Applications of Unmanned Vehicles in Svalbard. Arctic Science Summit Week, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). Synergies between icing on wind turbines and UAVs. Winterwind Conference, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). Hazards of In-flight Icing on Unmanned Aircraft. SAE Business of Automated Mobility (BAM) Forum, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). Applications of Unmanned Vehicles in Svalbard. SIOS Online Conference on Remote Sensing in Svalbard, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). How to publish a paper. SCOPE – 1st student-led conference on Polar Environment, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hann, R. (2021). Atmospheric icing as a hazard to unmanned aircraft applications. Arctic Safety Conference, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2021",
+     "t": "Hermanson, M.H., Isaksson, E., Hann, R., Ruggirello, R.M., Teixeira, C., Muir, D.C.G. (2021). A comparison of PCB congener, organochlorine pesticide, and industrial compound burdens in firn and ice cores from Antarctica and Svalbard. SETAC North America 42nd Annual Meeting, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R. (2020). Applications of Unmanned Aerial Vehicles in Svalbard. Arctic Change Conference, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R. (2020). Overview of Unsettled Topics in UAV Icing. SAE International AeroTech Digital Summit, Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Müller, N., Hann, R., Lutz, T. (2020). The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Propeller. Deutscher Luft- und Raumfahrtkongress (DLRK), Online.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Lindvall, J., Lee, L., Virk, M.S., Jin, J.Y., Lehtomäki, V., Hann, R., Revstedt, J. (2020). A CFD benchmark study of ice accretion on a wind turbine blade and a comparison to the ice accretion of a rotating blade cylinder model. Winterwind Conference, Åre.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R. (2020). Icing on UAVs. Invited talk, Advanced Modeling & Simulation (AMS) Seminar Series, NASA, Ames.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hermanson, M.H., Isaksson, E., Hann, R., Teixeira, C., Muir, D.C.G. (2020). Deposition of polychlorinated biphenyls to ice cores at opposite polar sites: Holtedahlfonna, Svalbard and Site M, Antarctica. SETAC Europe 30th Annual Meeting, Dublin.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2020",
+     "t": "Hann, R. (2020). Opportunities and Challenges for Unmanned Aerial Vehicles (UAVs) in the Arctic. SIOS Polar Night Week Conference, Longyearbyen.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R., Hodson, A., Jonassen, M. (2019). Glacier Mapping and Wind Estimation with UAVs on Svalbard. Svalbard Science Conference, Oslo.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2019",
+     "t": "Hann, R. (2019). Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications. Winterwind Conference, Umeå.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2018",
+     "t": "Hann, R. (2018). Icing Protection Systems for UAVs in the Arctic. Arctic Change Conference, Ottawa.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2018",
+     "t": "Hann, R. (2018). Wind Turbine Noise due to Icing. Wind Turbine Icing & Ice Prevention Forum, Berlin.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2018",
+     "t": "Hann, R. (2018). Icing on Unmanned Aerial Vehicles (UAVs). Wind Turbine Icing & Ice Prevention Forum, Berlin.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2017",
+     "t": "Hann, R., Veshniakova, L., Romero, M., Cicilio, P.R. (2017). Cold Climate Wind Energy in Longyearbyen, 78°N. Arctic Change Conference, Québec City.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2016",
+     "t": "Hann, R. (2016). Applications of iced wind turbines noise simulations. Winterwind Conference, Åre.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2014",
+     "t": "Hann, R. (2014). Simulation and validation of the aerodynamic performance of iced wind turbine airfoils. Winterwind Conference, Sundsvall.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "2012",
+     "t": "Hann, R., Neumann, S. O., Miller, A., Dillingh, J. (2012). Thermal analysis of a heated rotor blade for wind turbines. Winterwind Conference, Skellefteå.",
+     "links": [],
+     "entry": true
+    }
+   ]
+  },
+  "Datasets": {
+   "title": "Datasets (Total: 21 datasets)",
+   "items": [
+    {
+     "y": "",
+     "t": "Hann, R. (2026). Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2026, Dataset. Zenodo, Version 1. doi.org/10.5281/zenodo.22881363",
+     "links": [
+      [
+       "Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2026",
+       "https://doi.org/10.5281/zenodo.22881363"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2026). Scientific Applications of Unmanned Vehicles in Svalbard, Dataset, Zenodo, Version 2. doi.org/10.5281/zenodo.17187542",
+     "links": [
+      [
+       "Scientific Applications of Unmanned Vehicles in Svalbard",
+       "https://doi.org/10.5281/zenodo.17187542"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Gajek, W., Pearce, D., & Harcourt, W. (2025). Drone-based glacier mapping of Borebreen in Svalbard, 2025, Dataset, DataverseNO, Version 1. doi.org/10.18710/ZAJLVT",
+     "links": [
+      [
+       "Drone-based glacier mapping of Borebreen in Svalbard, 2025",
+       "https://doi.org/10.18710/ZAJLVT"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Lockhart, K. (2025). Drone-based glacier mapping of Fridtjovbreen, Vallakrabreen, Paulabreen, and Scheelebreen, DataverseNO, Version 1. doi.org/10.18710/GA1FTV",
+     "links": [
+      [
+       "Drone-based glacier mapping of Fridtjovbreen, Vallakrabreen, Paulabreen, and Scheelebreen",
+       "https://doi.org/10.18710/GA1FTV"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Harcourt, W., Pearce, D., Gajek, W., Lovell, H., Luckman, A., Benn, D., Kohler, J., Kääb, A., Hann, R. (2024). Svalbard Surge Database 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.14229560",
+     "links": [
+      [
+       "Svalbard Surge Database 2024",
+       "https://doi.org/10.5281/zenodo.14229560"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Gajek, W., Pearce, D., & Harcourt, W. (2024). Drone-based glacier mapping of Borebreen in Svalbard, 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.13837315",
+     "links": [
+      [
+       "Drone-based glacier mapping of Borebreen in Svalbard, 2024",
+       "https://doi.org/10.5281/zenodo.13837315"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Gajek, W., Pearce, D., & Harcourt, W. (2024). Drone-based geomorphology mapping of Borebreen in Svalbard, 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.13837009",
+     "links": [
+      [
+       "Drone-based geomorphology mapping of Borebreen in Svalbard, 2024",
+       "https://doi.org/10.5281/zenodo.13837009"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2024). Drone-based mapping of surging glaciers in Rindersbukta, Svalbard, DataverseNO, Version 2. doi.org/10.18710/IBBSGD",
+     "links": [
+      [
+       "Drone-based mapping of surging glaciers in Rindersbukta, Svalbard",
+       "https://doi.org/10.18710/IBBSGD"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2024). Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2024, Dataset. Zenodo, Version 1. doi.org/10.5281/zenodo.13623723",
+     "links": [
+      [
+       "Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2024",
+       "https://doi.org/10.5281/zenodo.13623723"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Rhodes, N., Gajek, W., Pearce, D., Harcourt, W. (2024). Drone-based mapping of calving rates of Borebreen in Svalbard, DataverseNO, Version 1. doi.org/10.18710/B553MB",
+     "links": [
+      [
+       "Drone-based mapping of calving rates of Borebreen in Svalbard",
+       "https://doi.org/10.18710/B553MB"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Rinne, E. (2024). Drone-based mapping of Larsbreen, Longyearbreen, and Tellbreen in Svalbard, DataverseNO, Version 1. doi.org/10.18710/L41RKZ",
+     "links": [
+      [
+       "Drone-based mapping of Larsbreen, Longyearbreen, and Tellbreen in Svalbard",
+       "https://doi.org/10.18710/L41RKZ"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2023). Drone-based mapping of crevassed glaciers in Svalbard, DataverseNO, Version 1. doi.org/10.18710/KLISS5",
+     "links": [
+      [
+       "Drone-based mapping of crevassed glaciers in Svalbard",
+       "https://doi.org/10.18710/KLISS5"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2022). Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment, DataverseNO, Version 1. doi.org/10.18710/0NO42L",
+     "links": [
+      [
+       "Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment",
+       "https://doi.org/10.18710/0NO42L"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Meier, K., Garreau, A. (2022). Validation data for wind speed and wind direction measurements with quadcopter drones, DataverseNO, Version 1. doi.org/10.18710/AFDYLS",
+     "links": [
+      [
+       "Validation data for wind speed and wind direction measurements with quadcopter drones",
+       "https://doi.org/10.18710/AFDYLS"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2022). Drone-based mapping of Sassendalen for reindeer counting in Svalbard. DataverseNO, Version 1. doi.org/10.18710/KHQKWH",
+     "links": [
+      [
+       "Drone-based mapping of Sassendalen for reindeer counting in Svalbard",
+       "https://doi.org/10.18710/KHQKWH"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., et al. (2022). Scientific literature that utilizes unmanned vehicles in Svalbard. Svalbard Integrated Arctic Earth Observing System, SIOS.",
+     "links": [
+      [
+       "Scientific literature that utilizes unmanned vehicles in Svalbard",
+       "https://sios-svalbard.org/UAV_Svalbard"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2021). Drone-based mapping of the Endalen alluvial fan in Svalbard. DataverseNO, Version 1. doi.org/10.18710/AED5GT",
+     "links": [
+      [
+       "Drone-based mapping of the Endalen alluvial fan in Svalbard",
+       "https://doi.org/10.18710/AED5GT"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2021). Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping in Svalbard. DataverseNO, Version 1. doi.org/10.18710/JMWF3E",
+     "links": [
+      [
+       "Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping in Svalbard",
+       "https://doi.org/10.18710/JMWF3E"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R. (2021). Drone-based mapping of the Lagoon Pingo in Svalbard. DataverseNO, Version 1. doi.org/10.18710/IMPEG8",
+     "links": [
+      [
+       "Drone-based mapping of the Lagoon Pingo in Svalbard",
+       "https://doi.org/10.18710/IMPEG8"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Müller, N. (2020). Icing Validation Database. DataverseNO, Version 1. doi.org/10.18710/5XYALW",
+     "links": [
+      [
+       "Icing Validation Database",
+       "https://doi.org/10.18710/5XYALW"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Hann, R., Wallisch, J. (2020). UAV Specification Database. DataverseNO, Version 1. doi.org/10.18710/L41IGQ",
+     "links": [
+      [
+       "UAV Specification Database",
+       "https://doi.org/10.18710/L41IGQ"
+      ]
+     ],
+     "entry": true
+    }
+   ]
+  },
+  "People": {
+   "title": "People – Postdocs (1 postdoc)",
+   "items": [
+    {
+     "y": "",
+     "t": "Bogdan Løw-Hansen, Atmospheric icing detection and system identification for disruptive aircraft, 2026–202X, NTNU, funded by RCN and UBIQ Aerospace.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "People – PhD Students (Main supervisor: 6 students, co-supervisor: 3 students)",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Current",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Lars Klein, UAV Icing Detection with LiDAR, 2026–2029, NTNU, main supervisor, ongoing.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Kaelan Lockhart, Real-time vegetation mapping in Antarctica, Queensland University of Technology (QUT), co-supervisor, ongoing.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Kristoffer Kvist, Helicopter icing, 2024–202X, The Arctic University of Norway (UiT), co-supervisor, ongoing.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Markus Lindner, Icing performance of UAVs, 2022–202X, NTNU, main supervisor, ongoing.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Michael Cheung, Path-planning of UAVs in icing conditions, 2021–202X, NTNU, main supervisor, ongoing.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Completed",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Bogdan Løw-Hansen, Modeling and Validation of Atmospheric Icing Effects on Small Fixed-Wing UAVs, 2021–2026, NTNU, main supervisor, completed.",
+     "links": [
+      [
+       "Modeling and Validation of Atmospheric Icing Effects on Small Fixed-Wing UAVs",
+       "https://hdl.handle.net/11250/5533084"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Nicolas Müller, Icing, performance penalties, and ice protection systems for UAV propellers, 2021–2026, UBIQ Aerospace / NTNU, main supervisor, completed.",
+     "links": [
+      [
+       "Icing, performance penalties, and ice protection systems for UAV propellers",
+       "https://hdl.handle.net/11250/5536902"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Joachim Wallisch, Reducing Energy Consumption of UAVs in Icing Conditions with Active Electrothermal De-Icing Ice Protection Systems, 2021–2026, NTNU, main supervisor, completed.",
+     "links": [
+      [
+       "Reducing Energy Consumption of UAVs in Icing Conditions with Active Electrothermal De-Icing Ice Protection Systems",
+       "https://hdl.handle.net/11250/5534819"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Mauro Ghirardelli, SAMURAI - Development, Test and Validation of an Airborne Sonic Anemometer, 2021–2024, University of Bergen (UiB), co-supervisor, completed.",
+     "links": [
+      [
+       "SAMURAI - Development, Test and Validation of an Airborne Sonic Anemometer",
+       "https://bora.uib.no/bora-xmlui/handle/11250/3170691"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "People – Master Students (Total: 27 students)",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Current",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Knut Olav Nordgarden Kragh, Duo Drone, NTNU, main supervisor, 2026.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Jonas Kalkenberg Guttormsen, Path planning, NTNU, co-supervisor.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Completed",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Modest Röhl, On the Redesign and Characterization of a Small-Scale Icing Wind Tunnel Using Experimental and Numerical Methods, UBIQ Aerospace / Uni Stuttgart, 2025, main supervisor.",
+     "links": [
+      [
+       "On the Redesign and Characterization of a Small-Scale Icing Wind Tunnel Using Experimental and Numerical Methods",
+       "https://richahan.folk.ntnu.no/Publications/2025_R%c3%b6hl_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Noel Ernsting, Icing on Airborne Wind Energy, NTNU / Uni Stuttgart, 2025, main supervisor.",
+     "links": [
+      [
+       "Icing on Airborne Wind Energy",
+       "https://richahan.folk.ntnu.no/Publications/2025_Ernstig_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Jakob Röß, Experimental and Numerical Investigation on Aerodynamic Performance Degradation on an UAV Airfoil, NTNU / Uni Stuttgart, 2024/25, co-supervisor.",
+     "links": [
+      [
+       "Experimental and Numerical Investigation on Aerodynamic Performance Degradation on an UAV Airfoil",
+       "https://richahan.folk.ntnu.no/Publications/2025_R%c3%b6%c3%9f_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Michael Henzler, CFD Simulation of Icing on a Flying-Wing UAV, NTNU / Uni Stuttgart, 2023/24, main supervisor.",
+     "links": [
+      [
+       "CFD Simulation of Icing on a Flying-Wing UAV",
+       "https://folk.ntnu.no/richahan/Publications/2024_Henzler_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Samuel Göhring, Development of a Photogrammetry Method to Digitize Ice Shapes on UAVs, NTNU / Uni Stuttgart, 2023/24, main supervisor.",
+     "links": [
+      [
+       "Development of a Photogrammetry Method to Digitize Ice Shapes on UAVs",
+       "https://folk.ntnu.no/richahan/Publications/2024_Goehring_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Markus Frey, Numerical investigation of heat transfer on propeller ice protection systems for unmanned aerial vehicles, 2023, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "Numerical investigation of heat transfer on propeller ice protection systems for unmanned aerial vehicles",
+       "https://folk.ntnu.no/richahan/Publications/2023_Frey_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Lukas Wurst, CFD icing simulations on a fixed-wing UAV engine inlet, 2022/23, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "CFD icing simulations on a fixed-wing UAV engine inlet",
+       "https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Henidya Heramarwan, CFD Icing Simulations on Rotors for eVTOL Unmanned Aircraft, 2022/23, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "CFD Icing Simulations on Rotors for eVTOL Unmanned Aircraft",
+       "https://folk.ntnu.no/richahan/Publications/2023_Heramarwan_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Stephan Van Reen, CFD Simulation of the Air Flow Field around a Ship, 2022, NTNU / UNIS / Aalto, main supervisor.",
+     "links": [
+      [
+       "CFD Simulation of the Air Flow Field around a Ship",
+       "https://folk.ntnu.no/richahan/Publications/2022_van_Reen_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Bogdan Løw-Hansen, Electrothermal Ice-Shedding Detection for UAVs, 2021, NTNU, supporting supervisor.",
+     "links": [
+      [
+       "Electrothermal Ice-Shedding Detection for UAVs",
+       "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2781079"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Michael Cheung, An energy consumption model for UAVs in icing conditions, 2021, NTNU, main supervisor.",
+     "links": [
+      [
+       "An energy consumption model for UAVs in icing conditions",
+       "https://folk.ntnu.no/richahan/Publications/2021_Cheung_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Kilian Meier, Wind Estimation with multirotor UAVs, master thesis, 2021, UNIS / École Polytechnique Fédérale de Lausanne, main supervisor.",
+     "links": [
+      [
+       "Wind Estimation with multirotor UAVs",
+       "https://folk.ntnu.no/richahan/Publications/2021_Meier_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Ruben Kleiven, Robust and Gain Scheduled Flight Control of Fixed-wing UAVs in Wind and Icing Conditions, master thesis, 2021, NTNU, supporting supervisor.",
+     "links": [
+      [
+       "Robust and Gain Scheduled Flight Control of Fixed-wing UAVs in Wind and Icing Conditions",
+       "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2781074"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Johannes Oswald, UAV Icing: Numerical and Experimental Study of Performance Penalties on an RG-15 Airfoil, master thesis, 2020/21, Uni Stuttgart / von Karman Institute / NTNU, main supervisor.",
+     "links": [
+      [
+       "UAV Icing: Numerical and Experimental Study of Performance Penalties on an RG-15 Airfoil",
+       "https://folk.ntnu.no/richahan/Publications/2021_Oswald_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Max Nüßle, Heat Transfer Simulations of Crevassed Glaciers, master thesis, 2020/21, Uni Stuttgart / UNIS / NTNU, main supervisor.",
+     "links": [
+      [
+       "Heat Transfer Simulations of Crevassed Glaciers",
+       "https://folk.ntnu.no/richahan/Publications/2021_Nuessle_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Mikkel Tiller, Advanced path planning for UAVs in icing conditions, master thesis, 2020/21, NTNU, co-supervisor.",
+     "links": [
+      [
+       "Advanced path planning for UAVs in icing conditions",
+       "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2786767"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Nicolas Müller, Numerical simulation of the ice accretion on a propeller of a small fixed-wing UAV, master thesis, 2020, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "Numerical simulation of the ice accretion on a propeller of a small fixed-wing UAV",
+       "https://folk.ntnu.no/richahan/Publications/2020_M%C3%BCller_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Armin Dachauer, Aerodynamic Roughness Length of Crevassed Tidewater Glaciers from UAV Mapping, master thesis, 2020, UNIS / ETH Zürich, main supervisor.",
+     "links": [
+      [
+       "Aerodynamic Roughness Length of Crevassed Tidewater Glaciers from UAV Mapping",
+       "https://folk.ntnu.no/richahan/Publications/2020_Dachauer_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Arthur Garreau, Validation and Application of Novel Wind Estimation Methods with Quadcopter UAVs in the Arctic, master thesis, 2020, UNIS / École nationale de la météorologie (ENM), main supervisor.",
+     "links": [
+      [
+       "Validation and Application of Novel Wind Estimation Methods with Quadcopter UAVs in the Arctic",
+       "https://folk.ntnu.no/richahan/Publications/2020_Garreau_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Edvard Frimann Løes Narum, Mission planning for fixed-wing UAVs in wind and icing conditions, master thesis, 2020, NTNU, co-supervisor.",
+     "links": [
+      [
+       "Mission planning for fixed-wing UAVs in wind and icing conditions",
+       "https://folk.ntnu.no/richahan/Publications/2020_Narum_thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Joachim Wallisch, Design of a low-speed icing wind tunnel for UAVs, master thesis, 2020, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "Design of a low-speed icing wind tunnel for UAVs",
+       "https://folk.ntnu.no/richahan/Publications/2020_Wallisch_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Nicolas Fajt, The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Airfoil, master thesis, 2019, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Airfoil",
+       "https://folk.ntnu.no/richahan/Publications/2019_Fajt_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Adrian Winter, Systems Identification, Flight Performance, and Control of a Fixed-Wing UAV in Icing Conditions, master thesis, 2019, NTNU / Uni Stuttgart, main supervisor.",
+     "links": [
+      [
+       "Systems Identification, Flight Performance, and Control of a Fixed-Wing UAV in Icing Conditions",
+       "https://folk.ntnu.no/richahan/Publications/2019_Winter_Thesis.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Julie Krøgenes, Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions, master thesis, 2017, NTNU, co-supervisor.",
+     "links": [
+      [
+       "Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions",
+       "http://hdl.handle.net/11250/2454897"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Lovisa Brandrud, Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions, master thesis, 2017, NTNU, co-supervisor.",
+     "links": [
+      [
+       "Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions",
+       "http://hdl.handle.net/11250/2454897"
+      ]
+     ],
+     "entry": true
+    }
+   ]
+  },
+  "Teaching": {
+   "title": "Teaching",
+   "items": [
+    {
+     "y": "",
+     "t": "FLYT2201 Aircraft Mechanics – lecturer. Norwegian University of Science and Technology (NTNU), 2025 – today.",
+     "links": [
+      [
+       "FLYT2201",
+       "ntnu.edu/studies/courses/FLYT2201"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "FLYT1101 Introduction to Aircraft and Aviation – lecturer. Norwegian University of Science and Technology (NTNU), 2024 – today.",
+     "links": [
+      [
+       "FLYT1101",
+       "https://www.ntnu.no/studier/bifly"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AT-334/834 Arctic Marine Measurements Techniques, Operations and Transport (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2024 – today.",
+     "links": [
+      [
+       "AT-334/834",
+       "https://www.unis.no/courses/at-834-arctic-marine-measurements-techniques-operations-and-transport/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "RSTC Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere – guest lecturer, Svalbard Integrated Arctic Earth Observing System (SIOS), 2026.",
+     "links": [
+      [
+       "RSTC",
+       "https://sios-svalbard.org/RSTC2026"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "GEE-M-MK2 Innovative Field Methods (Innovative Feldmethoden, Datenerhebung im Gelände) – guest lecturer. University of Potsdam, 2025.",
+     "links": [
+      [
+       "GEE-M-MK2 Innovative Field Methods",
+       "https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=modulansicht&publishConfFile=modulverwaltung&publishSubDir=up/modulbearbeiter&modul.modul_id=3774"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AGF-350/850 The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024.",
+     "links": [
+      [
+       "AGF-350/850",
+       "https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AGF-312 Remote Sensing of the Cryosphere (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2023.",
+     "links": [
+      [
+       "AGF-312",
+       "https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard) – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
+     "links": [
+      [
+       "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
+       "https://sios-svalbard.org/UAV4Svalbard"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Unmanned Aerial Vehicle: Environmental Applications – Advanced Level – guest lecturer, University of Silesia in Katowice, 2022.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AG-204/221 The Physical Geography of Svalbard (15 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2019 & 2021.",
+     "links": [
+      [
+       "AG-204",
+       "https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/"
+      ],
+      [
+       "221",
+       "https://www.unis.no/course/ag-221-arctic-physical-geographical-field-techniques/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "TRST Terrestrial Remote Sensing Training – guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020.",
+     "links": [
+      [
+       "TRST",
+       "https://sios-svalbard.org/TRST_2020"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AMS Advanced Modeling & Simulation Seminar Series – guest speaker. National Aeronautics and Space Administration (NASA), 2020.",
+     "links": [
+      [
+       "AMS",
+       "https://www.nas.nasa.gov/publications/ams/ams.html"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "TTK4 Unmanned Aerial Vehicles, guest lecturer. Norwegian University of Science and Technology (NTNU), 2018-2019.",
+     "links": [
+      [
+       "TTK4",
+       "https://www.itk.ntnu.no/emner/fordypning/TTK4"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS) – course responsible. University Centre in Svalbard (UNIS), 2017.",
+     "links": [
+      [
+       "AT-331/831",
+       "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2015-2016.",
+     "links": [
+      [
+       "AT-331/831",
+       "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Workshop on using graphic calculators in aerospace engineering studies, course responsible. University of Stuttgart, 2012-2013.",
+     "links": [],
+     "entry": true
+    }
+   ]
+  },
+  "Funding": {
+   "title": "Funding (16× National: 56.1MNOK & 4× EU: 2.4MEUR)",
+   "items": [
+    {
+     "y": "",
+     "t": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA). 0.5 MEUR (total 5.0 MEUR). Co-principal investigator.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Horizon Europe, 2026–2030, HORIZON-INFRA-2025-01-TECH-01: Smart Solutions for Climate/Environment-Neutral Arctic Research Infrastructures (SUSTAIN-ICE). 0.5 MEUR (total 5.0 MEUR). Co-principal investigator.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2026–2029, project number 359116: Industrial PhD on Ice Detection with LiDAR. 4.6 MNOK. Co-principal investigator.",
+     "links": [
+      [
+       "Industrial PhD on Ice Detection with LiDAR",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/359116"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2025–2030, project number 357451: Norwegian Centre for Embodied AI (NCEI). 5.0 MNOK (total 200 MNOK). Co-principal investigator.",
+     "links": [
+      [
+       "Norwegian Centre for Embodied AI (NCEI)",
+       "https://www.ntnu.edu/ncei"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "European Defence Fund, 2024–2027, EDF-2023-DA-C4ISR-TRPAS: Advanced capabilities & Certification for Tactical UAV Systems (ACTUS). 0.6 MEUR (total 42.0 MEUR). Co-principal investigator.",
+     "links": [
+      [
+       "Advanced capabilities & Certification for Tactical UAV Systems (ACTUS)",
+       "https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "European Defence Fund, 2023–2026, EDF-2022-LS-RA-SMERO-NT-TDRIC: Tactical Drones in Rain and Icing Conditions (TDRIC). 0.8 MEUR (total 4.0 MEUR). Co-principal investigator.",
+     "links": [
+      [
+       "Tactical Drones in Rain and Icing Conditions (TDRIC)",
+       "https://defence-industry-space.ec.europa.eu/system/files/2023-06/TDRIC-Factsheet_EDF22.pdf"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2024–2027, project number 350469: Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution. 9.1 MNOK. Co-principal investigator.",
+     "links": [
+      [
+       "Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/350469"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2024, project number 350269: Linking past and present surge dynamics at Borebreen from drone surveys. 80 kNOK. Investigator.",
+     "links": [
+      [
+       "Linking past and present surge dynamics at Borebreen from drone surveys",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/350269"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2022–2023, project number 333170: Drone-mapping Surging Glaciers in Svalbard. 50 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Drone-mapping Surging Glaciers in Svalbard",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/333170"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2021–2026, project number 316425: Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs). 12.4 MNOK. Co-principal investigator.",
+     "links": [
+      [
+       "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs)",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/316425"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2021–2025, project number 318000: Adverse weather mission planning for unmanned aerial vehicles (UAVs). 14.9 MNOK. Principal investigator.",
+     "links": [
+      [
+       "Adverse weather mission planning for unmanned aerial vehicles (UAVs)",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/318000"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2021–2024, project number 321667: Industrial PhD on Propeller Icing on Unmanned Aerial Vehicles. 2.5 MNOK. Principal investigator.",
+     "links": [
+      [
+       "Industrial PhD on Propeller Icing on Unmanned Aerial Vehicles",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/321667"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2020, project number 310702: Validation and Application of Novel Wind Estimation Techniques with UAVs in the Arctic. 29 kNOK. Co-principal investigator.",
+     "links": [
+      [
+       "Validation and Application of Novel Wind Estimation Techniques with UAVs in the Arctic",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/310702"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2019–2022, project number 296228: Autonomous icing protection solution for unmanned aircraft rotors. 6.4 MNOK. Post-doc.",
+     "links": [
+      [
+       "Autonomous icing protection solution for unmanned aircraft rotors",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/296228"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Research Council of Norway, 2019–2020, project number 296355: Using UAVs to investigate effects of crevasses upon glacier surface melting. 78 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Using UAVs to investigate effects of crevasses upon glacier surface melting",
+       "https://prosjektbanken.forskningsradet.no/project/FORISS/296355"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System, 2024, SESS Report 2024: Surging glaciers in Svalbard: Current knowledge and perspectives for monitoring. 200 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Surging glaciers in Svalbard: Current knowledge and perspectives for monitoring",
+       "https://sios-svalbard.org/SESS_Issue7"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System, 2023, Access Call: Drivers of surge activation at Borebreen. 200 kNOK. Investigator.",
+     "links": [
+      [
+       "Drivers of surge activation at Borebreen",
+       "https://sios-svalbard.org/BorebreenSurge"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System, 2022, SESS Report 2022: Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard. 200 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard",
+       "https://sios-svalbard.org/SESS_Issue5"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System, 2021, SESS Report 2021: Update to Scientific Applications of Unmanned Vehicles in Svalbard. 70 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Update to Scientific Applications of Unmanned Vehicles in Svalbard",
+       "https://sios-svalbard.org/SESS_Issue4"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System, 2020, SESS Report 2020: Scientific Applications of Unmanned Vehicles in Svalbard. 240 kNOK. Principal investigator.",
+     "links": [
+      [
+       "Scientific Applications of Unmanned Vehicles in Svalbard",
+       "https://sios-svalbard.org/SESS_Issue3"
+      ]
+     ],
+     "entry": true
+    }
+   ]
+  },
+  "Research_projects": {
+   "title": "Research Projects",
+   "items": [
+    {
+     "y": "",
+     "t": "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs). Funded by the Research Council of Norway (IKTPLUSS). 2020 – today.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Center of Excellence, Autonomous Marine Operations and Systems (AMOS). Funded by the Research Council of Norway, NTNU, Equinor, DNV GL and the Sintef Group. 2016 – 2023.",
+     "links": [
+      [
+       "AMOS",
+       "http://www.ntnu.edu/amos"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "NTNU Unmanned Aerial Vehicles Laboratory (UAV-lab). 2016 – today.",
+     "links": [
+      [
+       "UAV-lab",
+       "http://www.itk.ntnu.no/english/lab/unmanned"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "NTNU Unmanned Aerial Vehicles Icing Laboratory (UAV Icing Lab). 2021 – today.",
+     "links": [
+      [
+       "UAV Icing Lab",
+       "https://www.uavicinglab.com/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "UAV Crevasse – Using UAVs to investigate effects of crevasses upon glacier surface melting (RIS-ID 11148). 2019 – 2022.",
+     "links": [
+      [
+       "RIS-ID 11148",
+       "https://www.researchinsvalbard.no/project/9044"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Arctic ABL Wind – Novel method for wind measurements in the arctic atmospheric boundary layer (RIS-ID 11372). 2020 – 2021.",
+     "links": [
+      [
+       "RIS-ID 11372",
+       "https://www.researchinsvalbard.no/project/9389"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "2nd AIAA Ice Prediction Workshop (IPW). 2022 – 2023.",
+     "links": [
+      [
+       "IPW",
+       "http://folk.ntnu.no/richahan/IPW/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "1st AIAA Ice Prediction Workshop (IPW). 2020 – 2021.",
+     "links": [
+      [
+       "IPW",
+       "http://folk.ntnu.no/richahan/IPW/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "D•ICE ROTORS – Protecting the unmanned aircraft industry, funded by Research Council of Norway (BIA) and UBIQ Aerospace. 2019 – 2022.",
+     "links": [
+      [
+       "UBIQ Aerospace",
+       "https://www.ubiqaerospace.com/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Centre for integrated remote sensing and forecasting for arctic operations (CIRFA). 2016 – 2020.",
+     "links": [
+      [
+       "CIRFA",
+       "http://cirfa.uit.no/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "NATO AVT-388 – Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2023 – today.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "NATO AVT-ET-214 – Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2020 – 2022.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "NATO AVT-299 – Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. Participant. 2018 – 2021.",
+     "links": [],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Academic Engagement & Workgroups",
+     "links": [],
+     "entry": false
+    },
+    {
+     "y": "",
+     "t": "Guest Editor for the Special Issue: ”Recent Developments in Drones Icing\" in Drones, 2024.",
+     "links": [
+      [
+       "”Recent Developments in Drones Icing\"",
+       "https://www.mdpi.com/journal/drones/special_issues/6602HW657P"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "AIAA Atmospheric and Space Environments Technical Committee. 2023 – today.",
+     "links": [
+      [
+       "AIAA Atmospheric and Space Environments Technical Committee",
+       "https://www.aiaa.org/get-involved/committees-groups/technical-committees#aerospace-sciences-group"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "EUROCAE (European Organisation for Civil Aviation Equipment), WG-112 SG-4 Vertical Take-off and Landing (VTOL). 2022 – today.",
+     "links": [
+      [
+       "WG-112 SG-4",
+       "https://www.eurocae.net/about-us/working-groups/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "SAE Technical Committee – Aircraft Icing Technology (AC-9C). 2018 – today.",
+     "links": [
+      [
+       "AC-9C",
+       "https://www.sae.org/works/committeeHome.do?comtID=TEAAC9C"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Svalbard Integrated Arctic Earth Observing System. Science Optimisation Advisory Group and Remote Sensing Working Group. 2022 – today.",
+     "links": [
+      [
+       "Science Optimisation Advisory Group",
+       "https://sios-svalbard.org/SOAG"
+      ],
+      [
+       "Remote Sensing Working Group",
+       "https://sios-svalbard.org/RSWG"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Conference host of the 1st and 2nd International Workshop on UAV Icing. 2022 & 2024.",
+     "links": [
+      [
+       "International Workshop on UAV Icing",
+       "http://www.uavicingworkshop.com/"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Session chair for AIAA Aviation Forum, 2022 & 2024.",
+     "links": [
+      [
+       "AIAA Aviation Forum",
+       "https://www.aiaa.org/aviation"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Scientific committee member for the 20th International Workshop on Atmospheric Icing of Structures (IWAS) in Narvik, 2024.",
+     "links": [
+      [
+       "20th International Workshop on Atmospheric Icing of Structures (IWAS)",
+       "https://en.uit.no/tavla/artikkel/804104/iwasi_conference"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Scientific committee member for the 8th ISARRA (International Society for Atmospheric Research using Remotely Piloted Aircraft) conference in Bergen. 2023.",
+     "links": [
+      [
+       "8th ISARRA (International Society for Atmospheric Research using Remotely Piloted Aircraft) conference",
+       "https://sites.google.com/view/isarra2023/home?authuser=0"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Guest Editor for the Special Issue \"Atmospheric Measurements Using Unmanned Systems\" in Drones, 2020-2021.",
+     "links": [
+      [
+       "\"Atmospheric Measurements Using Unmanned Systems\"",
+       "https://www.mdpi.com/journal/drones/special_issues/atmos_US"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Reviewer for several journals. See Publons.",
+     "links": [
+      [
+       "Publons",
+       "https://www.webofscience.com/wos/author/record/GRR-6397-2022"
+      ]
+     ],
+     "entry": true
+    },
+    {
+     "y": "",
+     "t": "Reviewer for AIAA AVIATION Atmospheric and Space Environments (2022) and SAE International Conference on Icing of Aircraft, Engines, and Structures (2023).",
+     "links": [],
+     "entry": true
+    }
+   ]
+  },
+  "end": {
+   "title": "end",
+   "items": []
+  }
+ },
+ "source": "https://richahan.folk.ntnu.no/index.htm",
+ "lastModified": "(test snapshot)"
+}

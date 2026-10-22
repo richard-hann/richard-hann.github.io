@@ -42,16 +42,17 @@ Research funding
 {% for f in site.data.folk.funding %}  <li>{{ f }}</li>
 {% endfor %}</ul>
 
-Professional service
+Academic engagement & workgroups
 ======
-* Organiser, International UAV Icing Workshop, Trondheim (2022, 2024)
-* Guest editor, special issue on UAV icing, *MDPI Drones* (2024–), with E. Villeneuve
-* Guest editor, special issue "Atmospheric Measurements Using Unmanned Systems", *MDPI Drones* (2020–2021)
-* Member, AIAA Atmospheric and Space Environments Technical Committee
-* Member, SAE AC-9C Aircraft Icing Technology Committee (2018–)
-* 1st and 2nd AIAA Ice Prediction Workshop (2020–2023)
-* Co-chair, NATO AVT-388 Operation of UAVs in Icing Environments (2023–); co-chair, AVT-ET-214 (2020–2022); participant, AVT-299 Assessment of Anti-Icing and De-Icing Technologies (2018–2021)
-* Reviewer for several international journals
+<ul class="folk-list">
+{% for e in site.data.folk.engagement %}  <li>{{ e }}</li>
+{% endfor %}</ul>
+
+Research projects
+======
+<ul class="folk-list">
+{% for p in site.data.folk.projects %}  <li>{{ p }}</li>
+{% endfor %}</ul>
 
 Skills
 ======
@@ -71,9 +72,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul class="folk-list">
+{% for t in site.data.folk.teaching %}  <li>{{ t }}</li>
+{% endfor %}</ul>
   
 Supervision
 ======
