@@ -148,3 +148,16 @@ details.pub-cite {
   padding: 0 0.5em;
   cursor: pointer;
 }
+
+/* ---- Sidebar: let long lines (institution names) wrap instead of being cut ---- */
+.author__urls li {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  padding-left: 1.6em;
+  text-indent: -1.6em;
+  line-height: 1.35;
+  margin-bottom: 0.35em;
+}
+.author__urls li i,
+.author__urls li svg { text-indent: 0; }

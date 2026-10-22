@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Presentations and Invited Talks"
-permalink: /presentations/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 redirect_from:
-  - /talks/
+  - /presentations/
 ---
 
 {% assign t = site.data.folk.presentations_title | split: "(" | last | split: ")" | first %}
 <p class="pub-summary">{{ t }}</p>
 
-{% include compact-list.html items=site.talks %}
+{% include pub-cards.html items=site.talks %}

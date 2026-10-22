@@ -148,24 +148,26 @@ d = os.path.join(ROOT, "_talks"); clear(d)
 used = set()
 for n, i in enumerate(entries(S["Presentations"])):
     t = i["t"]
-    parts = re.split(r"\s*\(\d{4}\)\.\s*", t, maxsplit=1)
-    rest = parts[1] if len(parts) > 1 else t
+    m = re.search(r"\(\d{4}\)\.?", t)
+    authors = t[:m.start()].strip(" ,:") if m else ""
+    rest = t[m.end():].strip() if m else t
     title, _, after = rest.partition(". ")
-    after = after.rstrip(".")
+    after = after.strip().rstrip(".")
     bits = [b.strip() for b in after.split(",")] if after else []
-    loc = bits.pop() if len(bits) > 1 else ""
-    ty = "Conference presentation"
-    if bits and re.match(r"(Invited|Keynote)", bits[0], re.I):
-        ty = bits.pop(0); ty = ty[0].upper() + ty[1:]
-    s = f'{i["y"]}-{slug(title)}'
-    while s in used: s += "-2"
-    used.add(s)
+    loc = bits[-1] if len(bits) > 1 else ""
+    ty = bits[0] if bits and re.match(r"(Invited|Keynote)", bits[0], re.I) else "Conference presentation"
+    s_ = f'{i["y"]}-{slug(title)}'
+    while s_ in used: s_ += "-2"
+    used.add(s_)
+    lt, href = main_link(i)
     cit = fmt(t, i["links"])
-    fm = ["---", f"title: {yq(title)}", "collection: talks", f"type: {yq(ty)}", f"permalink: /talks/{s}",
-          f'venue: {yq(", ".join(bits))}', f'date: {i["y"]}-01-01', f"order: {n}"]
+    fm = ["---", f"title: {yq(title.strip(' .'))}", "collection: talks", f"type: {yq(ty)}", f"permalink: /talks/{s_}",
+          f"venue: {yq(after)}", f'date: {i["y"]}-01-01', f'year: {i["y"]}', f"order: {n}",
+          f"authors: {yq(fmt(authors))}", "doi: ''"]
     if loc: fm.append(f"location: {yq(loc)}")
-    fm += [f"citation: {yq(cit)}", "---"]
-    open(os.path.join(d, s + ".md"), "w", encoding="utf-8").write("\n".join(fm) + "\n" + cit + "\n")
+    if href: fm.append(f"paperurl: {yq(href)}")
+    fm += [f"citation: {yq(cit)}", f'citation_plain: {yq(html.escape(t, quote=False))}', "---"]
+    open(os.path.join(d, s_ + ".md"), "w", encoding="utf-8").write("\n".join(fm) + "\n" + cit + "\n")
 
 # ---------------------------------------------------------------- lists -> _data/folk.yml
 def flist(sec_items):
