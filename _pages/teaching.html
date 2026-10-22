@@ -5,6 +5,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<ul class="folk-list">
-{% for t in site.data.folk.teaching %}  <li>{{ t }}</li>
-{% endfor %}</ul>
+{% include cards.html items=site.data.folk.teaching_cards %}

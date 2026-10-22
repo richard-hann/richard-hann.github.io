@@ -1,0 +1,18 @@
+{% assign c = include.c %}
+<article class="pub">
+  <h3 class="pub-title">{% if c.url and c.url != "" %}<a href="{{ c.url }}">{{ c.title }}</a>{% else %}{{ c.title }}{% endif %}</h3>
+  {% if c.meta and c.meta != "" %}<div class="pub-meta">{{ c.meta }}</div>{% endif %}
+  {% if c.doi and c.doi != "" or c.cite and c.cite != "" %}
+  <div class="pub-links">
+    {% if c.doi and c.doi != "" %}<a class="pub-btn" href="https://doi.org/{{ c.doi }}">doi.org/{{ c.doi }}</a>{% endif %}
+    {% if c.cite and c.cite != "" %}
+    <details class="pub-cite">
+      <summary class="pub-btn">Cite</summary>
+      <div class="pub-cite-box"><span class="pub-cite-text">{{ c.cite }}</span>
+        <button type="button" class="pub-copy" onclick="var t=this.parentNode.querySelector('.pub-cite-text').innerText; navigator.clipboard.writeText(t); this.textContent='Copied';">Copy</button>
+      </div>
+    </details>
+    {% endif %}
+  </div>
+  {% endif %}
+</article>

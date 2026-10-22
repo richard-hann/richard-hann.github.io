@@ -1,0 +1,12 @@
+{% comment %} Generic list in the publication style. items = list of {title, url, meta, doi, cite, year}; by_year=true groups by year. {% endcomment %}
+{% if include.by_year %}{% assign _groups = include.items | group_by: "year" %}{% else %}{% assign _groups = "" | split: "" %}{% endif %}
+<div class="pubs">
+{% if include.by_year %}
+{% for g in _groups %}
+  <h2 class="pubs-year">{{ g.name }}</h2>
+  {% for c in g.items %}{% include card.html c=c %}{% endfor %}
+{% endfor %}
+{% else %}
+  {% for c in include.items %}{% include card.html c=c %}{% endfor %}
+{% endif %}
+</div>

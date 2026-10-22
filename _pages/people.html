@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 {% for sec in site.data.folk.people %}
-<h2 class="folk-h">{{ sec.title }}</h2>
+{% assign head = sec.title | split: "(" %}
+<h2 class="pubs-year">{{ head[0] | replace: "People – ", "" }}{% if head.size > 1 %} <span class="pubs-note">({{ head[1] }}</span>{% endif %}</h2>
 {% for g in sec.groups %}
 {% if g.name != "" %}<p class="folk-sub">{{ g.name }}</p>{% endif %}
-<ul class="folk-list">
-{% for it in g.items %}  <li>{{ it }}</li>
-{% endfor %}</ul>
+{% include cards.html items=g.cards %}
 {% endfor %}
 {% endfor %}

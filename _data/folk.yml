@@ -27,6 +27,176 @@
   "<b>Hann, R.</b>, Müller, N. (2020). <a href=\"https://doi.org/10.18710/5XYALW\">Icing Validation Database</a>. DataverseNO, Version 1. <span class=\"pub-doi\"><a href=\"https://doi.org/10.18710/5XYALW\">doi.org/10.18710/5XYALW</a></span>",
   "<b>Hann, R.</b>, Wallisch, J. (2020). <a href=\"https://doi.org/10.18710/L41IGQ\">UAV Specification Database</a>. DataverseNO, Version 1. <span class=\"pub-doi\"><a href=\"https://doi.org/10.18710/L41IGQ\">doi.org/10.18710/L41IGQ</a></span>"
  ],
+ "datasets_cards": [
+  {
+   "title": "Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2026",
+   "url": "https://doi.org/10.5281/zenodo.22881363",
+   "meta": "<b>Hann, R.</b> · 2026 · <em>Dataset. Zenodo, Version 1</em>",
+   "doi": "10.5281/zenodo.22881363",
+   "cite": "Hann, R. (2026). Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2026, Dataset. Zenodo, Version 1. doi.org/10.5281/zenodo.22881363",
+   "year": "2026"
+  },
+  {
+   "title": "Scientific Applications of Unmanned Vehicles in Svalbard",
+   "url": "https://doi.org/10.5281/zenodo.17187542",
+   "meta": "<b>Hann, R.</b> · 2026 · <em>Dataset, Zenodo, Version 2</em>",
+   "doi": "10.5281/zenodo.17187542",
+   "cite": "Hann, R. (2026). Scientific Applications of Unmanned Vehicles in Svalbard, Dataset, Zenodo, Version 2. doi.org/10.5281/zenodo.17187542",
+   "year": "2026"
+  },
+  {
+   "title": "Drone-based glacier mapping of Borebreen in Svalbard, 2025",
+   "url": "https://doi.org/10.18710/ZAJLVT",
+   "meta": "<b>Hann, R.</b>, Gajek, W., Pearce, D., &amp; Harcourt, W. · 2025 · <em>Dataset, DataverseNO, Version 1</em>",
+   "doi": "10.18710/ZAJLVT",
+   "cite": "Hann, R., Gajek, W., Pearce, D., &amp; Harcourt, W. (2025). Drone-based glacier mapping of Borebreen in Svalbard, 2025, Dataset, DataverseNO, Version 1. doi.org/10.18710/ZAJLVT",
+   "year": "2025"
+  },
+  {
+   "title": "Drone-based glacier mapping of Fridtjovbreen, Vallakrabreen, Paulabreen, and Scheelebreen",
+   "url": "https://doi.org/10.18710/GA1FTV",
+   "meta": "<b>Hann, R.</b>, Lockhart, K. · 2025 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/GA1FTV",
+   "cite": "Hann, R., Lockhart, K. (2025). Drone-based glacier mapping of Fridtjovbreen, Vallakrabreen, Paulabreen, and Scheelebreen, DataverseNO, Version 1. doi.org/10.18710/GA1FTV",
+   "year": "2025"
+  },
+  {
+   "title": "Svalbard Surge Database 2024",
+   "url": "https://doi.org/10.5281/zenodo.14229560",
+   "meta": "Harcourt, W., Pearce, D., Gajek, W., Lovell, H., Luckman, A., Benn, D., Kohler, J., Kääb, A., <b>Hann, R.</b> · 2024 · <em>Dataset, Zenodo</em>",
+   "doi": "10.5281/zenodo.14229560",
+   "cite": "Harcourt, W., Pearce, D., Gajek, W., Lovell, H., Luckman, A., Benn, D., Kohler, J., Kääb, A., Hann, R. (2024). Svalbard Surge Database 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.14229560",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based glacier mapping of Borebreen in Svalbard, 2024",
+   "url": "https://doi.org/10.5281/zenodo.13837315",
+   "meta": "<b>Hann, R.</b>, Gajek, W., Pearce, D., &amp; Harcourt, W. · 2024 · <em>Dataset, Zenodo</em>",
+   "doi": "10.5281/zenodo.13837315",
+   "cite": "Hann, R., Gajek, W., Pearce, D., &amp; Harcourt, W. (2024). Drone-based glacier mapping of Borebreen in Svalbard, 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.13837315",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based geomorphology mapping of Borebreen in Svalbard, 2024",
+   "url": "https://doi.org/10.5281/zenodo.13837009",
+   "meta": "<b>Hann, R.</b>, Gajek, W., Pearce, D., &amp; Harcourt, W. · 2024 · <em>Dataset, Zenodo</em>",
+   "doi": "10.5281/zenodo.13837009",
+   "cite": "Hann, R., Gajek, W., Pearce, D., &amp; Harcourt, W. (2024). Drone-based geomorphology mapping of Borebreen in Svalbard, 2024, Dataset, Zenodo. doi.org/10.5281/zenodo.13837009",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of surging glaciers in Rindersbukta, Svalbard",
+   "url": "https://doi.org/10.18710/IBBSGD",
+   "meta": "<b>Hann, R.</b> · 2024 · <em>DataverseNO, Version 2</em>",
+   "doi": "10.18710/IBBSGD",
+   "cite": "Hann, R. (2024). Drone-based mapping of surging glaciers in Rindersbukta, Svalbard, DataverseNO, Version 2. doi.org/10.18710/IBBSGD",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2024",
+   "url": "https://doi.org/10.5281/zenodo.13623723",
+   "meta": "<b>Hann, R.</b> · 2024 · <em>Dataset. Zenodo, Version 1</em>",
+   "doi": "10.5281/zenodo.13623723",
+   "cite": "Hann, R. (2024). Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2024, Dataset. Zenodo, Version 1. doi.org/10.5281/zenodo.13623723",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of calving rates of Borebreen in Svalbard",
+   "url": "https://doi.org/10.18710/B553MB",
+   "meta": "<b>Hann, R.</b>, Rhodes, N., Gajek, W., Pearce, D., Harcourt, W. · 2024 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/B553MB",
+   "cite": "Hann, R., Rhodes, N., Gajek, W., Pearce, D., Harcourt, W. (2024). Drone-based mapping of calving rates of Borebreen in Svalbard, DataverseNO, Version 1. doi.org/10.18710/B553MB",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of Larsbreen, Longyearbreen, and Tellbreen in Svalbard",
+   "url": "https://doi.org/10.18710/L41RKZ",
+   "meta": "<b>Hann, R.</b>, Rinne, E. · 2024 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/L41RKZ",
+   "cite": "Hann, R., Rinne, E. (2024). Drone-based mapping of Larsbreen, Longyearbreen, and Tellbreen in Svalbard, DataverseNO, Version 1. doi.org/10.18710/L41RKZ",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of crevassed glaciers in Svalbard",
+   "url": "https://doi.org/10.18710/KLISS5",
+   "meta": "<b>Hann, R.</b> · 2023 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/KLISS5",
+   "cite": "Hann, R. (2023). Drone-based mapping of crevassed glaciers in Svalbard, DataverseNO, Version 1. doi.org/10.18710/KLISS5",
+   "year": "2023"
+  },
+  {
+   "title": "Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment",
+   "url": "https://doi.org/10.18710/0NO42L",
+   "meta": "<b>Hann, R.</b> · 2022 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/0NO42L",
+   "cite": "Hann, R. (2022). Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment, DataverseNO, Version 1. doi.org/10.18710/0NO42L",
+   "year": "2022"
+  },
+  {
+   "title": "Validation data for wind speed and wind direction measurements with quadcopter drones",
+   "url": "https://doi.org/10.18710/AFDYLS",
+   "meta": "<b>Hann, R.</b>, Meier, K., Garreau, A. · 2022 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/AFDYLS",
+   "cite": "Hann, R., Meier, K., Garreau, A. (2022). Validation data for wind speed and wind direction measurements with quadcopter drones, DataverseNO, Version 1. doi.org/10.18710/AFDYLS",
+   "year": "2022"
+  },
+  {
+   "title": "Drone-based mapping of Sassendalen for reindeer counting in Svalbard",
+   "url": "https://doi.org/10.18710/KHQKWH",
+   "meta": "<b>Hann, R.</b> · 2022 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/KHQKWH",
+   "cite": "Hann, R. (2022). Drone-based mapping of Sassendalen for reindeer counting in Svalbard. DataverseNO, Version 1. doi.org/10.18710/KHQKWH",
+   "year": "2022"
+  },
+  {
+   "title": "Scientific literature that utilizes unmanned vehicles in Svalbard",
+   "url": "https://sios-svalbard.org/UAV_Svalbard",
+   "meta": "<b>Hann, R.</b>, et al. · 2022 · <em>Svalbard Integrated Arctic Earth Observing System, SIOS</em>",
+   "doi": "",
+   "cite": "Hann, R., et al. (2022). Scientific literature that utilizes unmanned vehicles in Svalbard. Svalbard Integrated Arctic Earth Observing System, SIOS.",
+   "year": "2022"
+  },
+  {
+   "title": "Drone-based mapping of the Endalen alluvial fan in Svalbard",
+   "url": "https://doi.org/10.18710/AED5GT",
+   "meta": "<b>Hann, R.</b> · 2021 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/AED5GT",
+   "cite": "Hann, R. (2021). Drone-based mapping of the Endalen alluvial fan in Svalbard. DataverseNO, Version 1. doi.org/10.18710/AED5GT",
+   "year": "2021"
+  },
+  {
+   "title": "Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping in Svalbard",
+   "url": "https://doi.org/10.18710/JMWF3E",
+   "meta": "<b>Hann, R.</b> · 2021 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/JMWF3E",
+   "cite": "Hann, R. (2021). Aerodynamic roughness length of crevassed tidewater glaciers from UAV mapping in Svalbard. DataverseNO, Version 1. doi.org/10.18710/JMWF3E",
+   "year": "2021"
+  },
+  {
+   "title": "Drone-based mapping of the Lagoon Pingo in Svalbard",
+   "url": "https://doi.org/10.18710/IMPEG8",
+   "meta": "<b>Hann, R.</b> · 2021 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/IMPEG8",
+   "cite": "Hann, R. (2021). Drone-based mapping of the Lagoon Pingo in Svalbard. DataverseNO, Version 1. doi.org/10.18710/IMPEG8",
+   "year": "2021"
+  },
+  {
+   "title": "Icing Validation Database",
+   "url": "https://doi.org/10.18710/5XYALW",
+   "meta": "<b>Hann, R.</b>, Müller, N. · 2020 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/5XYALW",
+   "cite": "Hann, R., Müller, N. (2020). Icing Validation Database. DataverseNO, Version 1. doi.org/10.18710/5XYALW",
+   "year": "2020"
+  },
+  {
+   "title": "UAV Specification Database",
+   "url": "https://doi.org/10.18710/L41IGQ",
+   "meta": "<b>Hann, R.</b>, Wallisch, J. · 2020 · <em>DataverseNO, Version 1</em>",
+   "doi": "10.18710/L41IGQ",
+   "cite": "Hann, R., Wallisch, J. (2020). UAV Specification Database. DataverseNO, Version 1. doi.org/10.18710/L41IGQ",
+   "year": "2020"
+  }
+ ],
  "people": [
   {
    "title": "People – Postdocs (1 postdoc)",
@@ -35,6 +205,16 @@
      "name": "",
      "items": [
       "Bogdan Løw-Hansen, Atmospheric icing detection and system identification for disruptive aircraft, 2026–202X, NTNU, funded by RCN and UBIQ Aerospace."
+     ],
+     "cards": [
+      {
+       "title": "Atmospheric icing detection and system identification for disruptive aircraft",
+       "url": "",
+       "meta": "Bogdan Løw-Hansen · 2026–202X, NTNU, funded by RCN and UBIQ Aerospace",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      }
      ]
     }
    ]
@@ -50,6 +230,48 @@
       "Kristoffer Kvist, Helicopter icing, 2024–202X, The Arctic University of Norway (UiT), co-supervisor, ongoing.",
       "Markus Lindner, Icing performance of UAVs, 2022–202X, NTNU, main supervisor, ongoing.",
       "Michael Cheung, Path-planning of UAVs in icing conditions, 2021–202X, NTNU, main supervisor, ongoing."
+     ],
+     "cards": [
+      {
+       "title": "UAV Icing Detection with LiDAR",
+       "url": "",
+       "meta": "Lars Klein · 2026–2029, NTNU, main supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Real-time vegetation mapping in Antarctica",
+       "url": "",
+       "meta": "Kaelan Lockhart · Queensland University of Technology (QUT), co-supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Helicopter icing",
+       "url": "",
+       "meta": "Kristoffer Kvist · 2024–202X, The Arctic University of Norway (UiT), co-supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Icing performance of UAVs",
+       "url": "",
+       "meta": "Markus Lindner · 2022–202X, NTNU, main supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Path-planning of UAVs in icing conditions",
+       "url": "",
+       "meta": "Michael Cheung · 2021–202X, NTNU, main supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      }
      ]
     },
     {
@@ -59,6 +281,40 @@
       "Nicolas Müller, <a href=\"https://hdl.handle.net/11250/5536902\">Icing, performance penalties, and ice protection systems for UAV propellers</a>, 2021–2026, UBIQ Aerospace / NTNU, main supervisor, completed.",
       "Joachim Wallisch, <a href=\"https://hdl.handle.net/11250/5534819\">Reducing Energy Consumption of UAVs in Icing Conditions with Active Electrothermal De-Icing Ice Protection Systems</a>, 2021–2026, NTNU, main supervisor, completed.",
       "Mauro Ghirardelli, <a href=\"https://bora.uib.no/bora-xmlui/handle/11250/3170691\">SAMURAI - Development, Test and Validation of an Airborne Sonic Anemometer</a>, 2021–2024, University of Bergen (UiB), co-supervisor, completed."
+     ],
+     "cards": [
+      {
+       "title": "Modeling and Validation of Atmospheric Icing Effects on Small Fixed-Wing UAVs",
+       "url": "https://hdl.handle.net/11250/5533084",
+       "meta": "Bogdan Løw-Hansen · 2021–2026, NTNU, main supervisor, completed",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Icing, performance penalties, and ice protection systems for UAV propellers",
+       "url": "https://hdl.handle.net/11250/5536902",
+       "meta": "Nicolas Müller · 2021–2026, UBIQ Aerospace / NTNU, main supervisor, completed",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Reducing Energy Consumption of UAVs in Icing Conditions with Active Electrothermal De-Icing Ice Protection Systems",
+       "url": "https://hdl.handle.net/11250/5534819",
+       "meta": "Joachim Wallisch · 2021–2026, NTNU, main supervisor, completed",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "SAMURAI - Development, Test and Validation of an Airborne Sonic Anemometer",
+       "url": "https://bora.uib.no/bora-xmlui/handle/11250/3170691",
+       "meta": "Mauro Ghirardelli · 2021–2024, University of Bergen (UiB), co-supervisor, completed",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      }
      ]
     }
    ]
@@ -71,6 +327,24 @@
      "items": [
       "Knut Olav Nordgarden Kragh, Duo Drone, NTNU, main supervisor, 2026.",
       "Jonas Kalkenberg Guttormsen, Path planning, NTNU, co-supervisor."
+     ],
+     "cards": [
+      {
+       "title": "Duo Drone",
+       "url": "",
+       "meta": "Knut Olav Nordgarden Kragh · NTNU, main supervisor, 2026",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Path planning",
+       "url": "",
+       "meta": "Jonas Kalkenberg Guttormsen · NTNU, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      }
      ]
     },
     {
@@ -101,6 +375,208 @@
       "Adrian Winter, <a href=\"https://folk.ntnu.no/richahan/Publications/2019_Winter_Thesis.pdf\">Systems Identification, Flight Performance, and Control of a Fixed-Wing UAV in Icing Conditions</a>, master thesis, 2019, NTNU / Uni Stuttgart, main supervisor.",
       "Julie Krøgenes, <a href=\"http://hdl.handle.net/11250/2454897\">Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions</a>, master thesis, 2017, NTNU, co-supervisor.",
       "Lovisa Brandrud, <a href=\"http://hdl.handle.net/11250/2454897\">Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions</a>, master thesis, 2017, NTNU, co-supervisor."
+     ],
+     "cards": [
+      {
+       "title": "On the Redesign and Characterization of a Small-Scale Icing Wind Tunnel Using Experimental and Numerical Methods",
+       "url": "https://richahan.folk.ntnu.no/Publications/2025_R%c3%b6hl_Thesis.pdf",
+       "meta": "Modest Röhl · UBIQ Aerospace / Uni Stuttgart, 2025, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Icing on Airborne Wind Energy",
+       "url": "https://richahan.folk.ntnu.no/Publications/2025_Ernstig_Thesis.pdf",
+       "meta": "Noel Ernsting · NTNU / Uni Stuttgart, 2025, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Experimental and Numerical Investigation on Aerodynamic Performance Degradation on an UAV Airfoil",
+       "url": "https://richahan.folk.ntnu.no/Publications/2025_R%c3%b6%c3%9f_Thesis.pdf",
+       "meta": "Jakob Röß · NTNU / Uni Stuttgart, 2024/25, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "CFD Simulation of Icing on a Flying-Wing UAV",
+       "url": "https://folk.ntnu.no/richahan/Publications/2024_Henzler_Thesis.pdf",
+       "meta": "Michael Henzler · NTNU / Uni Stuttgart, 2023/24, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Development of a Photogrammetry Method to Digitize Ice Shapes on UAVs",
+       "url": "https://folk.ntnu.no/richahan/Publications/2024_Goehring_Thesis.pdf",
+       "meta": "Samuel Göhring · NTNU / Uni Stuttgart, 2023/24, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Numerical investigation of heat transfer on propeller ice protection systems for unmanned aerial vehicles",
+       "url": "https://folk.ntnu.no/richahan/Publications/2023_Frey_Thesis.pdf",
+       "meta": "Markus Frey · 2023, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "CFD icing simulations on a fixed-wing UAV engine inlet",
+       "url": "https://folk.ntnu.no/richahan/Publications/2023_Wurst_Thesis.pdf",
+       "meta": "Lukas Wurst · 2022/23, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "CFD Icing Simulations on Rotors for eVTOL Unmanned Aircraft",
+       "url": "https://folk.ntnu.no/richahan/Publications/2023_Heramarwan_Thesis.pdf",
+       "meta": "Henidya Heramarwan · 2022/23, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "CFD Simulation of the Air Flow Field around a Ship",
+       "url": "https://folk.ntnu.no/richahan/Publications/2022_van_Reen_Thesis.pdf",
+       "meta": "Stephan Van Reen · 2022, NTNU / UNIS / Aalto, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Electrothermal Ice-Shedding Detection for UAVs",
+       "url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2781079",
+       "meta": "Bogdan Løw-Hansen · 2021, NTNU, supporting supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "An energy consumption model for UAVs in icing conditions",
+       "url": "https://folk.ntnu.no/richahan/Publications/2021_Cheung_Thesis.pdf",
+       "meta": "Michael Cheung · 2021, NTNU, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Wind Estimation with multirotor UAVs",
+       "url": "https://folk.ntnu.no/richahan/Publications/2021_Meier_Thesis.pdf",
+       "meta": "Kilian Meier · master thesis, 2021, UNIS / École Polytechnique Fédérale de Lausanne, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Robust and Gain Scheduled Flight Control of Fixed-wing UAVs in Wind and Icing Conditions",
+       "url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2781074",
+       "meta": "Ruben Kleiven · master thesis, 2021, NTNU, supporting supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "UAV Icing: Numerical and Experimental Study of Performance Penalties on an RG-15 Airfoil",
+       "url": "https://folk.ntnu.no/richahan/Publications/2021_Oswald_Thesis.pdf",
+       "meta": "Johannes Oswald · master thesis, 2020/21, Uni Stuttgart / von Karman Institute / NTNU, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Heat Transfer Simulations of Crevassed Glaciers",
+       "url": "https://folk.ntnu.no/richahan/Publications/2021_Nuessle_Thesis.pdf",
+       "meta": "Max Nüßle · master thesis, 2020/21, Uni Stuttgart / UNIS / NTNU, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Advanced path planning for UAVs in icing conditions",
+       "url": "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2786767",
+       "meta": "Mikkel Tiller · master thesis, 2020/21, NTNU, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Numerical simulation of the ice accretion on a propeller of a small fixed-wing UAV",
+       "url": "https://folk.ntnu.no/richahan/Publications/2020_M%C3%BCller_Thesis.pdf",
+       "meta": "Nicolas Müller · master thesis, 2020, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Aerodynamic Roughness Length of Crevassed Tidewater Glaciers from UAV Mapping",
+       "url": "https://folk.ntnu.no/richahan/Publications/2020_Dachauer_Thesis.pdf",
+       "meta": "Armin Dachauer · master thesis, 2020, UNIS / ETH Zürich, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Validation and Application of Novel Wind Estimation Methods with Quadcopter UAVs in the Arctic",
+       "url": "https://folk.ntnu.no/richahan/Publications/2020_Garreau_Thesis.pdf",
+       "meta": "Arthur Garreau · master thesis, 2020, UNIS / École nationale de la météorologie (ENM), main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Mission planning for fixed-wing UAVs in wind and icing conditions",
+       "url": "https://folk.ntnu.no/richahan/Publications/2020_Narum_thesis.pdf",
+       "meta": "Edvard Frimann Løes Narum · master thesis, 2020, NTNU, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Design of a low-speed icing wind tunnel for UAVs",
+       "url": "https://folk.ntnu.no/richahan/Publications/2020_Wallisch_Thesis.pdf",
+       "meta": "Joachim Wallisch · master thesis, 2020, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Airfoil",
+       "url": "https://folk.ntnu.no/richahan/Publications/2019_Fajt_Thesis.pdf",
+       "meta": "Nicolas Fajt · master thesis, 2019, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Systems Identification, Flight Performance, and Control of a Fixed-Wing UAV in Icing Conditions",
+       "url": "https://folk.ntnu.no/richahan/Publications/2019_Winter_Thesis.pdf",
+       "meta": "Adrian Winter · master thesis, 2019, NTNU / Uni Stuttgart, main supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions",
+       "url": "http://hdl.handle.net/11250/2454897",
+       "meta": "Julie Krøgenes · master thesis, 2017, NTNU, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Aerodynamic Performance of the NREL S826 Airfoil in Icing Conditions",
+       "url": "http://hdl.handle.net/11250/2454897",
+       "meta": "Lovisa Brandrud · master thesis, 2017, NTNU, co-supervisor",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      }
      ]
     }
    ]
@@ -125,6 +601,136 @@
   "<a href=\"https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/\">AT-331/831</a> Arctic Environmental Pollution: Distribution and Processes, (10 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2015-2016.",
   "Workshop on using graphic calculators in aerospace engineering studies, course responsible. University of Stuttgart, 2012-2013."
  ],
+ "teaching_cards": [
+  {
+   "title": "FLYT2201 Aircraft Mechanics",
+   "url": "https://ntnu.edu/studies/courses/FLYT2201",
+   "meta": "lecturer · Norwegian University of Science and Technology (NTNU), 2025 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "FLYT1101 Introduction to Aircraft and Aviation",
+   "url": "https://www.ntnu.no/studier/bifly",
+   "meta": "lecturer · Norwegian University of Science and Technology (NTNU), 2024 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AT-334/834 Arctic Marine Measurements Techniques, Operations and Transport (10 ECTS)",
+   "url": "https://www.unis.no/courses/at-834-arctic-marine-measurements-techniques-operations-and-transport/",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2024 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "RSTC Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere",
+   "url": "https://sios-svalbard.org/RSTC2026",
+   "meta": "guest lecturer, Svalbard Integrated Arctic Earth Observing System (SIOS), 2026",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "GEE-M-MK2 Innovative Field Methods (Innovative Feldmethoden, Datenerhebung im Gelände)",
+   "url": "https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=modulansicht&publishConfFile=modulverwaltung&publishSubDir=up/modulbearbeiter&modul.modul_id=3774",
+   "meta": "guest lecturer · University of Potsdam, 2025",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AGF-350/850 The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS)",
+   "url": "https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AGF-312 Remote Sensing of the Cryosphere (10 ECTS)",
+   "url": "https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2023",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
+   "url": "https://sios-svalbard.org/UAV4Svalbard",
+   "meta": "main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Unmanned Aerial Vehicle: Environmental Applications",
+   "url": "",
+   "meta": "Advanced Level – guest lecturer, University of Silesia in Katowice, 2022",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AG-204/221 The Physical Geography of Svalbard (15 ECTS)",
+   "url": "https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/",
+   "meta": "guest lecturer · University Centre in Svalbard (UNIS), 2019 &amp; 2021",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "TRST Terrestrial Remote Sensing Training",
+   "url": "https://sios-svalbard.org/TRST_2020",
+   "meta": "guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AMS Advanced Modeling &amp; Simulation Seminar Series",
+   "url": "https://www.nas.nasa.gov/publications/ams/ams.html",
+   "meta": "guest speaker · National Aeronautics and Space Administration (NASA), 2020",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "TTK4 Unmanned Aerial Vehicles",
+   "url": "https://www.itk.ntnu.no/emner/fordypning/TTK4",
+   "meta": "guest lecturer · Norwegian University of Science and Technology (NTNU), 2018-2019",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)",
+   "url": "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/",
+   "meta": "course responsible · University Centre in Svalbard (UNIS), 2017",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)",
+   "url": "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/",
+   "meta": "guest lecturer · University Centre in Svalbard (UNIS), 2015-2016",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Workshop on using graphic calculators in aerospace engineering studies",
+   "url": "",
+   "meta": "course responsible · University of Stuttgart, 2012-2013",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  }
+ ],
  "funding_title": "Funding (16× National: 56.1MNOK & 4× EU: 2.4MEUR)",
  "funding_header": "16× National: 56.1MNOK & 4× EU: 2.4MEUR",
  "funding": [
@@ -148,6 +754,168 @@
   "Svalbard Integrated Arctic Earth Observing System, 2022, SESS Report 2022: <a href=\"https://sios-svalbard.org/SESS_Issue5\">Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard</a>. 200 kNOK. Principal investigator.",
   "Svalbard Integrated Arctic Earth Observing System, 2021, SESS Report 2021: <a href=\"https://sios-svalbard.org/SESS_Issue4\">Update to Scientific Applications of Unmanned Vehicles in Svalbard</a>. 70 kNOK. Principal investigator.",
   "Svalbard Integrated Arctic Earth Observing System, 2020, SESS Report 2020: <a href=\"https://sios-svalbard.org/SESS_Issue3\">Scientific Applications of Unmanned Vehicles in Svalbard</a>. 240 kNOK. Principal investigator."
+ ],
+ "funding_cards": [
+  {
+   "title": "Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)",
+   "url": "",
+   "meta": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01 · 0.5 MEUR (total 5.0 MEUR) · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Smart Solutions for Climate/Environment-Neutral Arctic Research Infrastructures (SUSTAIN-ICE)",
+   "url": "",
+   "meta": "Horizon Europe, 2026–2030, HORIZON-INFRA-2025-01-TECH-01 · 0.5 MEUR (total 5.0 MEUR) · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Industrial PhD on Ice Detection with LiDAR",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/359116",
+   "meta": "Research Council of Norway, 2026–2029, project number 359116 · 4.6 MNOK · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Norwegian Centre for Embodied AI (NCEI)",
+   "url": "https://www.ntnu.edu/ncei",
+   "meta": "Research Council of Norway, 2025–2030, project number 357451 · 5.0 MNOK (total 200 MNOK) · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Advanced capabilities &amp; Certification for Tactical UAV Systems (ACTUS)",
+   "url": "https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf",
+   "meta": "European Defence Fund, 2024–2027, EDF-2023-DA-C4ISR-TRPAS · 0.6 MEUR (total 42.0 MEUR) · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Tactical Drones in Rain and Icing Conditions (TDRIC)",
+   "url": "https://defence-industry-space.ec.europa.eu/system/files/2023-06/TDRIC-Factsheet_EDF22.pdf",
+   "meta": "European Defence Fund, 2023–2026, EDF-2022-LS-RA-SMERO-NT-TDRIC · 0.8 MEUR (total 4.0 MEUR) · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/350469",
+   "meta": "Research Council of Norway, 2024–2027, project number 350469 · 9.1 MNOK · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Linking past and present surge dynamics at Borebreen from drone surveys",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/350269",
+   "meta": "Research Council of Norway, 2024, project number 350269 · 80 kNOK · Investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Drone-mapping Surging Glaciers in Svalbard",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/333170",
+   "meta": "Research Council of Norway, 2022–2023, project number 333170 · 50 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs)",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/316425",
+   "meta": "Research Council of Norway, 2021–2026, project number 316425 · 12.4 MNOK · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Adverse weather mission planning for unmanned aerial vehicles (UAVs)",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/318000",
+   "meta": "Research Council of Norway, 2021–2025, project number 318000 · 14.9 MNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Industrial PhD on Propeller Icing on Unmanned Aerial Vehicles",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/321667",
+   "meta": "Research Council of Norway, 2021–2024, project number 321667 · 2.5 MNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Validation and Application of Novel Wind Estimation Techniques with UAVs in the Arctic",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/310702",
+   "meta": "Research Council of Norway, 2020, project number 310702 · 29 kNOK · Co-principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Autonomous icing protection solution for unmanned aircraft rotors",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/296228",
+   "meta": "Research Council of Norway, 2019–2022, project number 296228 · 6.4 MNOK · Post-doc",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Using UAVs to investigate effects of crevasses upon glacier surface melting",
+   "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/296355",
+   "meta": "Research Council of Norway, 2019–2020, project number 296355 · 78 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Surging glaciers in Svalbard: Current knowledge and perspectives for monitoring",
+   "url": "https://sios-svalbard.org/SESS_Issue7",
+   "meta": "Svalbard Integrated Arctic Earth Observing System, 2024, SESS Report 2024 · 200 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Drivers of surge activation at Borebreen",
+   "url": "https://sios-svalbard.org/BorebreenSurge",
+   "meta": "Svalbard Integrated Arctic Earth Observing System, 2023, Access Call · 200 kNOK · Investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Practical Guidelines for Scientific Application of Uncrewed Aerial Vehicles in Svalbard",
+   "url": "https://sios-svalbard.org/SESS_Issue5",
+   "meta": "Svalbard Integrated Arctic Earth Observing System, 2022, SESS Report 2022 · 200 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Update to Scientific Applications of Unmanned Vehicles in Svalbard",
+   "url": "https://sios-svalbard.org/SESS_Issue4",
+   "meta": "Svalbard Integrated Arctic Earth Observing System, 2021, SESS Report 2021 · 70 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Scientific Applications of Unmanned Vehicles in Svalbard",
+   "url": "https://sios-svalbard.org/SESS_Issue3",
+   "meta": "Svalbard Integrated Arctic Earth Observing System, 2020, SESS Report 2020 · 240 kNOK · Principal investigator",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  }
  ],
  "projects_title": "Research Projects",
  "projects": [

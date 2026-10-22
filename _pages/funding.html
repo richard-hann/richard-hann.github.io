@@ -9,11 +9,9 @@ redirect_from:
 
 <p class="pub-summary">{{ site.data.folk.funding_header }}</p>
 
-<ul class="folk-list">
-{% for f in site.data.folk.funding %}  <li>{{ f }}</li>
-{% endfor %}</ul>
+{% include cards.html items=site.data.folk.funding_cards %}
 
-<h2 class="folk-h">{{ site.data.folk.projects_title }}</h2>
+<h2 class="pubs-year">{{ site.data.folk.projects_title }}</h2>
 <ul class="folk-list">
 {% for p in site.data.folk.projects %}  <li>{{ p }}</li>
 {% endfor %}</ul>

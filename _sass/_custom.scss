@@ -161,3 +161,8 @@ details.pub-cite {
 }
 .author__urls li i,
 .author__urls li svg { text-indent: 0; }
+
+/* ---- shared card pages (datasets, funding, people, teaching) ---- */
+.pubs-note { font-size: 0.7em; font-weight: normal; color: var(--global-text-color-light); }
+p.folk-sub { font-size: 0.75em; font-style: italic; margin: 0.4em 0 0.25em 0; color: var(--global-text-color-light); }
+.pubs + .pubs-year, .pubs + p.folk-sub { margin-top: 0.8em; }

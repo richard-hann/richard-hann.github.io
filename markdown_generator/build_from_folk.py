@@ -177,6 +177,54 @@ def in_parens(title):
     m = re.search(r"\((.*)\)\s*$", title)
     return m.group(1) if m else ""
 
+# ---- card helpers: every list entry -> {title, url, meta (html), doi, cite} ----
+def card(title, url, meta_html, doi="", cite="", year=""):
+    return {"title": html.escape(title.strip(" .,:"), quote=False), "url": url, "meta": meta_html,
+            "doi": doi, "cite": html.escape(cite, quote=False), "year": year}
+
+def dots(text):
+    """'a. b. c' -> 'a · b · c' (only at sentence breaks, not in numbers like 4.6)"""
+    return " · ".join(x.strip(" .") for x in re.split(r"\.\s+(?=[A-Z(])", text.strip(" .")) if x.strip(" ."))
+
+def citation_card(i):
+    p = {"t": i["t"], "title": main_link(i)[0]}
+    title, authors, venue, doi = split_pub(p)
+    m = re.search(r"\((\d{4})\)", i["t"])
+    year = m.group(1) if m else ""
+    meta = " · ".join(x for x in [fmt(authors), year, f"<em>{html.escape(venue, quote=False)}</em>" if venue else ""] if x)
+    return card(title, main_link(i)[1], meta, doi, i["t"], year)
+
+def funding_card(i):
+    t = i["t"]; lt, href = main_link(i)
+    if lt and lt in t:
+        k = t.index(lt); pre, title, post = t[:k], lt, t[k + len(lt):]
+    elif ": " in t:
+        pre, rest = t.split(": ", 1); title, _, post = rest.partition(". ")
+    else:
+        pre, title, post = "", t, ""
+    meta = " · ".join(x for x in [html.escape(pre.strip(" :,"), quote=False), html.escape(dots(post), quote=False)] if x)
+    return card(title, href, meta)
+
+def person_card(i):
+    t = i["t"]; lt, href = main_link(i)
+    name, _, rest = t.partition(", ")
+    if lt and lt in rest:
+        k = rest.index(lt); title, after = lt, rest[k + len(lt):]
+    else:
+        title, _, after = rest.partition(", ")
+    after = after.strip(" ,.")
+    meta = html.escape(name, quote=False) + (" · " + html.escape(after, quote=False) if after else "")
+    return card(title, href, meta)
+
+def teaching_card(i):
+    t = i["t"]; links = i.get("links", [])
+    href = fix_url(links[0][1]) if links else ""
+    if " – " in t:
+        title, _, rest = t.partition(" – ")
+    else:
+        title, _, rest = t.partition(", ")
+    return card(title, href, html.escape(dots(rest), quote=False))
+
 # People: sub-headings "People – ..." start a new block, other headings ("Current") a sub-group
 people = [{"title": S["People"]["title"], "groups": [{"name": "", "items": []}]}]
 for i in S["People"]["items"]:
@@ -187,6 +235,7 @@ for i in S["People"]["items"]:
             people[-1]["groups"].append({"name": i["t"], "items": []})
     else:
         people[-1]["groups"][-1]["items"].append(fmt(i["t"], i["links"]))
+        people[-1]["groups"][-1].setdefault("cards", []).append(person_card(i))
 for p in people:
     p["groups"] = [g for g in p["groups"] if g["items"]]
 
@@ -206,10 +255,13 @@ folk = {
     "publications_title": S["Publications"]["title"],
     "presentations_title": S["Presentations"]["title"],
     "datasets_title": S["Datasets"]["title"], "datasets": flist(S["Datasets"]["items"]),
+    "datasets_cards": [citation_card(i) for i in entries(S["Datasets"])],
     "people": people,
     "teaching_title": S["Teaching"]["title"], "teaching": flist(S["Teaching"]["items"]),
+    "teaching_cards": [teaching_card(i) for i in entries(S["Teaching"])],
     "funding_title": S["Funding"]["title"], "funding_header": in_parens(S["Funding"]["title"]),
     "funding": flist(S["Funding"]["items"]),
+    "funding_cards": [funding_card(i) for i in entries(S["Funding"])],
     "projects_title": S["Research_projects"]["title"], "projects": projects,
     "engagement_title": eng_title or "Academic Engagement & Workgroups", "engagement": engagement,
 }

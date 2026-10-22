@@ -8,6 +8,4 @@ author_profile: true
 {% assign t = site.data.folk.datasets_title | split: "(" | last | split: ")" | first %}
 <p class="pub-summary">{{ t }}</p>
 
-<ul class="folk-list">
-{% for d in site.data.folk.datasets %}  <li>{{ d }}</li>
-{% endfor %}</ul>
+{% include cards.html items=site.data.folk.datasets_cards by_year=true %}
