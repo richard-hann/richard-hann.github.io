@@ -17,16 +17,16 @@ author_profile: true
 <script>
 (function () {
   var url = "{{ site.ntnu_publications_url }}";
-  var selector = "{{ site.ntnu_publications_selector }}";   // optional: part of the page to show
+  var selector = "{{ site.ntnu_publications_selector }}";   /* optional: part of the page to show */
   var box = document.getElementById("live-pubs");
 
   function clean(root) {
-    // remove Word/HTML formatting so the site's own style applies
+    /* remove Word/HTML formatting so the site's own style applies */
     root.querySelectorAll("script, style, meta, link, o\\:p").forEach(function (e) { e.remove(); });
     root.querySelectorAll("[style], [class], [lang], [width], [align], [valign], font").forEach(function (e) {
       ["style", "class", "lang", "width", "align", "valign", "border", "cellpadding", "cellspacing"].forEach(function (a) { e.removeAttribute(a); });
     });
-    root.querySelectorAll("a[href], img[src]").forEach(function (e) {   // make relative links absolute
+    root.querySelectorAll("a[href], img[src]").forEach(function (e) {   /* make relative links absolute */
       var attr = e.tagName === "A" ? "href" : "src";
       try { e.setAttribute(attr, new URL(e.getAttribute(attr), url).href); } catch (x) {}
     });
