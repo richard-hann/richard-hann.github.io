@@ -36,8 +36,11 @@ Awards and recognition
 
 Research funding
 ======
-* Research Council of Norway – Adverse-weather mission planning tool for UAVs, with UBIQ Aerospace (~15 MNOK), project manager (2020)
-* Research Council of Norway (IKTPLUSS) – Icing effects, detection and mitigation on UAVs (12 MNOK), work-package leader (2020)
+{{ site.data.folk.funding_header }} – see [Funding](/funding/)
+
+<ul class="folk-list">
+{% for f in site.data.folk.funding %}  <li>{{ f }}</li>
+{% endfor %}</ul>
 
 Professional service
 ======
@@ -46,8 +49,8 @@ Professional service
 * Guest editor, special issue "Atmospheric Measurements Using Unmanned Systems", *MDPI Drones* (2020–2021)
 * Member, AIAA Atmospheric and Space Environments Technical Committee
 * Member, SAE AC-9C Aircraft Icing Technology Committee (2018–)
-* Participant, AIAA Ice Prediction Workshop (2020–)
-* NATO STO AVT-299 Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles (2018–2020) and AVT-ET-214 Operation of UAVs in Icing Environments (2020–)
+* 1st and 2nd AIAA Ice Prediction Workshop (2020–2023)
+* Co-chair, NATO AVT-388 Operation of UAVs in Icing Environments (2023–); co-chair, AVT-ET-214 (2020–2022); participant, AVT-299 Assessment of Anti-Icing and De-Icing Technologies (2018–2021)
 * Reviewer for several international journals
 
 Skills
@@ -74,4 +77,4 @@ Teaching
   
 Supervision
 ======
-* 6 PhD students (5 as main supervisor) and 22 master students – see [Supervision](/supervision/)
+* 1 postdoc, 9 PhD students and 27 master students – see [People](/people/)

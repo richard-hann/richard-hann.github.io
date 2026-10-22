@@ -107,8 +107,6 @@ PUBS = [
 # PhD thesis and datasets (not in the folk.ntnu.no list, kept from the NTNU blog)
 EXTRA = [
 ("2020","Hann, R. (2020). Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles. PhD Thesis NTNU 2020:200, Norwegian University of Science and Technology.","","Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles","theses"),
-("2020","Hann, R., Wallisch, J. (2020). UAV Specification Database. DataverseNO, Version 1. doi.org/10.18710/L41IGQ","https://doi.org/10.18710/L41IGQ","UAV Specification Database","datasets"),
-("2020","Hann, R., Müller, N. (2020). Icing Validation Database. DataverseNO, Version 1. doi.org/10.18710/5XYALW","https://doi.org/10.18710/5XYALW","Icing Validation Database","datasets"),
 ]
 
 TALKS = [

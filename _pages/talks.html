@@ -1,17 +1,12 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Presentations and Invited Talks"
+permalink: /presentations/
 author_profile: true
+redirect_from:
+  - /talks/
 ---
 
-{% if site.talkmap_link == true %}
+<p class="pub-summary">Total: {{ site.talks | size }} presentations</p>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% assign talks_sorted = site.talks | sort: 'order' %}
-{% for post in talks_sorted %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% include compact-list.html items=site.talks %}

@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+redirect_from:
+  - /supervision/
+---
+
+{% for sec in site.data.folk.people %}
+{% assign n = 0 %}{% for g in sec.groups %}{% assign n = n | plus: g.items.size %}{% endfor %}
+<h2 class="folk-h">People – {{ sec.title }} <span class="folk-count">({{ n }})</span></h2>
+{% for g in sec.groups %}
+{% if g.name != "" %}<p class="folk-sub">{{ g.name }}</p>{% endif %}
+<ul class="folk-list">
+{% for it in g.items %}  <li>{{ it }}</li>
+{% endfor %}</ul>
+{% endfor %}
+{% endfor %}

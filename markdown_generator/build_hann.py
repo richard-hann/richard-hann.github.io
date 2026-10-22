@@ -87,3 +87,17 @@ for i, (y, t) in enumerate(TALKS):
     open(os.path.join(d, s + ".md"), "w", encoding="utf-8").write("\n".join(fm) + "\n" + body)
 from collections import Counter
 print(len(items), "publications", dict(Counter(x[4] for x in items)), "|", len(TALKS), "talks")
+
+# ---------- datasets, people, funding, projects -> _data/folk.yml ----------
+import json
+from hann_more import DATASETS, DATASETS_HEADER, PEOPLE, FUNDING, FUNDING_HEADER, PROJECTS
+def items(lst): return [fmt(t, u, ti) for (t, u, ti) in lst]
+data = {
+  "datasets_header": DATASETS_HEADER, "datasets": items(DATASETS),
+  "people": [{"title": sec, "groups": [{"name": g or "", "items": items(lst)} for (g, lst) in groups]} for (sec, groups) in PEOPLE],
+  "funding_header": FUNDING_HEADER, "funding": items(FUNDING),
+  "projects": items(PROJECTS),
+}
+# JSON is valid YAML
+open(os.path.join(ROOT, "_data", "folk.yml"), "w", encoding="utf-8").write(json.dumps(data, ensure_ascii=False, indent=1))
+print(len(DATASETS), "datasets,", len(FUNDING), "funding,", len(PROJECTS), "projects")

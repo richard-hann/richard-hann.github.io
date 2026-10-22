@@ -14,11 +14,8 @@ Built with the [Academic Pages](https://github.com/academicpages/academicpages.g
 | Profile photo | `images/profile.png` |
 | Home page / bio | `_pages/about.md` |
 | CV | `_pages/cv.md` |
-| Publications (one file each) | `_publications/` – `category:` is one of `manuscripts`, `conferences`, `books`, `reports`, `theses`, `datasets` |
-| Talks | `_talks/` |
-| Research projects | `_portfolio/` |
+| Publications, presentations, datasets, people, funding | edit `markdown_generator/hann_publications.py` (publications, presentations) and `markdown_generator/hann_more.py` (datasets, people, funding, research projects), then run `python3 markdown_generator/build_hann.py` |
 | Teaching | `_teaching/` |
-| Supervision | `_pages/supervision.md` |
 | News | `_posts/` |
 | Top menu | `_data/navigation.yml` |
 

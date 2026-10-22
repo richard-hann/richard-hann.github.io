@@ -1,0 +1,54 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications-live/
+author_profile: true
+---
+{% comment %}
+  Live publication list: loaded in the visitor's browser from the page set in
+  _config.yml (ntnu_publications_url). Nothing is copied into this repository.
+  - If the NTNU server allows it (CORS header), the list is pulled in and styled like this site.
+  - Otherwise the NTNU page is shown in an embedded frame.
+{% endcomment %}
+
+<div id="live-pubs" class="live-pubs"><p class="pub-summary">Loading publications from NTNU …</p></div>
+<p class="live-source">Source: <a href="{{ site.ntnu_publications_url }}">{{ site.ntnu_publications_url }}</a></p>
+
+<script>
+(function () {
+  var url = "{{ site.ntnu_publications_url }}";
+  var selector = "{{ site.ntnu_publications_selector }}";   // optional: part of the page to show
+  var box = document.getElementById("live-pubs");
+
+  function clean(root) {
+    // remove Word/HTML formatting so the site's own style applies
+    root.querySelectorAll("script, style, meta, link, o\\:p").forEach(function (e) { e.remove(); });
+    root.querySelectorAll("[style], [class], [lang], [width], [align], [valign], font").forEach(function (e) {
+      ["style", "class", "lang", "width", "align", "valign", "border", "cellpadding", "cellspacing"].forEach(function (a) { e.removeAttribute(a); });
+    });
+    root.querySelectorAll("a[href], img[src]").forEach(function (e) {   // make relative links absolute
+      var attr = e.tagName === "A" ? "href" : "src";
+      try { e.setAttribute(attr, new URL(e.getAttribute(attr), url).href); } catch (x) {}
+    });
+    root.querySelectorAll("table").forEach(function (t) { t.classList.add("pub-list"); });
+    root.querySelectorAll("p").forEach(function (p) {
+      if (!p.textContent.trim()) { p.remove(); } else { p.classList.add("pub-item"); }
+    });
+    return root;
+  }
+
+  function fallback() {
+    box.innerHTML = '<iframe class="live-frame" src="' + url + '" loading="lazy" title="Publications"></iframe>';
+  }
+
+  fetch(url, { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(function (html) {
+      var doc = new DOMParser().parseFromString(html, "text/html");
+      var part = (selector && doc.querySelector(selector)) || doc.body;
+      box.innerHTML = "";
+      box.appendChild(clean(part));
+    })
+    .catch(fallback);
+})();
+</script>

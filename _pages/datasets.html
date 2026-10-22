@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Datasets"
+permalink: /datasets/
+author_profile: true
+---
+
+<p class="pub-summary">Total: {{ site.data.folk.datasets | size }} datasets</p>
+
+<ul class="folk-list">
+{% for d in site.data.folk.datasets %}  <li>{{ d }}</li>
+{% endfor %}</ul>

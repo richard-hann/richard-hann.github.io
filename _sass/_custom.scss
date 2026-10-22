@@ -53,3 +53,36 @@ p.pub-item {
   font-size: 0.82em;
   a { color: var(--global-text-color-light); text-decoration: none; }
 }
+
+/* ---- Compact bullet lists (datasets, people, funding) ---- */
+ul.folk-list {
+  font-size: 0.72em;
+  line-height: 1.35;
+  margin: 0 0 1em 0;
+  padding-left: 1.2em;
+  li { margin: 0 0 0.25em 0; }
+  a { text-decoration: underline; }
+}
+h2.folk-h {
+  font-size: 0.95em;
+  margin: 1.2em 0 0.4em 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+.folk-count { font-weight: normal; color: var(--global-text-color-light); }
+p.folk-sub {
+  font-size: 0.75em;
+  font-style: italic;
+  margin: 0.3em 0 0.2em 0;
+}
+
+/* ---- Live publication list loaded from NTNU ---- */
+.live-pubs { font-size: 1em; }
+.live-pubs table.pub-list td:first-child { width: 3.6em; font-weight: bold; white-space: nowrap; padding-right: 0.6em; }
+.live-frame { width: 100%; height: 80vh; border: 1px solid var(--global-border-color); background: #fff; }
+.live-source { font-size: 0.65em; color: var(--global-text-color-light); }
+
+/* keep the footer below the sidebar on short pages */
+@media (min-width: 1024px) {
+  #main { min-height: 760px; }
+}
