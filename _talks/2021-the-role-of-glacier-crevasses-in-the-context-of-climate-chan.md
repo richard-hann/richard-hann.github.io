@@ -1,12 +1,12 @@
 ---
-title: "The Role of Glacier Crevasses in the Context of Climate Change"
+title: 'The Role of Glacier Crevasses in the Context of Climate Change'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2021-the-role-of-glacier-crevasses-in-the-context-of-climate-chan
-venue: "Svalbard Science Conference"
-date: 2021-12-22
-location: "Oslo, Norway"
+venue: 'Svalbard Science Conference'
+date: 2021-01-01
+order: 30
+location: 'Oslo'
+citation: '<b>Hann, R.</b> (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** Svalbard Science Conference, Oslo, Norway (2021)
+<b>Hann, R.</b> (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.

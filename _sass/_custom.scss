@@ -1,0 +1,55 @@
+/* ==========================================================================
+   Custom overrides (Richard Hann)
+   ========================================================================== */
+
+/* ---- Compact footer: in normal page flow, one small line ---- */
+.page__footer {
+  position: relative;
+  bottom: auto;
+  margin-top: 2em;
+  -webkit-animation: none;
+          animation: none;
+
+  footer {
+    margin-top: 0;
+    padding: 0.4em 1em;
+  }
+}
+.page__footer-copyright {
+  font-size: 0.65em;
+  line-height: 1.4;
+}
+
+/* ---- Publication list in the style of folk.ntnu.no/richahan ---- */
+.pub-summary {
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+table.pub-list {
+  display: table;
+  width: 100%;
+  border: 0;
+  font-size: 0.72em;
+  line-height: 1.35;
+  border-collapse: collapse;
+
+  tr, td { border: 0; background: none; }
+  td { padding: 0 0 0.9em 0; vertical-align: top; }
+  td.pub-year {
+    width: 3.6em;
+    padding-right: 0.6em;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+}
+p.pub-item {
+  margin: 0;
+  padding-left: 1.6em;
+  text-indent: -1.6em;     /* hanging indent */
+  a { text-decoration: underline; }
+}
+.pub-doi {
+  font-size: 0.82em;
+  a { color: var(--global-text-color-light); text-decoration: none; }
+}

@@ -1,0 +1,64 @@
+/* ==========================================================================
+  ARCTIC THEME - LIGHT VERSION
+  ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #1f6aa5;
+$dark-primary-color         : mix(#000, $primary-color, 40%);
+$darker-primary-color       : mix(#000, $primary-color, 60%);
+$light-primary-color        : mix(#fff, $primary-color, 50%);
+$lighter-primary-color      : mix(#fff, $primary-color, 90%);
+$background                 : #f4f7fa;
+$background-light           : #ffffff;
+$background-lighter        : #f9fbfd;
+$text                      : #1d2b3a;
+$text-muted                : #55687a;
+$link                      : #1b6fae;
+$link-dark                 : mix(#000, $link, 25%);
+$link-light                : mix(#fff, $link, 25%);
+$footer                    : #dbe8f2;
+$border                    : mix(#fff, #1d2b3a, 75%);
+$border-dark               : mix(#fff, #1d2b3a, 60%);
+
+/* Color codes used for the site */
+$danger-color               : #e74c3c;
+$info-color                 : #1f6aa5;
+$notice-color               : #4a90c2;
+$success-color              : #2ecc71;
+$warning-color              : #f39c12;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Light theme for the site */
+:root {
+  --global-base-color                 : #{$primary-color};
+  --global-bg-color                   : #{$background};
+  --global-footer-bg-color            : #{$footer};
+  --global-border-color               : #{$border};
+  --global-dark-border-color          : #{$border-dark};
+  --global-code-background-color      : #{$background-light};
+  --global-code-text-color            : #{$darker-primary-color};
+  --global-fig-caption-color          : #{$text-muted};
+  --global-link-color                 : #{$link};
+  --global-link-color-hover           : #{$link-dark};
+  --global-link-color-visited         : #{$link-light};
+  --global-masthead-link-color        : #{$text};
+  --global-masthead-link-color-hover  : #{$primary-color};
+  --global-text-color                 : #{$text};
+  --global-text-color-light           : #{$text-muted};
+  --global-thead-color                : #{$lighter-primary-color};
+
+}
+
+footer {
+  color: #{$text};
+}
+
+

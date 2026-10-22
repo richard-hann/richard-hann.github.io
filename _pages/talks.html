@@ -11,6 +11,7 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign talks_sorted = site.talks | sort: 'order' %}
+{% for post in talks_sorted %}
   {% include archive-single-talk.html %}
 {% endfor %}

@@ -1,12 +1,12 @@
 ---
-title: "Update to Scientific Applications of Unmanned Vehicles in Svalbard"
+title: 'Update to Scientific Applications of Unmanned Vehicles in Svalbard'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2022-update-to-scientific-applications-of-unmanned-vehicles-in-sv
-venue: "SIOS Polar Night Week 2022"
-date: 2022-12-25
-location: "Longyearbyen, Svalbard"
+venue: 'SIOS Polar Night Week 2022'
+date: 2022-01-01
+order: 23
+location: 'Longyearbyen'
+citation: '<b>Hann, R.</b> (2022). Update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week 2022, Longyearbyen.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** SIOS Polar Night Week 2022, Longyearbyen, Svalbard (2022)
+<b>Hann, R.</b> (2022). Update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week 2022, Longyearbyen.

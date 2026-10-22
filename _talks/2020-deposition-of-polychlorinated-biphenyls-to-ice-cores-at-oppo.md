@@ -1,12 +1,12 @@
 ---
-title: "Deposition of polychlorinated biphenyls to ice cores at opposite polar sites: Holtedahlfonna, Svalbard and Site M, Antarctica"
+title: 'Deposition of polychlorinated biphenyls to ice cores at opposite polar sites: Holtedahlfonna, Svalbard and Site M, Antarctica'
 collection: talks
-type: "Conference presentation"
+type: 'Conference presentation'
 permalink: /talks/2020-deposition-of-polychlorinated-biphenyls-to-ice-cores-at-oppo
-venue: "SETAC Europe 30th Annual Meeting"
-date: 2020-12-22
-location: "Dublin, Ireland"
+venue: 'SETAC Europe 30th Annual Meeting'
+date: 2020-01-01
+order: 38
+location: 'Dublin'
+citation: 'Hermanson, M.H., Isaksson, E., <b>Hann, R.</b>, Teixeira, C., Muir, D.C.G. (2020). Deposition of polychlorinated biphenyls to ice cores at opposite polar sites: Holtedahlfonna, Svalbard and Site M, Antarctica. SETAC Europe 30th Annual Meeting, Dublin.'
 ---
-**Presenter(s):** Hermanson, M.H., Isaksson, E., Hann, R., Teixeira, C., Muir, D.C.G.
-
-**Event:** SETAC Europe 30th Annual Meeting, Dublin, Ireland (2020)
+Hermanson, M.H., Isaksson, E., <b>Hann, R.</b>, Teixeira, C., Muir, D.C.G. (2020). Deposition of polychlorinated biphenyls to ice cores at opposite polar sites: Holtedahlfonna, Svalbard and Site M, Antarctica. SETAC Europe 30th Annual Meeting, Dublin.

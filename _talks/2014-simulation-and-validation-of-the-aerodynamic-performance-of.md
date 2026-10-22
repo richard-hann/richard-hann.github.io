@@ -1,11 +1,12 @@
 ---
-title: "Simulation and validation of the aerodynamic performance of iced wind turbine airfoils"
+title: 'Simulation and validation of the aerodynamic performance of iced wind turbine airfoils'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2014-simulation-and-validation-of-the-aerodynamic-performance-of
-venue: "Winterwind Conference"
-date: 2014-12-28
+venue: 'Winterwind Conference'
+date: 2014-01-01
+order: 47
+location: 'Sundsvall'
+citation: '<b>Hann, R.</b> (2014). Simulation and validation of the aerodynamic performance of iced wind turbine airfoils. Winterwind Conference, Sundsvall.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** Winterwind Conference (2014)
+<b>Hann, R.</b> (2014). Simulation and validation of the aerodynamic performance of iced wind turbine airfoils. Winterwind Conference, Sundsvall.

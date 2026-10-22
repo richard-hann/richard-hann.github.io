@@ -1,11 +1,12 @@
 ---
-title: "Icing Protection Systems for UAVs in the Arctic"
+title: 'Icing Protection Systems for UAVs in the Arctic'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2018-icing-protection-systems-for-uavs-in-the-arctic
-venue: "Arctic Change Conference"
-date: 2018-12-28
+venue: 'Arctic Change Conference'
+date: 2018-01-01
+order: 42
+location: 'Ottawa'
+citation: '<b>Hann, R.</b> (2018). Icing Protection Systems for UAVs in the Arctic. Arctic Change Conference, Ottawa.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** Arctic Change Conference (2018)
+<b>Hann, R.</b> (2018). Icing Protection Systems for UAVs in the Arctic. Arctic Change Conference, Ottawa.

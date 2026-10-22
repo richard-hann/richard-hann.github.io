@@ -60,15 +60,11 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include compact-list.html items=site.publications %}
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+{% include compact-list.html items=site.talks %}
   
 Teaching
 ======
@@ -76,10 +72,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
 Supervision
 ======
 * 6 PhD students (5 as main supervisor) and 22 master students – see [Supervision](/supervision/)

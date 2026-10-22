@@ -1,12 +1,12 @@
 ---
-title: "Drone-based mapping of Gruvefjellet in spring and summer for cornice risk assessment"
+title: 'Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2022-drone-based-mapping-of-gruvefjellet-in-spring-and-summer-for
-venue: "SIOS Online Conference"
-date: 2022-12-27
-location: "Online"
+venue: 'SIOS Online Conference'
+date: 2022-01-01
+order: 21
+location: 'Online'
+citation: '<b>Hann, R.</b> (2022). Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment. SIOS Online Conference, Online.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** SIOS Online Conference, Online (2022)
+<b>Hann, R.</b> (2022). Drone-based mapping of Gruvefjellet in Spring and Summer for cornice risk assessment. SIOS Online Conference, Online.

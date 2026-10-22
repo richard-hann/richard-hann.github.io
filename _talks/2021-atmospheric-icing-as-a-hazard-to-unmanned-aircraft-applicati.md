@@ -1,12 +1,12 @@
 ---
-title: "Atmospheric icing as a hazard to unmanned aircraft applications"
+title: 'Atmospheric icing as a hazard to unmanned aircraft applications'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2021-atmospheric-icing-as-a-hazard-to-unmanned-aircraft-applicati
-venue: "Arctic Safety Conference"
-date: 2021-12-21
-location: "Longyearbyen, Svalbard"
+venue: 'Arctic Safety Conference'
+date: 2021-01-01
+order: 31
+location: 'Longyearbyen'
+citation: '<b>Hann, R.</b> (2021). Atmospheric icing as a hazard to unmanned aircraft applications. Arctic Safety Conference, Longyearbyen.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** Arctic Safety Conference, Longyearbyen, Svalbard (2021)
+<b>Hann, R.</b> (2021). Atmospheric icing as a hazard to unmanned aircraft applications. Arctic Safety Conference, Longyearbyen.

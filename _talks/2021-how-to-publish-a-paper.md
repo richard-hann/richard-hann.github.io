@@ -1,12 +1,12 @@
 ---
-title: "How to publish a paper"
+title: 'How to publish a paper'
 collection: talks
-type: "Talk"
+type: 'Conference presentation'
 permalink: /talks/2021-how-to-publish-a-paper
-venue: "SCOPE – 1st student-led conference on Polar Environment"
-date: 2021-12-23
-location: "Longyearbyen, Svalbard"
+venue: 'SCOPE – 1st student-led conference on Polar Environment'
+date: 2021-01-01
+order: 29
+location: 'Longyearbyen'
+citation: '<b>Hann, R.</b> (2021). How to publish a paper. SCOPE – 1st student-led conference on Polar Environment, Longyearbyen.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** SCOPE – 1st student-led conference on Polar Environment, Longyearbyen, Svalbard (2021)
+<b>Hann, R.</b> (2021). How to publish a paper. SCOPE – 1st student-led conference on Polar Environment, Longyearbyen.

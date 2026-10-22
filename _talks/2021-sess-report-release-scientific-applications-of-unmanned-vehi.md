@@ -1,12 +1,12 @@
 ---
-title: "SESS Report Release: Scientific Applications of Unmanned Vehicles in Svalbard"
+title: 'SESS Report Release: Scientific Applications of Unmanned Vehicles in Svalbard'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2021-sess-report-release-scientific-applications-of-unmanned-vehi
-venue: "SIOS Polar Night Week"
-date: 2021-12-28
-location: "Longyearbyen, Svalbard"
+venue: 'SIOS Polar Night Week'
+date: 2021-01-01
+order: 24
+location: 'Longyearbyen'
+citation: '<b>Hann, R.</b> (2021). SESS Report Release: Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Longyearbyen.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** SIOS Polar Night Week, Longyearbyen, Svalbard (2021)
+<b>Hann, R.</b> (2021). SESS Report Release: Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Longyearbyen.

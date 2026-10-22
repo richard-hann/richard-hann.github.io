@@ -1,0 +1,11 @@
+{% comment %} Compact year-grouped list (folk.ntnu.no style). Usage: {% include compact-list.html items=site.publications %} {% endcomment %}
+{% assign _items = include.items | sort: 'order' %}
+<table class="pub-list">
+{% assign _groups = _items | group_by_exp: "p", "p.date | date: '%Y'" %}
+{% for g in _groups %}
+  <tr>
+    <td class="pub-year">{{ g.name }}</td>
+    <td>{% for p in g.items %}<p class="pub-item">{{ p.citation }}</p>{% endfor %}</td>
+  </tr>
+{% endfor %}
+</table>

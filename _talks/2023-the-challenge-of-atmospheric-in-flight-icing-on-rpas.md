@@ -1,12 +1,12 @@
 ---
-title: "The challenge of atmospheric in-flight icing on RPAS"
+title: 'The challenge of atmospheric in-flight icing on RPAS'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2023-the-challenge-of-atmospheric-in-flight-icing-on-rpas
-venue: "8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft)"
-date: 2023-12-28
-location: "Bergen, Norway"
+venue: '8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft)'
+date: 2023-01-01
+order: 18
+location: 'Bergen'
+citation: '<b>Hann, R.</b> (2023). The challenge of atmospheric in-flight icing on RPAS. 8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft), Bergen.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** 8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft), Bergen, Norway (2023)
+<b>Hann, R.</b> (2023). The challenge of atmospheric in-flight icing on RPAS. 8th ISARRA Conference (International Society for Atmospheric Research using Remotely-piloted Aircraft), Bergen.

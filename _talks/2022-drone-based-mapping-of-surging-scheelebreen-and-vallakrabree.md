@@ -1,12 +1,12 @@
 ---
-title: "Drone-based mapping of surging Scheelebreen and Vallåkrabreen glaciers in Svalbard"
+title: 'Drone-based mapping of surging Scheelebreen and Vallåkrabreen glaciers in Svalbard'
 collection: talks
-type: "Conference talk"
+type: 'Conference presentation'
 permalink: /talks/2022-drone-based-mapping-of-surging-scheelebreen-and-vallakrabree
-venue: "SIOS Online Conference"
-date: 2022-12-28
-location: "Online"
+venue: 'SIOS Online Conference'
+date: 2022-01-01
+order: 20
+location: 'Online'
+citation: '<b>Hann, R.</b> (2022). Drone-based mapping of surging Scheelebreen and Vallåkrabreen glaciers in Svalbard. SIOS Online Conference, Online.'
 ---
-**Presenter(s):** Hann, R.
-
-**Event:** SIOS Online Conference, Online (2022)
+<b>Hann, R.</b> (2022). Drone-based mapping of surging Scheelebreen and Vallåkrabreen glaciers in Svalbard. SIOS Online Conference, Online.
