@@ -10,7 +10,8 @@ order: 40
 authors: '<b>Hann, R.</b>, Hodson, A., Jonassen, M.'
 doi: ''
 location: 'Oslo'
-citation: '<b>Hann, R.</b>, Hodson, A., Jonassen, M. (2019). Glacier Mapping and Wind Estimation with UAVs on Svalbard. Svalbard Science Conference, Oslo.'
+paperurl: 'https://folk.ntnu.no/richahan/Publications/2019_Hann%20et%20al_Glacier%20Mapping%20and%20Wind%20Estimation%20with%20UAVs%20on%20Svalbard_SSC.pdf'
+citation: '<b>Hann, R.</b>, Hodson, A., Jonassen, M. (2019). <a href="https://folk.ntnu.no/richahan/Publications/2019_Hann%20et%20al_Glacier%20Mapping%20and%20Wind%20Estimation%20with%20UAVs%20on%20Svalbard_SSC.pdf">Glacier Mapping and Wind Estimation with UAVs on Svalbard</a>. Svalbard Science Conference, Oslo.'
 citation_plain: 'Hann, R., Hodson, A., Jonassen, M. (2019). Glacier Mapping and Wind Estimation with UAVs on Svalbard. Svalbard Science Conference, Oslo.'
 ---
-<b>Hann, R.</b>, Hodson, A., Jonassen, M. (2019). Glacier Mapping and Wind Estimation with UAVs on Svalbard. Svalbard Science Conference, Oslo.
+<b>Hann, R.</b>, Hodson, A., Jonassen, M. (2019). <a href="https://folk.ntnu.no/richahan/Publications/2019_Hann%20et%20al_Glacier%20Mapping%20and%20Wind%20Estimation%20with%20UAVs%20on%20Svalbard_SSC.pdf">Glacier Mapping and Wind Estimation with UAVs on Svalbard</a>. Svalbard Science Conference, Oslo.

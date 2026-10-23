@@ -10,7 +10,8 @@ order: 46
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Åre'
-citation: '<b>Hann, R.</b> (2016). Applications of iced wind turbines noise simulations. Winterwind Conference, Åre.'
+paperurl: 'https://folk.ntnu.no/richahan/Publications/2016_Hann_Winterwind%202016_proceedings.pdf'
+citation: '<b>Hann, R.</b> (2016). <a href="https://folk.ntnu.no/richahan/Publications/2016_Hann_Winterwind%202016_proceedings.pdf">Applications of iced wind turbines noise simulations</a>. Winterwind Conference, Åre.'
 citation_plain: 'Hann, R. (2016). Applications of iced wind turbines noise simulations. Winterwind Conference, Åre.'
 ---
-<b>Hann, R.</b> (2016). Applications of iced wind turbines noise simulations. Winterwind Conference, Åre.
+<b>Hann, R.</b> (2016). <a href="https://folk.ntnu.no/richahan/Publications/2016_Hann_Winterwind%202016_proceedings.pdf">Applications of iced wind turbines noise simulations</a>. Winterwind Conference, Åre.

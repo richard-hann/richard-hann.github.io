@@ -10,7 +10,8 @@ order: 30
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'
-citation: '<b>Hann, R.</b> (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.'
+paperurl: 'https://folk.ntnu.no/richahan/Publications/SSC21/index.htm'
+citation: '<b>Hann, R.</b> (2021). <a href="https://folk.ntnu.no/richahan/Publications/SSC21/index.htm">The Role of Glacier Crevasses in the Context of Climate Change</a>. Svalbard Science Conference, Oslo.'
 citation_plain: 'Hann, R. (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.'
 ---
-<b>Hann, R.</b> (2021). The Role of Glacier Crevasses in the Context of Climate Change. Svalbard Science Conference, Oslo.
+<b>Hann, R.</b> (2021). <a href="https://folk.ntnu.no/richahan/Publications/SSC21/index.htm">The Role of Glacier Crevasses in the Context of Climate Change</a>. Svalbard Science Conference, Oslo.

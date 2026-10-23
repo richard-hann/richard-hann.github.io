@@ -10,7 +10,8 @@ order: 41
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Umeå'
-citation: '<b>Hann, R.</b> (2019). Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications. Winterwind Conference, Umeå.'
+paperurl: 'https://folk.ntnu.no/richahan/Publications/2019_Hann_Unmanned_aerial_vehicles_UAVs_in_cold_climate_and_wind_energy_applications_Winterwind.pdf'
+citation: '<b>Hann, R.</b> (2019). <a href="https://folk.ntnu.no/richahan/Publications/2019_Hann_Unmanned_aerial_vehicles_UAVs_in_cold_climate_and_wind_energy_applications_Winterwind.pdf">Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications</a>. Winterwind Conference, Umeå.'
 citation_plain: 'Hann, R. (2019). Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications. Winterwind Conference, Umeå.'
 ---
-<b>Hann, R.</b> (2019). Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications. Winterwind Conference, Umeå.
+<b>Hann, R.</b> (2019). <a href="https://folk.ntnu.no/richahan/Publications/2019_Hann_Unmanned_aerial_vehicles_UAVs_in_cold_climate_and_wind_energy_applications_Winterwind.pdf">Unmanned Aerial Vehicles (UAVs) in Cold Climate and Wind Energy Applications</a>. Winterwind Conference, Umeå.

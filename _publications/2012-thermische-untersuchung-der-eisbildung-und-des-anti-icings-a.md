@@ -10,10 +10,10 @@ authors: '<b>Hann, R.</b>'
 venue: 'Studienarbeit/study thesis. University of Stuttgart'
 doi: ''
 excerpt: ''
-citation: '<b>Hann, R.</b> (2012). <a href="https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf">Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen</a>. Studienarbeit/study thesis. University of Stuttgart.'
-citation_plain: 'Hann, R. (2012). Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen. Studienarbeit/study thesis. University of Stuttgart.'
+citation: '<b>Hann, R.</b>, (2012). <a href="https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf">Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen</a>. Studienarbeit/study thesis. University of Stuttgart.'
+citation_plain: 'Hann, R., (2012). Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen. Studienarbeit/study thesis. University of Stuttgart.'
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf'
 ---
-<b>Hann, R.</b> (2012). <a href="https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf">Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen</a>. Studienarbeit/study thesis. University of Stuttgart.
+<b>Hann, R.</b>, (2012). <a href="https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf">Thermische Untersuchung der Eisbildung und des Anti-Icings an einem Rotorblatt für Windenergieanlagen</a>. Studienarbeit/study thesis. University of Stuttgart.
 
 [Open publication](https://folk.ntnu.no/richahan/Publications/2012_Hann_Studienarbeit.pdf)

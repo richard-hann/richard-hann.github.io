@@ -10,7 +10,7 @@ order: 17
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Trondheim'
-citation: '<b>Hann, R.</b> (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.'
-citation_plain: 'Hann, R. (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.'
+citation: '<b>Hann, R.</b>, (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.'
+citation_plain: 'Hann, R., (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.'
 ---
-<b>Hann, R.</b> (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.
+<b>Hann, R.</b>, (2024). Progress, Insights, and Future Direction in UAV Icing. Keynote presentation, 2nd International UAV Icing Workshop, Trondheim.
