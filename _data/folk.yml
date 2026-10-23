@@ -199,16 +199,16 @@
  ],
  "people": [
   {
-   "title": "People  Postdocs (1 postdoc)",
+   "title": "People – Postdocs (1 postdoc)",
    "groups": [
     {
      "name": "",
      "items": [
-      "Bogdan Løw-Hansen, Atmospheric icing detection and system identification for disruptive aircraft, 2026-202X, NTNU, funded by RCN and Ubiq Aerospace."
+      "Bogdan Løw-Hansen, Atmospheric icing detection and “system identification for disruptive aircraft, 2026-202X, NTNU, funded by RCN and Ubiq Aerospace."
      ],
      "cards": [
       {
-       "title": "Atmospheric icing detection and system identification for disruptive aircraft",
+       "title": "Atmospheric icing detection and “system identification for disruptive aircraft",
        "url": "",
        "meta": "Bogdan Løw-Hansen · 2026-202X, NTNU, funded by RCN and Ubiq Aerospace",
        "doi": "",
@@ -220,7 +220,7 @@
    ]
   },
   {
-   "title": "People  PhD Students (Main supervisor: 6 students, co-supervisor: 3 students)",
+   "title": "People – PhD Students (Main supervisor: 6 students, co-supervisor: 3 students)",
    "groups": [
     {
      "name": "Current",
@@ -278,7 +278,7 @@
      "name": "Completed",
      "items": [
       "Bogdan Løw-Hansen, <a href=\"https://hdl.handle.net/11250/5533084\">Modeling and Validation of Atmospheric Icing Effects on Small Fixed-Wing UAVs</a>, 2021-2026, NTNU, main supervisor, completed.",
-      "Nicolas Müller, <a href=\"https://hdl.handle.net/11250/5536902\">Icing, performance penalties, and ice protection systems for UAV propellers</a>, 20212026, UBIQ Aerospace / NTNU, main supervisor, completed.",
+      "Nicolas Müller, <a href=\"https://hdl.handle.net/11250/5536902\">Icing, performance penalties, and ice protection systems for UAV propellers</a>, 2021–2026, UBIQ Aerospace / NTNU, main supervisor, completed.",
       "Joachim Wallisch, <a href=\"https://hdl.handle.net/11250/5534819\">Reducing Energy Consumption of UAVs in Icing Conditions with Active Electrothermal De-Icing Ice Protection Systems</a>, 2021-2026, NTNU, main supervisor, completed.",
       "Mauro Ghirardelli, <a href=\"https://bora.uib.no/bora-xmlui/handle/11250/3170691\">SAMURAI - Development, Test and Validation of an Airborne Sonic Anemometer</a>, 2021-2024, University in Bergen (UiB), co-supervisor, completed."
      ],
@@ -294,7 +294,7 @@
       {
        "title": "Icing, performance penalties, and ice protection systems for UAV propellers",
        "url": "https://hdl.handle.net/11250/5536902",
-       "meta": "Nicolas Müller · 20212026, UBIQ Aerospace / NTNU, main supervisor, completed",
+       "meta": "Nicolas Müller · 2021–2026, UBIQ Aerospace / NTNU, main supervisor, completed",
        "doi": "",
        "cite": "",
        "year": ""
@@ -320,7 +320,7 @@
    ]
   },
   {
-   "title": "People  Master Students (Total: 27 students)",
+   "title": "People – Master Students (Total: 27 students)",
    "groups": [
     {
      "name": "Current",
@@ -584,116 +584,116 @@
  ],
  "teaching_title": "Teaching",
  "teaching": [
-  "<a href=\"https://ntnu.edu/studies/courses/FLYT2201\">FLYT2201</a> Aircraft Mechanics  lecturer. Norwegian University of Science and Technology (NTNU), 2025  today.",
-  "<a href=\"https://www.ntnu.no/studier/bifly\">FLYT1101</a> Introduction to Aircraft and Aviation  lecturer. Norwegian University of Science and Technology (NTNU), 2024  today.",
-  "<a href=\"https://www.unis.no/courses/at-834-arctic-marine-measurements-techniques-operations-and-transport/\">AT-334/834</a> Arctic Marine Measurements Techniques, Operations and Transport (10 ECTS)  guest lecturer, University Centre in Svalbard (UNIS), 2024  today.",
-  "<a href=\"https://sios-svalbard.org/RSTC2026\">RSTC</a> Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere  guest lecturer, Svalbard Integrated Arctic Earth Observing System (SIOS), 2026.",
-  "<a href=\"https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;moduleCall=modulansicht&amp;publishConfFile=modulverwaltung&amp;publishSubDir=up/modulbearbeiter&amp;modul.modul_id=3774\">GEE-M-MK2 Innovative Field Methods</a> (Innovative Feldmethoden, Datenerhebung im Gelände)  guest lecturer. University of Potsdam, 2025.",
-  "<a href=\"https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/\">AGF-350/850</a> The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS)  guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024.",
-  "<a href=\"https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/\">AGF-312</a> Remote Sensing of the Cryosphere (10 ECTS)  guest lecturer, University Centre in Svalbard (UNIS), 2023.",
-  "<a href=\"https://sios-svalbard.org/UAV4Svalbard\">Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)</a>  main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
-  "Unmanned Aerial Vehicle: Environmental Applications  Advanced Level  guest lecturer, University of Silesia in Katowice, 2022.",
-  "<a href=\"https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/\">AG-204</a>/<a href=\"https://www.unis.no/course/ag-221-arctic-physical-geographical-field-techniques/\">221</a> The Physical Geography of Svalbard (15 ECTS)  guest lecturer. University Centre in Svalbard (UNIS), 2019 &amp; 2021.",
-  "<a href=\"https://sios-svalbard.org/TRST_2020\">TRST</a> Terrestrial Remote Sensing Training  guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020.",
-  "<a href=\"https://www.nas.nasa.gov/publications/ams/ams.html\">AMS</a> Advanced Modeling &amp; Simulation Seminar Series  guest speaker. National Aeronautics and Space Administration (NASA), 2020.",
+  "<a href=\"https://ntnu.edu/studies/courses/FLYT2201\">FLYT2201</a> Aircraft Mechanics – lecturer. Norwegian University of Science and Technology (NTNU), 2025 – today.",
+  "<a href=\"https://www.ntnu.no/studier/bifly\">FLYT1101</a> Introduction to Aircraft and Aviation – lecturer. Norwegian University of Science and Technology (NTNU), 2024 – today.",
+  "<a href=\"https://www.unis.no/courses/at-834-arctic-marine-measurements-techniques-operations-and-transport/\">AT-334/834</a> Arctic Marine Measurements Techniques, Operations and Transport (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2024 – today.",
+  "<a href=\"https://sios-svalbard.org/RSTC2026\">RSTC</a> Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere – guest lecturer, Svalbard Integrated Arctic Earth Observing System (SIOS), 2026.",
+  "<a href=\"https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;moduleCall=modulansicht&amp;publishConfFile=modulverwaltung&amp;publishSubDir=up/modulbearbeiter&amp;modul.modul_id=3774\">GEE-M-MK2 Innovative Field Methods</a> (Innovative Feldmethoden, Datenerhebung im Gelände) – guest lecturer. University of Potsdam, 2025.",
+  "<a href=\"https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/\">AGF-350/850</a> The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024.",
+  "<a href=\"https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/\">AGF-312</a> Remote Sensing of the Cryosphere (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2023.",
+  "<a href=\"https://sios-svalbard.org/UAV4Svalbard\">Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)</a> – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
+  "Unmanned Aerial Vehicle: Environmental Applications – Advanced Level – guest lecturer, University of Silesia in Katowice, 2022.",
+  "<a href=\"https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/\">AG-204</a>/<a href=\"https://www.unis.no/course/ag-221-arctic-physical-geographical-field-techniques/\">221</a> The Physical Geography of Svalbard (15 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2019 &amp; 2021.",
+  "<a href=\"https://sios-svalbard.org/TRST_2020\">TRST</a> Terrestrial Remote Sensing Training – guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020.",
+  "<a href=\"https://www.nas.nasa.gov/publications/ams/ams.html\">AMS</a> Advanced Modeling &amp; Simulation Seminar Series – guest speaker. National Aeronautics and Space Administration (NASA), 2020.",
   "<a href=\"https://www.itk.ntnu.no/emner/fordypning/TTK4\">TTK4</a> Unmanned Aerial Vehicles, guest lecturer. Norwegian University of Science and Technology (NTNU), 2018-2019.",
-  "<a href=\"https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/\">AT-331/831</a> Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)  course responsible. University Centre in Svalbard (UNIS), 2017.",
-  "<a href=\"https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/\">AT-331/831</a> Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)  guest lecturer. University Centre in Svalbard (UNIS), 2015-2016.",
+  "<a href=\"https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/\">AT-331/831</a> Arctic Environmental Pollution: Distribution and Processes, (10 ECTS) – course responsible. University Centre in Svalbard (UNIS), 2017.",
+  "<a href=\"https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/\">AT-331/831</a> Arctic Environmental Pollution: Distribution and Processes, (10 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2015-2016.",
   "Workshop on using graphic calculators in aerospace engineering studies, course responsible. University of Stuttgart, 2012-2013."
  ],
  "teaching_cards": [
   {
-   "title": "FLYT2201 Aircraft Mechanics  lecturer. Norwegian University of Science and Technology (NTNU)",
+   "title": "FLYT2201 Aircraft Mechanics",
    "url": "https://ntnu.edu/studies/courses/FLYT2201",
-   "meta": "2025  today",
+   "meta": "lecturer · Norwegian University of Science and Technology (NTNU), 2025 – today",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "FLYT1101 Introduction to Aircraft and Aviation  lecturer. Norwegian University of Science and Technology (NTNU)",
+   "title": "FLYT1101 Introduction to Aircraft and Aviation",
    "url": "https://www.ntnu.no/studier/bifly",
-   "meta": "2024  today",
+   "meta": "lecturer · Norwegian University of Science and Technology (NTNU), 2024 – today",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AT-334/834 Arctic Marine Measurements Techniques",
+   "title": "AT-334/834 Arctic Marine Measurements Techniques, Operations and Transport (10 ECTS)",
    "url": "https://www.unis.no/courses/at-834-arctic-marine-measurements-techniques-operations-and-transport/",
-   "meta": "Operations and Transport (10 ECTS)  guest lecturer, University Centre in Svalbard (UNIS), 2024  today",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2024 – today",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "RSTC Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere  guest lecturer",
+   "title": "RSTC Training Course and Satellite and UAV Remote Sensing of the Arctic Biosphere",
    "url": "https://sios-svalbard.org/RSTC2026",
-   "meta": "Svalbard Integrated Arctic Earth Observing System (SIOS), 2026",
+   "meta": "guest lecturer, Svalbard Integrated Arctic Earth Observing System (SIOS), 2026",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "GEE-M-MK2 Innovative Field Methods (Innovative Feldmethoden",
+   "title": "GEE-M-MK2 Innovative Field Methods (Innovative Feldmethoden, Datenerhebung im Gelände)",
    "url": "https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=modulansicht&publishConfFile=modulverwaltung&publishSubDir=up/modulbearbeiter&modul.modul_id=3774",
-   "meta": "Datenerhebung im Gelände)  guest lecturer · University of Potsdam, 2025",
+   "meta": "guest lecturer · University of Potsdam, 2025",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AGF-350/850 The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS)  guest lecturer",
+   "title": "AGF-350/850 The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS)",
    "url": "https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/",
-   "meta": "University Centre in Svalbard (UNIS), 2020, 2022, and 2024",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AGF-312 Remote Sensing of the Cryosphere (10 ECTS)  guest lecturer",
+   "title": "AGF-312 Remote Sensing of the Cryosphere (10 ECTS)",
    "url": "https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/",
-   "meta": "University Centre in Svalbard (UNIS), 2023",
+   "meta": "guest lecturer, University Centre in Svalbard (UNIS), 2023",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)  main instructor",
+   "title": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
    "url": "https://sios-svalbard.org/UAV4Svalbard",
-   "meta": "Svalbard Integrated Arctic Earth Observing System (SIOS), 2023",
+   "meta": "main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "Unmanned Aerial Vehicle: Environmental Applications  Advanced Level  guest lecturer",
+   "title": "Unmanned Aerial Vehicle: Environmental Applications",
    "url": "",
-   "meta": "University of Silesia in Katowice, 2022",
+   "meta": "Advanced Level – guest lecturer, University of Silesia in Katowice, 2022",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AG-204/221 The Physical Geography of Svalbard (15 ECTS)  guest lecturer. University Centre in Svalbard (UNIS)",
+   "title": "AG-204/221 The Physical Geography of Svalbard (15 ECTS)",
    "url": "https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/",
-   "meta": "2019 &amp; 2021",
+   "meta": "guest lecturer · University Centre in Svalbard (UNIS), 2019 &amp; 2021",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "TRST Terrestrial Remote Sensing Training  guest lecturer",
+   "title": "TRST Terrestrial Remote Sensing Training",
    "url": "https://sios-svalbard.org/TRST_2020",
-   "meta": "Svalbard Integrated Earth Observing System (SIOS), 2020",
+   "meta": "guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AMS Advanced Modeling &amp; Simulation Seminar Series  guest speaker. National Aeronautics and Space Administration (NASA)",
+   "title": "AMS Advanced Modeling &amp; Simulation Seminar Series",
    "url": "https://www.nas.nasa.gov/publications/ams/ams.html",
-   "meta": "2020",
+   "meta": "guest speaker · National Aeronautics and Space Administration (NASA), 2020",
    "doi": "",
    "cite": "",
    "year": ""
@@ -707,17 +707,17 @@
    "year": ""
   },
   {
-   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes",
+   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)",
    "url": "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/",
-   "meta": "(10 ECTS)  course responsible · University Centre in Svalbard (UNIS), 2017",
+   "meta": "course responsible · University Centre in Svalbard (UNIS), 2017",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes",
+   "title": "AT-331/831 Arctic Environmental Pollution: Distribution and Processes, (10 ECTS)",
    "url": "https://www.unis.no/course/at-331-arctic-environmental-pollution-atmospheric-distribution-and-processes/",
-   "meta": "(10 ECTS)  guest lecturer · University Centre in Svalbard (UNIS), 2015-2016",
+   "meta": "guest lecturer · University Centre in Svalbard (UNIS), 2015-2016",
    "doi": "",
    "cite": "",
    "year": ""
@@ -740,7 +740,7 @@
   "Research Council of Norway, 2025-2030, project number 357451. <a href=\"https://www.ntnu.edu/ncei\">Norwegian Centre for Embodied AI (NCEI)</a>. 5.0MNOK (total 200MNOK). Co-principal investigator.",
   "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: <a href=\"https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf\">Advanced capabilities &amp; Certification for Tactical UAV Systems (ACTUS)</a>. 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
   "European Defense Fund, 2023-2026, EDF-2022-LS-RA-SMERO-NT-TDRIC: <a href=\"https://defence-industry-space.ec.europa.eu/system/files/2023-06/TDRIC-Factsheet_EDF22.pdf\">Tactical Drones in Rain and Icing Conditions (TDRIC)</a>. 0.8MEUR (total 4.0MEUR). Co-principal investigator.",
-  "Research Council of Norway, 2024-2027, project number 350469. <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/350469\">Zero Ice Shield: DICE Ice Protection for Aviation's Green Evolution</a>. 9.1MNOK. Co-principal investigator.",
+  "Research Council of Norway, 2024-2027, project number 350469. <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/350469\">Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution</a>. 9.1MNOK. Co-principal investigator.",
   "Research Council of Norway, 2024, project number 350269: <a href=\"https://prosjektbanken.forskningsradet.no/en/project/FORISS/350269\">Linking past and present surge dynamics at Borebreen from drone surveys</a>. 80kNOK. Investigator.",
   "Research Council of Norway, 2022-2023, project number 333170: <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/333170\">Drone-mapping Surging Glaciers in Svalbard</a>. 50kNOK. Principal investigator.",
   "Research Council of Norway, 2021-2026, project number 316425: <a href=\"https://prosjektbanken.forskningsradet.no/en/project/FORISS/316425\">Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs)</a>. 12.4MNOK. Co-principal Investigator.",
@@ -805,7 +805,7 @@
    "year": ""
   },
   {
-   "title": "Zero Ice Shield: DICE Ice Protection for Aviation's Green Evolution",
+   "title": "Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution",
    "url": "https://prosjektbanken.forskningsradet.no/project/FORISS/350469",
    "meta": "Research Council of Norway, 2024-2027, project number 350469. · 9.1MNOK · Co-principal investigator",
    "doi": "",
@@ -919,27 +919,27 @@
  ],
  "projects_title": "Research Projects",
  "projects": [
-  "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs). Funded by the Research Council of Norway (IKTPLUSS). 2020  today.",
-  "Center of Excellence, Autonomous Marine Operations and Systems (<a href=\"http://www.ntnu.edu/amos\">AMOS</a>). Funded by the Research Council of Norway, NTNU, Equinor, DNV GL and the Sintef Group. 2016  2023.",
-  "NTNU Unmanned Aerial Vehicles Laboratory (<a href=\"http://www.itk.ntnu.no/english/lab/unmanned\">UAV-lab</a>). 2016  today.",
-  "NTNU Unmanned Aerial Vehicles Icing Laboratory (<a href=\"http://www.uavicinglab.com/\">UAV Icing Lab</a>). 2021  today.",
-  "UAV Crevasse  Using UAVs to investigate effects of crevasses upon glacier surface melting (<a href=\"https://www.researchinsvalbard.no/project/9044\">RIS-ID 11148</a>). 2019  2022.",
-  "Arctic ABL Wind  Novel method for wind measurements in the arctic atmospheric boundary layer <a href=\"https://www.researchinsvalbard.no/project/9389\">(RIS-ID 11372)</a>. 2020  2021.",
-  "2nd AIAA Ice Prediction Workshop (<a href=\"http://folk.ntnu.no/richahan/IPW/\">IPW</a>). 2022  2023.",
-  "1st AIAA Ice Prediction Workshop (<a href=\"http://folk.ntnu.no/richahan/IPW/\">IPW</a>). 2020  2021.",
-  "DICE ROTORS  Protecting the unmanned aircraft industry, funded by Research Council of Norway (BIA) and <a href=\"http://www.ubiqaerospace.com/\">UBIQ Aerospace</a>. 2019  2022.",
-  "Centre for integrated remote sensing and forecasting for arctic operations (<a href=\"http://cirfa.uit.no/\">CIRFA</a>). 2016  2020.",
-  "NATO AVT-388  Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2023  today.",
-  "NATO AVT-ET-214  Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2020  2022.",
-  "NATO AVT-299  Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. Participant. 2018  2021."
+  "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs). Funded by the Research Council of Norway (IKTPLUSS). 2020 – today.",
+  "Center of Excellence, Autonomous Marine Operations and Systems (<a href=\"http://www.ntnu.edu/amos\">AMOS</a>). Funded by the Research Council of Norway, NTNU, Equinor, DNV GL and the Sintef Group. 2016 – 2023.",
+  "NTNU Unmanned Aerial Vehicles Laboratory (<a href=\"http://www.itk.ntnu.no/english/lab/unmanned\">UAV-lab</a>). 2016 – today.",
+  "NTNU Unmanned Aerial Vehicles Icing Laboratory (<a href=\"http://www.uavicinglab.com/\">UAV Icing Lab</a>). 2021 – today.",
+  "UAV Crevasse – Using UAVs to investigate effects of crevasses upon glacier surface melting (<a href=\"https://www.researchinsvalbard.no/project/9044\">RIS-ID 11148</a>). 2019 – 2022.",
+  "Arctic ABL Wind – Novel method for wind measurements in the arctic atmospheric boundary layer <a href=\"https://www.researchinsvalbard.no/project/9389\">(RIS-ID 11372)</a>. 2020 – 2021.",
+  "2nd AIAA Ice Prediction Workshop (<a href=\"http://folk.ntnu.no/richahan/IPW/\">IPW</a>). 2022 – 2023.",
+  "1st AIAA Ice Prediction Workshop (<a href=\"http://folk.ntnu.no/richahan/IPW/\">IPW</a>). 2020 – 2021.",
+  "D•ICE ROTORS – Protecting the unmanned aircraft industry, funded by Research Council of Norway (BIA) and <a href=\"http://www.ubiqaerospace.com/\">UBIQ Aerospace</a>. 2019 – 2022.",
+  "Centre for integrated remote sensing and forecasting for arctic operations (<a href=\"http://cirfa.uit.no/\">CIRFA</a>). 2016 – 2020.",
+  "NATO AVT-388 – Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2023 – today.",
+  "NATO AVT-ET-214 – Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments. Co-chair. 2020 – 2022.",
+  "NATO AVT-299 – Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles. Participant. 2018 – 2021."
  ],
  "engagement_title": "Academic Engagement & Workgroups",
  "engagement": [
-  "Guest Editor for the Special Issue: <a href=\"https://www.mdpi.com/journal/drones/special_issues/6602HW657P\">Recent Developments in Drones Icing\"</a> in Drones, 2024.",
-  "<a href=\"https://www.aiaa.org/get-involved/committees-groups/technical-committees#aerospace-sciences-group\">AIAA Atmospheric and Space Environments Technical Committee</a>. 2023  today.",
-  "EUROCAE (European Organisation for Civil Aviation Equipment), <a href=\"https://www.eurocae.net/about-us/working-groups/\">WG-112 SG-4</a> Vertical Take-off and Landing (VTOL). 2022  today.",
-  "SAE Technical Committee  Aircraft Icing Technology (<a href=\"https://www.sae.org/works/committeeHome.do?comtID=TEAAC9C\">AC-9C</a>). 2018  today.",
-  "Svalbard Integrated Arctic Earth Observing System. <a href=\"https://sios-svalbard.org/SOAG\">Science Optimisation Advisory Group</a> and <a href=\"https://sios-svalbard.org/RSWG\">Remote Sensing Working Group</a>. 2022  today.",
+  "Guest Editor for the Special Issue: <a href=\"https://www.mdpi.com/journal/drones/special_issues/6602HW657P\">”Recent Developments in Drones Icing\"</a> in Drones, 2024.",
+  "<a href=\"https://www.aiaa.org/get-involved/committees-groups/technical-committees#aerospace-sciences-group\">AIAA Atmospheric and Space Environments Technical Committee</a>. 2023 – today.",
+  "EUROCAE (European Organisation for Civil Aviation Equipment), <a href=\"https://www.eurocae.net/about-us/working-groups/\">WG-112 SG-4</a> Vertical Take-off and Landing (VTOL). 2022 – today.",
+  "SAE Technical Committee – Aircraft Icing Technology (<a href=\"https://www.sae.org/works/committeeHome.do?comtID=TEAAC9C\">AC-9C</a>). 2018 – today.",
+  "Svalbard Integrated Arctic Earth Observing System. <a href=\"https://sios-svalbard.org/SOAG\">Science Optimisation Advisory Group</a> and <a href=\"https://sios-svalbard.org/RSWG\">Remote Sensing Working Group</a>. 2022 – today.",
   "Conference host of the 1st and 2nd <a href=\"http://www.uavicingworkshop.com/\">International Workshop on UAV Icing</a>. 2022 &amp; 2024.",
   "Session chair for <a href=\"https://www.aiaa.org/aviation\">AIAA Aviation Forum</a>, 2022 &amp; 2024.",
   "Scientific committee member for the <a href=\"https://en.uit.no/tavla/artikkel/804104/iwasi_conference\">20th International Workshop on Atmospheric Icing of Structures (IWAS)</a> in Narvik, 2024.",

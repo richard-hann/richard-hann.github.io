@@ -2,7 +2,7 @@
 
 Personal academic homepage of **Dr. Richard Hann** – Senior Researcher and Director of the UAV Icing Lab, Norwegian University of Science and Technology (NTNU).
 
-Live site: <https://richard-hann.github.io>
+Live site: <https://cv.richardhann.com>
 
 Built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and hosted on GitHub Pages.
 

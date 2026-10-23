@@ -13,8 +13,7 @@ title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "Dr. Richard Hann"
 description              : &description "Dr. Richard Hann – Senior Researcher and Director of the UAV Icing Lab at NTNU. Research on atmospheric icing of unmanned aircraft and drone applications in the Arctic."
-url                      : https://richard-hann.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://cv.richardhann.com # custom domain (GitHub Pages)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "richard-hann/richard-hann.github.io"
 
@@ -44,7 +43,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=5RUAbN8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL - add your ORCID link here
+  orcid            : "https://orcid.org/0000-0002-0577-5812"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL

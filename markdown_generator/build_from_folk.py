@@ -88,8 +88,18 @@ def load(path):
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
+def fix_c1(x):
+    """Repair Windows-1252 characters that were decoded as Latin-1 (dashes, quotes: U+0080-U+009F)."""
+    if isinstance(x, str):
+        return re.sub("[\x80-\x9f]", lambda m: bytes([ord(m.group())]).decode("cp1252", errors="ignore"), x)
+    if isinstance(x, list):
+        return [fix_c1(v) for v in x]
+    if isinstance(x, dict):
+        return {k: fix_c1(v) for k, v in x.items()}
+    return x
+
 new_path = sys.argv[1] if len(sys.argv) > 1 else None
-data = load(new_path or SNAP)
+data = fix_c1(load(new_path or SNAP))
 S = data["sections"]
 missing = [k for k in REQUIRED if k not in S]
 if missing:
@@ -114,9 +124,14 @@ def split_pub(p):
     """Return (full title, authors, venue, doi) from the citation text."""
     t = p["t"]
     m = re.search(r"\(\d{4}\)\.?", t)
-    authors = t[:m.start()].strip(" ,:") if m else ""
-    after = t[m.end():].strip(" .") if m else t
     lt = p["title"]
+    if m:
+        authors, after = t[:m.start()].strip(" ,:"), t[m.end():].strip(" .")
+    elif lt and lt in t:                      # "Authors: Title, Venue, 2021." (no "(year)")
+        k = t.index(lt)
+        authors, after = t[:k].strip(" ,:"), t[k:].strip(" .")
+    else:
+        authors, after = "", t
     if lt and lt in after:
         k = after.index(lt) + len(lt)
         title, venue = after[:k].strip(" ."), after[k:]
@@ -268,8 +283,9 @@ folk = {
 with open(os.path.join(ROOT, "_data", "folk.yml"), "w", encoding="utf-8") as f:
     json.dump(folk, f, ensure_ascii=False, indent=1)          # JSON is valid YAML
 
-if new_path and os.path.abspath(new_path) != SNAP:
-    shutil.copyfile(new_path, SNAP)
+# store the (repaired) snapshot - same structure as written by scripts/folk_extract.mjs
+with open(SNAP, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=1)
 
 from collections import Counter
 print(f"OK: {len(pubs)} publications {dict(Counter(p['cat'] for p in pubs))}, "
