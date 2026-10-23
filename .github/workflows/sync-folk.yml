@@ -55,3 +55,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run jekyll.yml --ref "${{ github.ref_name }}"
+
+      # Same list on https://uavicinglab.com/publications/ (only the "Papers" part; does nothing
+      # if it is already identical or if the WPCOM_* secrets are not set).
+      - name: Update UAV Icing Lab publications page
+        env:
+          WPCOM_CLIENT_ID:     ${{ secrets.WPCOM_CLIENT_ID }}
+          WPCOM_CLIENT_SECRET: ${{ secrets.WPCOM_CLIENT_SECRET }}
+          WPCOM_USERNAME:      ${{ secrets.WPCOM_USERNAME }}
+          WPCOM_PASSWORD:      ${{ secrets.WPCOM_PASSWORD }}
+        run: python3 scripts/push_uavicinglab.py
