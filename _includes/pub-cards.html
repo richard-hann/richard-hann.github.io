@@ -1,9 +1,9 @@
 {% comment %} Publication list: title first, then authors · year · venue; "Cite" shows the plain folk.ntnu.no citation. {% endcomment %}
 {% assign _items = include.items | sort: 'order' %}
-{% assign _groups = _items | group_by_exp: "p", "p.date | date: '%Y'" %}
+{% if include.heading %}{% assign _groups = _items | group_by: "collection" %}{% else %}{% assign _groups = _items | group_by_exp: "p", "p.date | date: '%Y'" %}{% endif %}
 <div class="pubs">
 {% for g in _groups %}
-  <h2 class="pubs-year">{{ g.name }}</h2>
+  <h2 class="pubs-year">{% if include.heading %}{{ include.heading }}{% else %}{{ g.name }}{% endif %}</h2>
   {% for p in g.items %}
   <article class="pub">
     <h3 class="pub-title">{% if p.paperurl %}<a href="{{ p.paperurl }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</h3>

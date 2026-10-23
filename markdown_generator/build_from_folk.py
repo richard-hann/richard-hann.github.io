@@ -19,8 +19,10 @@ REQUIRED = ["Publications", "Presentations", "Datasets", "People", "Teaching", "
 
 # Entries that are not part of a bookmarked section on the NTNU page
 EXTRA_PUBS = [
-    {"y": "2020", "cat": "theses", "links": [],
-     "t": "Hann, R. (2020). Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles. PhD Thesis NTNU 2020:200, Norwegian University of Science and Technology.",
+    {"y": "2020", "cat": "theses", "phd": True,
+     "links": [["Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles",
+                "https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2657638"]],
+     "t": "Hann, R. (2020). Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles. PhD Thesis NTNU2020:200, Norwegian University of Science and Technology.",
      "title": "Atmospheric Ice Accretions, Aerodynamic Icing Penalties, and Ice Protection Systems on Unmanned Aerial Vehicles"},
 ]
 
@@ -118,7 +120,7 @@ for i in entries(S["Publications"]):
     lt, href = main_link(i)
     pubs.append({"y": i["y"], "t": i["t"], "links": i["links"], "title": lt or i["t"][:80], "url": href, "cat": category(i["t"])})
 for e in EXTRA_PUBS:
-    pubs.append(dict(e, url=""))
+    pubs.append(dict(e, url=e["links"][0][1] if e.get("links") else ""))
 pubs.sort(key=lambda p: -int(p["y"] or 0))           # stable: keeps the NTNU order inside a year
 def split_pub(p):
     """Return (full title, authors, venue, doi) from the citation text."""
@@ -153,6 +155,7 @@ for n, p in enumerate(pubs):
           f"permalink: /publication/{s}", f'date: {p["y"]}-01-01', f'year: {p["y"]}', f"order: {n}",
           f"authors: {yq(fmt(authors))}", f"venue: {yq(venue)}", f"doi: {yq(doi)}",
           "excerpt: ''", f"citation: {yq(cit)}", f'citation_plain: {yq(html.escape(p["t"], quote=False))}']
+    if p.get("phd"): fm.append("phd: true")
     if p["url"]: fm.append(f'paperurl: {yq(p["url"])}')
     fm.append("---")
     body = cit + "\n" + (f'\n[Open publication]({p["url"]})\n' if p["url"] else "")

@@ -8,4 +8,7 @@ author_profile: true
 {% assign t = site.data.folk.publications_title | split: "(" | last | split: ")" | first %}
 <p class="pub-summary">{{ t }}{% if site.author.googlescholar %} · <a href="{{ site.author.googlescholar }}">Google Scholar</a>{% endif %}</p>
 
-{% include pub-cards.html items=site.publications %}
+{% assign phd = site.publications | where: "phd", true %}
+{% assign others = site.publications | where_exp: "p", "p.phd != true" %}
+{% include pub-cards.html items=phd heading="PhD Thesis" %}
+{% include pub-cards.html items=others %}
