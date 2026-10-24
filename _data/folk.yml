@@ -1,6 +1,6 @@
 {
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "last_modified": "Thu, 22 Oct 2026 19:38:43 GMT",
+ "last_modified": "Fri, 23 Oct 2026 10:37:35 GMT",
  "publications_title": "Publications (Total: 92 / Journal: 25 / Conference: 45 / Book chapters: 1 / Other: 21)",
  "presentations_title": "Presentations and Invited Talks (Total: 49 presentations)",
  "datasets_title": "Datasets (Total: 21 datasets)",
@@ -204,13 +204,22 @@
     {
      "name": "",
      "items": [
-      "Bogdan Løw-Hansen, Atmospheric icing detection and “system identification for disruptive aircraft, 2026-202X, NTNU, funded by RCN and Ubiq Aerospace."
+      "Bogdan Løw-Hansen, Atmospheric icing detection and “system identification for disruptive aircraft, 2026-202X, NTNU, funded by RCN and Ubiq Aerospace.",
+      "Max Nüßle, Development of ice protection systems for ulta-efficient regional aircraft, 2027-202X, NTNU, funded by EU."
      ],
      "cards": [
       {
        "title": "Atmospheric icing detection and “system identification for disruptive aircraft",
        "url": "",
        "meta": "Bogdan Løw-Hansen · 2026-202X, NTNU, funded by RCN and Ubiq Aerospace",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
+      {
+       "title": "Development of ice protection systems for ulta-efficient regional aircraft",
+       "url": "",
+       "meta": "Max Nüßle · 2027-202X, NTNU, funded by EU",
        "doi": "",
        "cite": "",
        "year": ""
