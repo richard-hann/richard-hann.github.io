@@ -6,7 +6,7 @@ permalink: /talks/2021-a-comparison-of-pcb-congener-organochlorine-pesticide-and
 venue: 'SETAC North America 42nd Annual Meeting, online'
 date: 2021-01-01
 year: 2021
-order: 32
+order: 33
 authors: 'Hermanson, M.H., Isaksson, E., <b>Hann, R.</b>, Ruggirello, R.M., Teixeira, C., Muir, D.C.G.'
 doi: ''
 location: 'online'

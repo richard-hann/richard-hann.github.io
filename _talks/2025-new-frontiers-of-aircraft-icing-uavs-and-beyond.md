@@ -6,7 +6,7 @@ permalink: /talks/2025-new-frontiers-of-aircraft-icing-uavs-and-beyond
 venue: 'Invited speaker, Aircraft Icing Forum (hosted by FAA and NASA), online'
 date: 2025-01-01
 year: 2025
-order: 10
+order: 11
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'online'

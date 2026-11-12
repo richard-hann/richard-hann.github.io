@@ -6,7 +6,7 @@ permalink: /talks/2024-frozen-pollutants-organic-contaminants-in-svalbard-snow-i
 venue: 'Arctic Frontiers Conference 2024, Tromsø'
 date: 2024-01-01
 year: 2024
-order: 13
+order: 14
 authors: 'Hermanson, M.H., Isaksson, E, <b>Hann, R.</b>, Gabrielsen, G.W.'
 doi: ''
 location: 'Tromsø'

@@ -6,7 +6,7 @@ permalink: /talks/2026-from-drones-to-wind-turbines-shared-challenges-in-atmosph
 venue: 'Invited speaker, Winterwind, Sundsvall'
 date: 2026-01-01
 year: 2026
-order: 2
+order: 3
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Sundsvall'

@@ -6,7 +6,7 @@ permalink: /talks/2021-applications-of-unmanned-vehicles-in-svalbard
 venue: 'Arctic Science Summit Week, online'
 date: 2021-01-01
 year: 2021
-order: 25
+order: 26
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'online'

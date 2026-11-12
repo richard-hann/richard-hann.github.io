@@ -6,7 +6,7 @@ permalink: /talks/2020-deposition-of-polychlorinated-biphenyls-to-ice-cores-at-o
 venue: 'SETAC Europe 30th Annual Meeting, Dublin'
 date: 2020-01-01
 year: 2020
-order: 38
+order: 39
 authors: 'Hermanson, M.H., Isaksson, E., <b>Hann, R.</b>, Teixeira, C., Muir, D.C.G.'
 doi: ''
 location: 'Dublin'

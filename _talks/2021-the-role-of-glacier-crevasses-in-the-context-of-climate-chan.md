@@ -6,7 +6,7 @@ permalink: /talks/2021-the-role-of-glacier-crevasses-in-the-context-of-climate-c
 venue: 'Svalbard Science Conference, Oslo'
 date: 2021-01-01
 year: 2021
-order: 30
+order: 31
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'

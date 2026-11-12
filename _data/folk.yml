@@ -1,8 +1,8 @@
 {
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "last_modified": "Thu, 29 Oct 2026 12:33:10 GMT",
+ "last_modified": "Thu, 12 Nov 2026 10:44:14 GMT",
  "publications_title": "Publications (Total: 92 / Journal: 25 / Conference: 45 / Book chapters: 1 / Other: 21)",
- "presentations_title": "Presentations and Invited Talks (Total: 49 presentations)",
+ "presentations_title": "Presentations and Invited Talks (Total: 50 presentations)",
  "datasets_title": "Datasets (Total: 21 datasets)",
  "datasets": [
   "<b>Hann, R.</b> (2026). <a href=\"https://doi.org/10.5281/zenodo.13623723\">Drone-based glacier mapping of Nordenskiöldbreen and Tunabreen in Svalbard, 2026</a>, Dataset. Zenodo, Version 1. <span class=\"pub-doi\"><a href=\"https://doi.org/10.5281/zenodo.22881363\">doi.org/10.5281/zenodo.22881363</a></span>",
@@ -199,7 +199,7 @@
  ],
  "people": [
   {
-   "title": "People – Postdocs (1 postdoc)",
+   "title": "People – Postdocs (2 postdocs)",
    "groups": [
     {
      "name": "",
@@ -229,11 +229,12 @@
    ]
   },
   {
-   "title": "People – PhD Students (Main supervisor: 6 students, co-supervisor: 3 students)",
+   "title": "People – PhD Students (Main supervisor: 7 students, co-supervisor: 3 students)",
    "groups": [
     {
      "name": "Current",
      "items": [
+      "Oliver Rapp, Drone mapping application in the Arctic, 2026-2029, NTNU, main supervisor, ongoing.",
       "Lars Klein, UAV Icing Detection with LiDAR, 2026-2029, NTNU, main supervisor, ongoing.",
       "Kaelan Lockhart, Real-time vegetation mapping in Antarctica, Queensland University of Technology QUT, co-supervisor, ongoing.",
       "Kristoffer Kvist, Helicopter icing, 2024-202X, The Arctic University in Norway UiT, co-supervisor, ongoing.",
@@ -241,6 +242,14 @@
       "Michael Cheung, Path-planning of UAVs in icing conditions, 2021-202X, NTNU, main supervisor, ongoing."
      ],
      "cards": [
+      {
+       "title": "Drone mapping application in the Arctic",
+       "url": "",
+       "meta": "Oliver Rapp · 2026-2029, NTNU, main supervisor, ongoing",
+       "doi": "",
+       "cite": "",
+       "year": ""
+      },
       {
        "title": "UAV Icing Detection with LiDAR",
        "url": "",

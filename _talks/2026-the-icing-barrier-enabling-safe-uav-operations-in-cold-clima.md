@@ -6,7 +6,7 @@ permalink: /talks/2026-the-icing-barrier-enabling-safe-uav-operations-in-cold-cl
 venue: 'Invited speaker, Unmanned Nordic Conference (UNC), Oslo'
 date: 2026-01-01
 year: 2026
-order: 3
+order: 4
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'

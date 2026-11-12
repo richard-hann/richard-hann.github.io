@@ -6,7 +6,7 @@ permalink: /talks/2018-icing-on-unmanned-aerial-vehicles-uavs
 venue: 'Wind Turbine Icing & Ice Prevention Forum, Berlin'
 date: 2018-01-01
 year: 2018
-order: 44
+order: 45
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Berlin'

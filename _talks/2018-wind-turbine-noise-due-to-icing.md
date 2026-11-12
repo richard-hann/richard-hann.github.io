@@ -6,7 +6,7 @@ permalink: /talks/2018-wind-turbine-noise-due-to-icing
 venue: 'Wind Turbine Icing & Ice Prevention Forum, Berlin'
 date: 2018-01-01
 year: 2018
-order: 43
+order: 44
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Berlin'

@@ -6,7 +6,7 @@ permalink: /talks/2012-thermal-analysis-of-a-heated-rotor-blade-for-wind-turbine
 venue: 'Winterwind Conference, Skellefteå'
 date: 2012-01-01
 year: 2012
-order: 48
+order: 49
 authors: '<b>Hann, R.</b>, Neumann, S. O., Miller, A., &amp; Dillingh, J.'
 doi: ''
 location: 'Skellefteå'

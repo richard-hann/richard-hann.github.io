@@ -1049,8 +1049,14 @@
    "lastYear": "2012"
   },
   "Presentations": {
-   "title": "Presentations and Invited Talks (Total: 49 presentations)",
+   "title": "Presentations and Invited Talks (Total: 50 presentations)",
    "items": [
+    {
+     "y": "2027",
+     "t": "Hann, R. (2027). Enabling Arctic Drone Observations: Icing Risks, Mitigation, and Future Needs. Keynote speaker, Arctic Frontiers, Tromsø.",
+     "links": [],
+     "entry": true
+    },
     {
      "y": "2026",
      "t": "Hann, R. (2026). SESS Report Release: Third update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Online.",
@@ -1665,7 +1671,7 @@
    ]
   },
   "People": {
-   "title": "People – Postdocs (1 postdoc)",
+   "title": "People – Postdocs (2 postdocs)",
    "items": [
     {
      "y": "",
@@ -1681,7 +1687,7 @@
     },
     {
      "y": "",
-     "t": "People – PhD Students (Main supervisor: 6 students, co-supervisor: 3 students)",
+     "t": "People – PhD Students (Main supervisor: 7 students, co-supervisor: 3 students)",
      "links": [],
      "entry": false
     },
@@ -1690,6 +1696,12 @@
      "t": "Current",
      "links": [],
      "entry": false
+    },
+    {
+     "y": "",
+     "t": "Oliver Rapp, Drone mapping application in the Arctic, 2026-2029, NTNU, main supervisor, ongoing.",
+     "links": [],
+     "entry": true
     },
     {
      "y": "",
@@ -2087,7 +2099,7 @@
      "links": [
       [
        "FLYT2201",
-       "https://richahan.folk.ntnu.no/ntnu.edu/studies/courses/FLYT2201"
+       "https://ntnu.edu/studies/courses/FLYT2201"
       ]
      ],
      "entry": true
@@ -2847,5 +2859,5 @@
   }
  },
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "lastModified": "Thu, 29 Oct 2026 12:33:10 GMT"
+ "lastModified": "Thu, 12 Nov 2026 10:44:14 GMT"
 }

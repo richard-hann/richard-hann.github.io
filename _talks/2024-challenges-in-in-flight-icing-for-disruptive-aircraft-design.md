@@ -6,7 +6,7 @@ permalink: /talks/2024-challenges-in-in-flight-icing-for-disruptive-aircraft-des
 venue: 'Invited panel discussion. AIAA Aviation Forum and Ascend, Las Vegas'
 date: 2024-01-01
 year: 2024
-order: 16
+order: 17
 authors: '<b>Hann, R.</b>, Broeren, A., Leopold, D., Botura, G., Pellicano, P., Goyal, R.'
 doi: ''
 location: 'Las Vegas'

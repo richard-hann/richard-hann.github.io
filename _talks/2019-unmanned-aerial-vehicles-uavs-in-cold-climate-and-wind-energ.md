@@ -6,7 +6,7 @@ permalink: /talks/2019-unmanned-aerial-vehicles-uavs-in-cold-climate-and-wind-en
 venue: 'Winterwind Conference, Umeå'
 date: 2019-01-01
 year: 2019
-order: 41
+order: 42
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Umeå'

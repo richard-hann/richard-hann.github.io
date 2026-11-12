@@ -6,7 +6,7 @@ permalink: /talks/2024-the-icing-barrier-for-clean-aviation
 venue: 'NTNU and Rolls Royce Clean Aviation Evening, Trondheim'
 date: 2024-01-01
 year: 2024
-order: 12
+order: 13
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Trondheim'

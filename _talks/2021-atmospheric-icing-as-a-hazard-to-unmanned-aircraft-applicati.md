@@ -6,7 +6,7 @@ permalink: /talks/2021-atmospheric-icing-as-a-hazard-to-unmanned-aircraft-applic
 venue: 'Arctic Safety Conference, Longyearbyen'
 date: 2021-01-01
 year: 2021
-order: 31
+order: 32
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

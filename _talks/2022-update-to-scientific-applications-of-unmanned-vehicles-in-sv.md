@@ -6,7 +6,7 @@ permalink: /talks/2022-update-to-scientific-applications-of-unmanned-vehicles-in
 venue: 'SIOS Polar Night Week 2022, Longyearbyen'
 date: 2022-01-01
 year: 2022
-order: 23
+order: 24
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

@@ -6,7 +6,7 @@ permalink: /talks/2022-uav-icing-the-freezing-barrier-for-the-future-of-aviation
 venue: 'AMOS Days November 2022, Trondheim'
 date: 2022-01-01
 year: 2022
-order: 22
+order: 23
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Trondheim'

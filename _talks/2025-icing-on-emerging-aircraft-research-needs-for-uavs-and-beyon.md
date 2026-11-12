@@ -6,7 +6,7 @@ permalink: /talks/2025-icing-on-emerging-aircraft-research-needs-for-uavs-and-be
 venue: 'Invited speaker, European Aerospace Science Network (EASN) Research Webinars, online'
 date: 2025-01-01
 year: 2025
-order: 11
+order: 12
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'online'

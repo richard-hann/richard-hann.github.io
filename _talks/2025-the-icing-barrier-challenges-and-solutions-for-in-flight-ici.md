@@ -6,7 +6,7 @@ permalink: /talks/2025-the-icing-barrier-challenges-and-solutions-for-in-flight-
 venue: 'Invited speaker, Defense Leaders - Navy Tech, Helsinki'
 date: 2025-01-01
 year: 2025
-order: 5
+order: 6
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Helsinki'

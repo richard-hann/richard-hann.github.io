@@ -6,7 +6,7 @@ permalink: /talks/2026-synergies-in-atmospheric-icing-from-uavs-to-wind-energy-s
 venue: 'Invited keynote speaker, Winterwind, Sundsvall'
 date: 2026-01-01
 year: 2026
-order: 1
+order: 2
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Sundsvall'

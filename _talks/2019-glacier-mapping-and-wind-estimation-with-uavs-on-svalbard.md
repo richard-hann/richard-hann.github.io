@@ -6,7 +6,7 @@ permalink: /talks/2019-glacier-mapping-and-wind-estimation-with-uavs-on-svalbard
 venue: 'Svalbard Science Conference, Oslo'
 date: 2019-01-01
 year: 2019
-order: 40
+order: 41
 authors: '<b>Hann, R.</b>, Hodson, A., Jonassen, M.'
 doi: ''
 location: 'Oslo'

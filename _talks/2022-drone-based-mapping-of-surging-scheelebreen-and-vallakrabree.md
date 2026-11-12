@@ -6,7 +6,7 @@ permalink: /talks/2022-drone-based-mapping-of-surging-scheelebreen-and-vallakrab
 venue: 'SIOS Online Conference, online'
 date: 2022-01-01
 year: 2022
-order: 20
+order: 21
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'online'

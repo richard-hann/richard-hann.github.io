@@ -6,7 +6,7 @@ permalink: /talks/2021-synergies-between-icing-on-wind-turbines-and-uavs
 venue: 'Winterwind Conference, online'
 date: 2021-01-01
 year: 2021
-order: 26
+order: 27
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'online'

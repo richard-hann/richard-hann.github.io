@@ -6,7 +6,7 @@ permalink: /talks/2026-sess-report-release-third-update-to-scientific-applicatio
 venue: 'SIOS Polar Night Week, Online'
 date: 2026-01-01
 year: 2026
-order: 0
+order: 1
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Online'

@@ -6,7 +6,7 @@ permalink: /talks/2020-opportunities-and-challenges-for-unmanned-aerial-vehicles
 venue: 'SIOS Polar Night Week Conference, Longyearbyen'
 date: 2020-01-01
 year: 2020
-order: 39
+order: 40
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

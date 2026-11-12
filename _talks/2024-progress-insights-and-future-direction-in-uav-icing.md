@@ -6,7 +6,7 @@ permalink: /talks/2024-progress-insights-and-future-direction-in-uav-icing
 venue: 'Keynote presentation, 2nd International UAV Icing Workshop, Trondheim'
 date: 2024-01-01
 year: 2024
-order: 17
+order: 18
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Trondheim'

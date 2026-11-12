@@ -6,7 +6,7 @@ permalink: /talks/2020-applications-of-unmanned-aerial-vehicles-in-svalbard
 venue: 'Arctic Change Conference, Longyearbyen'
 date: 2020-01-01
 year: 2020
-order: 33
+order: 34
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

@@ -6,7 +6,7 @@ permalink: /talks/2021-sess-report-release-scientific-applications-of-unmanned-v
 venue: 'SIOS Polar Night Week, Longyearbyen'
 date: 2021-01-01
 year: 2021
-order: 24
+order: 25
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

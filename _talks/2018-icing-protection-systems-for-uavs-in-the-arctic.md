@@ -6,7 +6,7 @@ permalink: /talks/2018-icing-protection-systems-for-uavs-in-the-arctic
 venue: 'Arctic Change conference, Ottawa'
 date: 2018-01-01
 year: 2018
-order: 42
+order: 43
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Ottawa'

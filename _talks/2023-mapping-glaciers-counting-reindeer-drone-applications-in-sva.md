@@ -6,7 +6,7 @@ permalink: /talks/2023-mapping-glaciers-counting-reindeer-drone-applications-in-
 venue: 'Svalbard Science Conference, Oslo'
 date: 2023-01-01
 year: 2023
-order: 19
+order: 20
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'

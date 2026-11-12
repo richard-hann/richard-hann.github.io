@@ -6,7 +6,7 @@ permalink: /talks/2024-surge-initiation-at-the-terminus-of-borebreen-svalbard-dr
 venue: 'General Assembly of the European Geosciences Union, EGU24, Vienna'
 date: 2024-01-01
 year: 2024
-order: 15
+order: 16
 authors: 'Harcourt, W.D, Gajek, W., Pearce, D., <b>Hann, R.</b>, Luckman, A., Rea, B.R., Benn, D.I., James, M.R, Spagnolo, M., Nanni, U.'
 doi: ''
 location: 'Vienna'

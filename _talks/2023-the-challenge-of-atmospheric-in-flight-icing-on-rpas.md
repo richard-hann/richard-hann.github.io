@@ -6,7 +6,7 @@ permalink: /talks/2023-the-challenge-of-atmospheric-in-flight-icing-on-rpas
 venue: '8th ISARRA (International Society for Atmospheric Research using Remotely-piloted Aircraft) conference, Bergen'
 date: 2023-01-01
 year: 2023
-order: 18
+order: 19
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Bergen'

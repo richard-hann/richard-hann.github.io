@@ -6,7 +6,7 @@ permalink: /talks/2017-cold-climate-wind-energy-in-longyearbyen-78n
 venue: 'Arctic Change conference, Québec City'
 date: 2017-01-01
 year: 2017
-order: 45
+order: 46
 authors: '<b>Hann, R.</b>, Veshniakova, L., Romero, M., Cicilio, P.R.'
 doi: ''
 location: 'Québec City'

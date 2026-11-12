@@ -6,7 +6,7 @@ permalink: /talks/2021-how-to-publish-a-paper
 venue: 'SCOPE, 1st student-led conference on Polar Environment, Longyearbyen'
 date: 2021-01-01
 year: 2021
-order: 29
+order: 30
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Longyearbyen'

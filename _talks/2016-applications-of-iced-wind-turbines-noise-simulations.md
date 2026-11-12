@@ -6,7 +6,7 @@ permalink: /talks/2016-applications-of-iced-wind-turbines-noise-simulations
 venue: 'Winterwind Conference, Åre'
 date: 2016-01-01
 year: 2016
-order: 46
+order: 47
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Åre'

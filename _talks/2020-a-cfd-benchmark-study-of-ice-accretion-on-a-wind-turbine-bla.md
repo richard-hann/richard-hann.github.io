@@ -6,7 +6,7 @@ permalink: /talks/2020-a-cfd-benchmark-study-of-ice-accretion-on-a-wind-turbine-
 venue: 'Winterwind Conference, Åre'
 date: 2020-01-01
 year: 2020
-order: 36
+order: 37
 authors: 'Lindvall, J., Lee, L., Virk, M.S., Jin, J.Y., Lehtomäki, V., <b>Hann, R.</b>, Revstedt, J.'
 doi: ''
 location: 'Åre'

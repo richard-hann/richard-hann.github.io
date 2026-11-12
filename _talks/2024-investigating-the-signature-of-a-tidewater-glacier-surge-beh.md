@@ -6,7 +6,7 @@ permalink: /talks/2024-investigating-the-signature-of-a-tidewater-glacier-surge-
 venue: 'General Assembly of the European Geosciences Union, EGU24, Vienna'
 date: 2024-01-01
 year: 2024
-order: 14
+order: 15
 authors: 'Pearce, D.M., Harcourt, W.D., Gajek, W., <b>Hann, R.</b>, Rea, B.R., Benn, D.I., Lovell, H., Spagnolo, M.'
 doi: ''
 location: 'Vienna'

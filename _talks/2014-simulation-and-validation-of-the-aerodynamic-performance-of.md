@@ -6,7 +6,7 @@ permalink: /talks/2014-simulation-and-validation-of-the-aerodynamic-performance-
 venue: 'Winterwind Conference, Sundsvall'
 date: 2014-01-01
 year: 2014
-order: 47
+order: 48
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Sundsvall'

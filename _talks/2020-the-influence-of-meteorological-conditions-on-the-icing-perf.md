@@ -6,7 +6,7 @@ permalink: /talks/2020-the-influence-of-meteorological-conditions-on-the-icing-p
 venue: ''
 date: 2020-01-01
 year: 2020
-order: 35
+order: 36
 authors: 'Müller, N., <b>Hann, R.</b>, Lutz, T.'
 doi: ''
 paperurl: 'https://folk.ntnu.no/richahan/Publications/2020_M%c3%bcller_DLRK.pdf'

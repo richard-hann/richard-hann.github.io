@@ -6,7 +6,7 @@ permalink: /talks/2025-drones-in-the-arctic-cold-climate-challenges-for-uavs
 venue: 'Invited Speaker. Cold Weather Operations Conference (CWOC), Hamar'
 date: 2025-01-01
 year: 2025
-order: 9
+order: 10
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Hamar'

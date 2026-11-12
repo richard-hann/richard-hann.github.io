@@ -6,7 +6,7 @@ permalink: /talks/2025-glaciers-from-above-and-below-applying-the-observational-
 venue: 'Svalbard Science Conference, Oslo'
 date: 2025-01-01
 year: 2025
-order: 7
+order: 8
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'

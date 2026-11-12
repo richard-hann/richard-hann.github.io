@@ -6,7 +6,7 @@ permalink: /talks/2025-applications-of-the-observational-pyramid-in-glaciology
 venue: 'Ny-Ålesund Glaciology Flagship Meeting, Oslo'
 date: 2025-01-01
 year: 2025
-order: 8
+order: 9
 authors: '<b>Hann, R.</b>'
 doi: ''
 location: 'Oslo'
