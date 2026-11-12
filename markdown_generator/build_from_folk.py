@@ -258,6 +258,20 @@ def project_card(i):
             title, rest = t, ""
     return card(title.strip(), href, html.escape(dots(rest.strip(" .")), quote=False))
 
+def fieldwork_card(i):
+    t = i["t"]
+    m_year = re.match(r'^(\d{4})\s+(.*)', t)
+    if m_year:
+        year, rest = m_year.group(1), m_year.group(2)
+    else:
+        year, rest = "", t
+    m_loc = re.match(r'^(.*?)\s*\(([^)]+)\)\s*$', rest)
+    if m_loc:
+        title, location = m_loc.group(1).strip(), m_loc.group(2)
+    else:
+        title, location = rest.strip(), ""
+    return card(title, "", html.escape(location, quote=False), year=year)
+
 # People: sub-headings "People – ..." start a new block, other headings ("Current") a sub-group
 people = [{"title": S["People"]["title"], "groups": [{"name": "", "items": []}]}]
 for i in S["People"]["items"]:
@@ -304,6 +318,8 @@ folk = {
     "engagement_title": eng_title or "Academic Engagement & Workgroups", "engagement": engagement,
     "fieldwork_title": S["Fieldwork"]["title"] if "Fieldwork" in S else "Fieldwork",
     "fieldwork": flist(S["Fieldwork"]["items"]) if "Fieldwork" in S else [],
+    "fieldwork_cards": ([fieldwork_card(i) for i in S["Fieldwork"]["items"] if i.get("entry")]
+                        if "Fieldwork" in S else []),
 }
 with open(os.path.join(ROOT, "_data", "folk.yml"), "w", encoding="utf-8") as f:
     json.dump(folk, f, ensure_ascii=False, indent=1)          # JSON is valid YAML

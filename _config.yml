@@ -32,7 +32,7 @@ author:
   bio              : "Senior Researcher & Director of the UAV Icing Lab. Atmospheric icing on unmanned aircraft and drones in the Arctic."
   location         : "Trondheim, Norway"
   employer         : "Norwegian University of Science and Technology (NTNU)"
-  employer2        : "UBIQ Aerospace AS"            # second line with a briefcase icon
+  employer2        : "Ubiq Aerospace AS"            # second line with a briefcase icon
   uri              : "https://richardhann.com"
   lab              : "https://www.uavicinglab.com/"  # "Lab" link with a flask icon
   email            : "richard.hann@ntnu.no"

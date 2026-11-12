@@ -1080,5 +1080,127 @@
   "2013 Sediment coring from sea ice in Templefjorden (Svalbard)",
   "2013 Research cruise for atmospheric pollution to Wijdefjorden (Svalbard)",
   "2012 Research cruise for atmospheric pollution and insitu oil spill burning to Raudfjorden (Svalbard)"
+ ],
+ "fieldwork_cards": [
+  {
+   "title": "Circumnavigation of Svalbard and drone-based mapping of marine terminating glacivers",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2026"
+  },
+  {
+   "title": "Drone-based mapping of Borebreen and Rindersbukta",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2025"
+  },
+  {
+   "title": "Deployment of seismics sensors on Borebreen with helicopter transport",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of Borebreen",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2024"
+  },
+  {
+   "title": "Drone-based mapping of Borebreen",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2023"
+  },
+  {
+   "title": "Drone-based mapping of surging glaciers in Rindersbukta",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2023"
+  },
+  {
+   "title": "Drone-based mapping of surging glaciers in Rindersbukta",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2022"
+  },
+  {
+   "title": "Drone-based reindeer counting in Sassendalen",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2021"
+  },
+  {
+   "title": "Drone-based costal erosion monitoring in Hjiorthhamn",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2020"
+  },
+  {
+   "title": "Drone-based glacier crevasse mapping and atmospheric profiling",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2020"
+  },
+  {
+   "title": "Drone-based glacier crevasse mapping and atmospheric profiling",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2019"
+  },
+  {
+   "title": "Black carbon sampling with spectroscopy",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2017"
+  },
+  {
+   "title": "Sediment coring from sea ice in Templefjorden",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2013"
+  },
+  {
+   "title": "Research cruise for atmospheric pollution to Wijdefjorden",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2013"
+  },
+  {
+   "title": "Research cruise for atmospheric pollution and insitu oil spill burning to Raudfjorden",
+   "url": "",
+   "meta": "Svalbard",
+   "doi": "",
+   "cite": "",
+   "year": "2012"
+  }
  ]
 }
