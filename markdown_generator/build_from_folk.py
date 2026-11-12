@@ -270,7 +270,8 @@ def fieldwork_card(i):
         title, location = m_loc.group(1).strip(), m_loc.group(2)
     else:
         title, location = rest.strip(), ""
-    return card(title, "", html.escape(location, quote=False), year=year)
+    meta = " · ".join(x for x in [year, html.escape(location, quote=False)] if x)
+    return card(title, "", meta)
 
 # People: sub-headings "People – ..." start a new block, other headings ("Current") a sub-group
 people = [{"title": S["People"]["title"], "groups": [{"name": "", "items": []}]}]
