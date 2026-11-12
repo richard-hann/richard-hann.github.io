@@ -6,3 +6,11 @@ author_profile: true
 ---
 
 {% include cards.html items=site.data.folk.teaching_cards %}
+
+{% if site.data.folk.fieldwork.size > 0 %}
+<h2 class="pubs-year">{{ site.data.folk.fieldwork_title }}</h2>
+<ul class="folk-list">
+{% for p in site.data.folk.fieldwork %}  <li>{{ p }}</li>
+{% endfor %}</ul>
+{% endif %}
+

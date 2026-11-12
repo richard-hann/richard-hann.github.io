@@ -243,6 +243,21 @@ def teaching_card(i):
         title, _, rest = t.partition(", ")
     return card(title, href, html.escape(dots(rest), quote=False))
 
+def project_card(i):
+    t = i["t"]; lt, href = main_link(i)
+    # Only treat " – " as a structural title separator if no period precedes it
+    # (a period before the dash means it’s a date-range, not title–description)
+    dash_pos = t.find(" – ")
+    if dash_pos > 0 and "." not in t[:dash_pos]:
+        title, rest = t[:dash_pos], t[dash_pos + 3:]
+    else:
+        m = re.match(r"^(.+?)\. (.*)", t, re.DOTALL)
+        if m:
+            title, rest = m.group(1), m.group(2)
+        else:
+            title, rest = t, ""
+    return card(title.strip(), href, html.escape(dots(rest.strip(" .")), quote=False))
+
 # People: sub-headings "People – ..." start a new block, other headings ("Current") a sub-group
 people = [{"title": S["People"]["title"], "groups": [{"name": "", "items": []}]}]
 for i in S["People"]["items"]:
@@ -280,8 +295,15 @@ folk = {
     "funding_title": S["Funding"]["title"], "funding_header": in_parens(S["Funding"]["title"]),
     "funding": flist(S["Funding"]["items"]),
     "funding_cards": [funding_card(i) for i in entries(S["Funding"])],
+    "projects_cards": [project_card(i) for i in
+                       [j for j in S["Research_projects"]["items"] if j.get("entry")]
+                       if not i["t"].startswith(("Guest Editor", "AIAA Atmospheric", "EUROCAE",
+                           "SAE Technical", "Svalbard Integrated", "Conference host",
+                           "Session chair", "Scientific committee", "Reviewer"))],
     "projects_title": S["Research_projects"]["title"], "projects": projects,
     "engagement_title": eng_title or "Academic Engagement & Workgroups", "engagement": engagement,
+    "fieldwork_title": S["Fieldwork"]["title"] if "Fieldwork" in S else "Fieldwork",
+    "fieldwork": flist(S["Fieldwork"]["items"]) if "Fieldwork" in S else [],
 }
 with open(os.path.join(ROOT, "_data", "folk.yml"), "w", encoding="utf-8") as f:
     json.dump(folk, f, ensure_ascii=False, indent=1)          # JSON is valid YAML

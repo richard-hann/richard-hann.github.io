@@ -926,6 +926,112 @@
    "year": ""
   }
  ],
+ "projects_cards": [
+  {
+   "title": "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs)",
+   "url": "",
+   "meta": "Funded by the Research Council of Norway (IKTPLUSS). 2020 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Center of Excellence, Autonomous Marine Operations and Systems (AMOS)",
+   "url": "http://www.ntnu.edu/amos",
+   "meta": "Funded by the Research Council of Norway, NTNU, Equinor, DNV GL and the Sintef Group. 2016 – 2023",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "NTNU Unmanned Aerial Vehicles Laboratory (UAV-lab)",
+   "url": "http://www.itk.ntnu.no/english/lab/unmanned",
+   "meta": "2016 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "NTNU Unmanned Aerial Vehicles Icing Laboratory (UAV Icing Lab)",
+   "url": "http://www.uavicinglab.com/",
+   "meta": "2021 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "UAV Crevasse",
+   "url": "https://www.researchinsvalbard.no/project/9044",
+   "meta": "Using UAVs to investigate effects of crevasses upon glacier surface melting (RIS-ID 11148). 2019 – 2022",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Arctic ABL Wind",
+   "url": "https://www.researchinsvalbard.no/project/9389",
+   "meta": "Novel method for wind measurements in the arctic atmospheric boundary layer (RIS-ID 11372). 2020 – 2021",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "2nd AIAA Ice Prediction Workshop (IPW)",
+   "url": "http://folk.ntnu.no/richahan/IPW/",
+   "meta": "2022 – 2023",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "1st AIAA Ice Prediction Workshop (IPW)",
+   "url": "http://folk.ntnu.no/richahan/IPW/",
+   "meta": "2020 – 2021",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "D•ICE ROTORS",
+   "url": "http://www.ubiqaerospace.com/",
+   "meta": "Protecting the unmanned aircraft industry, funded by Research Council of Norway (BIA) and UBIQ Aerospace. 2019 – 2022",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "Centre for integrated remote sensing and forecasting for arctic operations (CIRFA)",
+   "url": "http://cirfa.uit.no/",
+   "meta": "2016 – 2020",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "NATO AVT-388",
+   "url": "",
+   "meta": "Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments · Co-chair. 2023 – today",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "NATO AVT-ET-214",
+   "url": "",
+   "meta": "Operation of Unmanned Aerial Vehicles (UAVs) in Icing Environments · Co-chair. 2020 – 2022",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  },
+  {
+   "title": "NATO AVT-299",
+   "url": "",
+   "meta": "Assessment of Anti-Icing and De-Icing Technologies for Air and Sea Vehicles · Participant. 2018 – 2021",
+   "doi": "",
+   "cite": "",
+   "year": ""
+  }
+ ],
  "projects_title": "Research Projects",
  "projects": [
   "Icing effects, detection and mitigation on unmanned aerial vehicles (UAVs). Funded by the Research Council of Norway (IKTPLUSS). 2020 – today.",
@@ -956,5 +1062,23 @@
   "Guest Editor for the Special Issue <a href=\"https://www.mdpi.com/journal/drones/special_issues/atmos_US\">\"Atmospheric Measurements Using Unmanned Systems\"</a> in Drones, 2020-2021.",
   "Reviewer for several journals. See <a href=\"https://www.webofscience.com/wos/author/record/GRR-6397-2022\">Publons</a>.",
   "Reviewer for AIAA AVIATION Atmospheric and Space Environments (2022) and SAE International Conference on Icing of Aircraft, Engines, and Structures (2023)."
+ ],
+ "fieldwork_title": "Fieldwork",
+ "fieldwork": [
+  "2026 Circumnavigation of Svalbard and drone-based mapping of marine terminating glacivers (Svalbard)",
+  "2025 Drone-based mapping of Borebreen and Rindersbukta (Svalbard)",
+  "2024 Deployment of seismics sensors on Borebreen with helicopter transport (Svalbard)",
+  "2024 Drone-based mapping of Borebreen (Svalbard)",
+  "2023 Drone-based mapping of Borebreen (Svalbard)",
+  "2023 Drone-based mapping of surging glaciers in Rindersbukta (Svalbard)",
+  "2022 Drone-based mapping of surging glaciers in Rindersbukta (Svalbard)",
+  "2021 Drone-based reindeer counting in Sassendalen (Svalbard)",
+  "2020 Drone-based costal erosion monitoring in Hjiorthhamn (Svalbard)",
+  "2020 Drone-based glacier crevasse mapping and atmospheric profiling (Svalbard)",
+  "2019 Drone-based glacier crevasse mapping and atmospheric profiling (Svalbard)",
+  "2017 Black carbon sampling with spectroscopy (Svalbard)",
+  "2013 Sediment coring from sea ice in Templefjorden (Svalbard)",
+  "2013 Research cruise for atmospheric pollution to Wijdefjorden (Svalbard)",
+  "2012 Research cruise for atmospheric pollution and insitu oil spill burning to Raudfjorden (Svalbard)"
  ]
 }
