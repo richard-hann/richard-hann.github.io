@@ -2172,10 +2172,10 @@
     },
     {
      "y": "",
-     "t": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard) – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
+     "t": "UAV4Svalbard Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard) – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
      "links": [
       [
-       "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
+       "UAV4Svalbard",
        "https://sios-svalbard.org/UAV4Svalbard"
       ]
      ],
@@ -2271,13 +2271,23 @@
     {
      "y": "",
      "t": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA). 0.5MEUR total 5.0MEUR). Co-principal investigator.",
-     "links": [],
+     "links": [
+      [
+       "Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)",
+       "https://doi.org/10.3030/101353981"
+      ]
+     ],
      "entry": true
     },
     {
      "y": "",
-     "t": "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01: Smart Solutions for Climate/Environment-Neutral Arctic Research Infrastructures (SUSTAIN-ICE). 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
-     "links": [],
+     "t": "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01: Advancing Climate-Neutral Research in the Arctic and Sub-Arctic Regions (SUSTAIN-ARCTIC). 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
+     "links": [
+      [
+       "Advancing Climate-Neutral Research in the Arctic and Sub-Arctic Regions (SUSTAIN-ARCTIC)",
+       "https://doi.org/10.3030/101293120"
+      ]
+     ],
      "entry": true
     },
     {
@@ -2859,5 +2869,5 @@
   }
  },
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "lastModified": "Thu, 12 Nov 2026 10:44:14 GMT"
+ "lastModified": "Thu, 19 Nov 2026 21:15:45 GMT"
 }

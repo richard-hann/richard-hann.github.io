@@ -1,6 +1,6 @@
 {
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "last_modified": "Thu, 12 Nov 2026 10:44:14 GMT",
+ "last_modified": "Thu, 19 Nov 2026 21:15:45 GMT",
  "publications_title": "Publications (Total: 92 / Journal: 25 / Conference: 45 / Book chapters: 1 / Other: 21)",
  "presentations_title": "Presentations and Invited Talks (Total: 50 presentations)",
  "datasets_title": "Datasets (Total: 21 datasets)",
@@ -609,7 +609,7 @@
   "<a href=\"https://puls-qis.uni-potsdam.de/qisserver/rds?state=verpublish&amp;status=init&amp;vmfile=no&amp;moduleCall=modulansicht&amp;publishConfFile=modulverwaltung&amp;publishSubDir=up/modulbearbeiter&amp;modul.modul_id=3774\">GEE-M-MK2 Innovative Field Methods</a> (Innovative Feldmethoden, Datenerhebung im Gelände) – guest lecturer. University of Potsdam, 2025.",
   "<a href=\"https://www.unis.no/course/agf-350-the-arctic-atmospheric-boundary-layer-and-local-climate-processes/\">AGF-350/850</a> The Arctic Atmospheric Boundary Layer and Local Climate Processes (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2020, 2022, and 2024.",
   "<a href=\"https://www.unis.no/courses/agf-312-remote-sensing-of-the-cryosphere/\">AGF-312</a> Remote Sensing of the Cryosphere (10 ECTS) – guest lecturer, University Centre in Svalbard (UNIS), 2023.",
-  "<a href=\"https://sios-svalbard.org/UAV4Svalbard\">Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)</a> – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
+  "<a href=\"https://sios-svalbard.org/UAV4Svalbard\">UAV4Svalbard</a> Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard) – main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023.",
   "Unmanned Aerial Vehicle: Environmental Applications – Advanced Level – guest lecturer, University of Silesia in Katowice, 2022.",
   "<a href=\"https://www.unis.no/course/ag-204-the-physical-geography-of-svalbard/\">AG-204</a>/<a href=\"https://www.unis.no/course/ag-221-arctic-physical-geographical-field-techniques/\">221</a> The Physical Geography of Svalbard (15 ECTS) – guest lecturer. University Centre in Svalbard (UNIS), 2019 &amp; 2021.",
   "<a href=\"https://sios-svalbard.org/TRST_2020\">TRST</a> Terrestrial Remote Sensing Training – guest lecturer, Svalbard Integrated Earth Observing System (SIOS), 2020.",
@@ -677,7 +677,7 @@
    "year": ""
   },
   {
-   "title": "Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
+   "title": "UAV4Svalbard Training course on Uncrewed Aerial Vehicles in Svalbard (UAV4Svalbard)",
    "url": "https://sios-svalbard.org/UAV4Svalbard",
    "meta": "main instructor, Svalbard Integrated Arctic Earth Observing System (SIOS), 2023",
    "doi": "",
@@ -752,8 +752,8 @@
  "funding_title": "Funding (16× National: 56.1MNOK & 4× EU: 2.4MEUR)",
  "funding_header": "16× National: 56.1MNOK & 4× EU: 2.4MEUR",
  "funding": [
-  "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA). 0.5MEUR total 5.0MEUR). Co-principal investigator.",
-  "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01: Smart Solutions for Climate/Environment-Neutral Arctic Research Infrastructures (SUSTAIN-ICE). 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
+  "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: <a href=\"https://doi.org/10.3030/101353981\">Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)</a>. 0.5MEUR total 5.0MEUR). Co-principal investigator.",
+  "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01: <a href=\"https://doi.org/10.3030/101293120\">Advancing Climate-Neutral Research in the Arctic and Sub-Arctic Regions (SUSTAIN-ARCTIC)</a>. 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
   "Research Council of Norway, 2026-2029, project number 359116. <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/359116\">Industrial PhD on Ice Detection with LiDAR</a>. 4.6MNOK. Co-principal investigator.",
   "Research Council of Norway, 2025-2030, project number 357451. <a href=\"https://www.ntnu.edu/ncei\">Norwegian Centre for Embodied AI (NCEI)</a>. 5.0MNOK (total 200MNOK). Co-principal investigator.",
   "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: <a href=\"https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf\">Advanced capabilities &amp; Certification for Tactical UAV Systems (ACTUS)</a>. 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
@@ -776,15 +776,15 @@
  "funding_cards": [
   {
    "title": "Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)",
-   "url": "",
+   "url": "https://doi.org/10.3030/101353981",
    "meta": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01 · 0.5MEUR total 5.0MEUR) · Co-principal investigator",
    "doi": "",
    "cite": "",
    "year": ""
   },
   {
-   "title": "Smart Solutions for Climate/Environment-Neutral Arctic Research Infrastructures (SUSTAIN-ICE)",
-   "url": "",
+   "title": "Advancing Climate-Neutral Research in the Arctic and Sub-Arctic Regions (SUSTAIN-ARCTIC)",
+   "url": "https://doi.org/10.3030/101293120",
    "meta": "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01 · 0.5MEUR (total 5.0MEUR) · Co-principal investigator",
    "doi": "",
    "cite": "",
