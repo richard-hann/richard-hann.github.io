@@ -1,6 +1,6 @@
 {
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "last_modified": "Thu, 19 Nov 2026 21:15:45 GMT",
+ "last_modified": "Fri, 20 Nov 2026 09:23:00 GMT",
  "publications_title": "Publications (Total: 92 / Journal: 25 / Conference: 45 / Book chapters: 1 / Other: 21)",
  "presentations_title": "Presentations and Invited Talks (Total: 50 presentations)",
  "datasets_title": "Datasets (Total: 21 datasets)",
@@ -752,11 +752,11 @@
  "funding_title": "Funding (16× National: 56.1MNOK & 4× EU: 2.4MEUR)",
  "funding_header": "16× National: 56.1MNOK & 4× EU: 2.4MEUR",
  "funding": [
-  "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: <a href=\"https://doi.org/10.3030/101353981\">Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)</a>. 0.5MEUR total 5.0MEUR). Co-principal investigator.",
+  "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: <a href=\"https://doi.org/10.3030/101353981\">Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)</a>. 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
   "Horizon Europe, 2026-2030, HORIZON-INFRA-2025-01-TECH-01: <a href=\"https://doi.org/10.3030/101293120\">Advancing Climate-Neutral Research in the Arctic and Sub-Arctic Regions (SUSTAIN-ARCTIC)</a>. 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
   "Research Council of Norway, 2026-2029, project number 359116. <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/359116\">Industrial PhD on Ice Detection with LiDAR</a>. 4.6MNOK. Co-principal investigator.",
   "Research Council of Norway, 2025-2030, project number 357451. <a href=\"https://www.ntnu.edu/ncei\">Norwegian Centre for Embodied AI (NCEI)</a>. 5.0MNOK (total 200MNOK). Co-principal investigator.",
-  "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: <a href=\"https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf\">Advanced capabilities &amp; Certification for Tactical UAV Systems (ACTUS)</a>. 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
+  "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: <a href=\"https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf\">Advanced Capabilities &amp; Certification for Tactical UAV Systems (ACTUS)</a>. 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
   "European Defense Fund, 2023-2026, EDF-2022-LS-RA-SMERO-NT-TDRIC: <a href=\"https://defence-industry-space.ec.europa.eu/system/files/2023-06/TDRIC-Factsheet_EDF22.pdf\">Tactical Drones in Rain and Icing Conditions (TDRIC)</a>. 0.8MEUR (total 4.0MEUR). Co-principal investigator.",
   "Research Council of Norway, 2024-2027, project number 350469. <a href=\"https://prosjektbanken.forskningsradet.no/project/FORISS/350469\">Zero Ice Shield: D•ICE Ice Protection for Aviation's Green Evolution</a>. 9.1MNOK. Co-principal investigator.",
   "Research Council of Norway, 2024, project number 350269: <a href=\"https://prosjektbanken.forskningsradet.no/en/project/FORISS/350269\">Linking past and present surge dynamics at Borebreen from drone surveys</a>. 80kNOK. Investigator.",
@@ -777,7 +777,7 @@
   {
    "title": "Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)",
    "url": "https://doi.org/10.3030/101353981",
-   "meta": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01 · 0.5MEUR total 5.0MEUR) · Co-principal investigator",
+   "meta": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01 · 0.5MEUR (total 5.0MEUR) · Co-principal investigator",
    "doi": "",
    "cite": "",
    "year": ""
@@ -807,7 +807,7 @@
    "year": ""
   },
   {
-   "title": "Advanced capabilities &amp; Certification for Tactical UAV Systems (ACTUS)",
+   "title": "Advanced Capabilities &amp; Certification for Tactical UAV Systems (ACTUS)",
    "url": "https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf",
    "meta": "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS · 0.6MEUR (total 42.0MEUR) · Co-principal investigator",
    "doi": "",

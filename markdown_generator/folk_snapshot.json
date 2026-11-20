@@ -93,7 +93,7 @@
     },
     {
      "y": "2026",
-     "t": "Müller, N.C., Villeneuve, E., Hann, R. (2026). UAV Icing: Comparison of 2D and 3D Numerical Tools for the Predictions of the Ice Accretion on UAV Propellers. AIAA 2026-4284. AIAA AVIATION 2026 Forum. doi.org/10.2514/6.2026-4284",
+     "t": "Müller, N.C., Hann, R. (2026). UAV Icing: Comparison of 2D and 3D Numerical Tools for the Predictions of the Ice Accretion on UAV Propellers. AIAA 2026-4284. AIAA AVIATION 2026 Forum. doi.org/10.2514/6.2026-4284",
      "links": [
       [
        "UAV Icing: Comparison of 2D and 3D Numerical Tools for the Predictions of the Ice Accretion on UAV Propellers",
@@ -1059,7 +1059,7 @@
     },
     {
      "y": "2026",
-     "t": "Hann, R. (2026). SESS Report Release: Third update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, Online.",
+     "t": "Hann, R. (2026). SESS Report Release: Third update to Scientific Applications of Unmanned Vehicles in Svalbard. SIOS Polar Night Week, online.",
      "links": [],
      "entry": true
     },
@@ -1095,7 +1095,7 @@
     },
     {
      "y": "2025",
-     "t": "Hann, R. (2025). Arctic Drone Applications for FAIR Data Management. NTNU Research Data Infrastructure Day, invited speaker, Trondheim.",
+     "t": "Hann, R. (2025). Arctic Drone Applications for FAIR Data Management. Invited speaker, NTNU Research Data Infrastructure Day, Trondheim.",
      "links": [],
      "entry": true
     },
@@ -1113,7 +1113,7 @@
     },
     {
      "y": "2025",
-     "t": "Hann, R. (2025). Drones in the Arctic – cold climate challenges for UAVs. Invited Speaker. Cold Weather Operations Conference (CWOC), Hamar.",
+     "t": "Hann, R. (2025). Drones in the Arctic – cold climate challenges for UAVs. Invited speaker, Cold Weather Operations Conference (CWOC), Hamar.",
      "links": [],
      "entry": true
     },
@@ -1131,13 +1131,13 @@
     },
     {
      "y": "2024",
-     "t": "Hann, R. (2024). The icing barrier for clean aviation. NTNU and Rolls Royce Clean Aviation Evening, Trondheim.",
+     "t": "Hann, R. (2024). The icing barrier for clean aviation. NTNU and Rolls-Royce Clean Aviation Evening, Trondheim.",
      "links": [],
      "entry": true
     },
     {
      "y": "2024",
-     "t": "Hermanson, M.H., Isaksson, E, Hann, R., Gabrielsen, G.W. (2024). Frozen Pollutants: Organic Contaminants in Svalbard Snow & Ice. Arctic Frontiers Conference 2024, Tromsø.",
+     "t": "Hermanson, M.H., Isaksson, E., Hann, R., Gabrielsen, G.W. (2024). Frozen Pollutants: Organic Contaminants in Svalbard Snow & Ice. Arctic Frontiers Conference 2024, Tromsø.",
      "links": [],
      "entry": true
     },
@@ -1154,7 +1154,7 @@
     },
     {
      "y": "2024",
-     "t": "Harcourt, W.D, Gajek, W., Pearce, D., Hann, R., Luckman, A., Rea, B.R., Benn, D.I., James, M.R, Spagnolo, M., Nanni, U. (2024). Surge initiation at the terminus of Borebreen (Svalbard): Drivers and impact on calving. General Assembly of the European Geosciences Union, EGU24, Vienna.",
+     "t": "Harcourt, W.D., Gajek, W., Pearce, D., Hann, R., Luckman, A., Rea, B.R., Benn, D.I., James, M.R, Spagnolo, M., Nanni, U. (2024). Surge initiation at the terminus of Borebreen (Svalbard): Drivers and impact on calving. General Assembly of the European Geosciences Union, EGU24, Vienna.",
      "links": [
       [
        "Surge initiation at the terminus of Borebreen (Svalbard): Drivers and impact on calving",
@@ -1299,7 +1299,7 @@
     },
     {
      "y": "2020",
-     "t": "Müller, N., Hann, R., Lutz, T. (2020). The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Propeller, Deutscher Luft- und Raumfahrtkongress (DLRK), online.",
+     "t": "Müller, N., Hann, R., Lutz, T. (2020). The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Propeller. Deutscher Luft- und Raumfahrtkongress (DLRK), online.",
      "links": [
       [
        "The Influence of Meteorological Conditions on the Icing Performance Penalties on a UAV Propeller",
@@ -2270,7 +2270,7 @@
    "items": [
     {
      "y": "",
-     "t": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA). 0.5MEUR total 5.0MEUR). Co-principal investigator.",
+     "t": "Clean Aviation, HORIZON-JU-CLEAN-AVIATION-2026-04-FTA-01: Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA). 0.5MEUR (total 5.0MEUR). Co-principal investigator.",
      "links": [
       [
        "Development and Demonstration of a Smart, Low-power, Hybrid Ice Protection System for Ultra-Efficient Regional Aircraft (DELIA)",
@@ -2314,10 +2314,10 @@
     },
     {
      "y": "",
-     "t": "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: Advanced capabilities & Certification for Tactical UAV Systems (ACTUS). 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
+     "t": "European Defense Fund, 2024-2027, EDF-2023-DA-C4ISR-TRPAS: Advanced Capabilities & Certification for Tactical UAV Systems (ACTUS). 0.6MEUR (total 42.0MEUR). Co-principal investigator.",
      "links": [
       [
-       "Advanced capabilities & Certification for Tactical UAV Systems (ACTUS)",
+       "Advanced Capabilities & Certification for Tactical UAV Systems (ACTUS)",
        "https://defence-industry-space.ec.europa.eu/document/download/8817c0c4-dedb-46e2-9d02-30be8da42b24_en?filename=EDF-2023-DA-C4ISR-TRPAS%20ACTUS.pdf"
       ]
      ],
@@ -2869,5 +2869,5 @@
   }
  },
  "source": "https://richahan.folk.ntnu.no/index.htm",
- "lastModified": "Thu, 19 Nov 2026 21:15:45 GMT"
+ "lastModified": "Fri, 20 Nov 2026 09:23:00 GMT"
 }
